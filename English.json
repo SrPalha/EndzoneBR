@@ -187,7 +187,7 @@
     },
     {
       "k": 255,
-      "v": "Abobrinha"
+      "v": "Abobora"
     },
     {
       "k": 256,
@@ -3795,7 +3795,7 @@
     },
     {
       "k": 1056,
-      "v": "Maximum No. of Inhabitants: <<adultsAmount>> Adultos and <<childAmount>> Crianças."
+      "v": "Maximum No. of Inhabitants: <<adultsAmount>> Adultos and <<CriançaAmount>> Crianças."
     },
     {
       "k": 824,
@@ -4627,15 +4627,15 @@
     },
     {
       "k": 928,
-      "v": "Child"
+      "v": "Criança"
     },
     {
       "k": 929,
-      "v": "Student"
+      "v": "Estudante"
     },
     {
       "k": 930,
-      "v": "Young Adult"
+      "v": "Jovem Adulto"
     },
     {
       "k": 931,
@@ -4643,59 +4643,59 @@
     },
     {
       "k": 932,
-      "v": "Old Adult"
+      "v": "Adulto velho"
     },
     {
       "k": 933,
-      "v": "Very Old Adult"
+      "v": "Adulto idoso"
     },
     {
       "k": 934,
-      "v": "Child"
+      "v": "Criança"
     },
     {
       "k": 935,
-      "v": "Student"
+      "v": "Estudante"
     },
     {
       "k": 936,
-      "v": "Young Adult"
+      "v": "Jovem Adulto"
     },
     {
       "k": 937,
-      "v": "Adult"
+      "v": "Adulto"
     },
     {
       "k": 938,
-      "v": "Old Adult"
+      "v": "Adulto velho"
     },
     {
       "k": 939,
-      "v": "Very Old Adult"
+      "v": "Adulto idoso"
     },
     {
       "k": 2301,
-      "v": "Crianças help their Families to transport Comida and Água to their home. They can be educated in a School as long as they are childs to make them grow up to educated Adultos."
+      "v": "As crianças ajudam suas famílias a transportar Comida e Água para sua casa. Eles podem ser educados em uma escola, desde que sejam crianças, para fazê-los crescer e se tornar adultos instruídos.."
     },
     {
       "k": 2302,
-      "v": "Young Adultos are Settlers that recently became Adultos and are potential new workforce that can be distributed to different Professions. If they are provided with a suitable place to start a family they try to find a partner to grow the population of the settlement."
+      "v": "Os Jovens Adultos são colonos que recentemente se tornaram Adultos e são uma nova força de trabalho em potencial que pode ser distribuída para diferentes profissões. Se eles recebem um local adequado para começar uma família, tentam encontrar um parceiro para aumentar a população do assentamento.."
     },
     {
       "k": 2303,
-      "v": "Adultos are Settlers, that might be old enough to have proven themselves worthy in a specific profession. In this case they are rewarded with a Badge. Adultos are still fertile and might help to grow the population of the settlement."
+      "v": "Os adultos são colonos, que podem ter idade suficiente para se provar dignos em uma profissão específica. Nesse caso, eles são recompensados com um emblema. Os adultos ainda são férteis e podem ajudar a aumentar a população do assentamento."
     },
     {
       "k": 2304,
-      "v": "Old Adultos are no longer fertile and can't help to grow the population of the settlement anymore. They are likely to be rewarded with a Badge for a specific Profession."
+      "v": "Os idosos não são mais férteis e não podem mais ajudar a aumentar a população do assentamento. É provável que sejam recompensados com um distintivo por uma profissão específica."
     },
     {
       "k": 2305,
-      "v": "Very Old Adultos will die any time soon. If there are free Settlers available in case of their Death they can be replaced in their current Profession."
+      "v": "Os Adultos Muito Velhos morrerão tão cedo. Se houver Colonos gratuitos disponíveis em caso de sua Morte, eles poderão ser substituídos em sua Profissão atual."
     },
     {
       "k": 2306,
-      "v": "This Settler has passed away. A Mortician should burry this Settler to give his relatives a place to mourn."
+      "v": "Este Colono faleceu. Um agente funerário deve se casar com este colono para dar a seus parentes um lugar para lamentar."
     },
     {
       "k": 943,
@@ -5839,7 +5839,7 @@
     },
     {
       "k": 1888,
-      "v": "Educated Settlers complete every Task assigned to them faster than Uneducated Settlers.\nEducated Settlers are also able to utilize their <link=\"12\"><u>Tools</u></link> and <link=\"11\"><u>protective clothing</u></link> more effectively.\nTheir Tools and protective clothing last twice as long. \nThe more settlers who are educated, the more efficiently your settlement will function. To be regarded as educated, the settler must have gone to school during his/her childhood."
+      "v": "Educated Settlers complete every Task assigned to them faster than Uneducated Settlers.\nEducated Settlers are also able to utilize their <link=\"12\"><u>Tools</u></link> and <link=\"11\"><u>protective clothing</u></link> more effectively.\nTheir Tools and protective clothing last twice as long. \nThe more settlers who are educated, the more efficiently your settlement will function. To be regarded as educated, the settler must have gone to school during his/her Criançahood."
     },
     {
       "k": 1889,
