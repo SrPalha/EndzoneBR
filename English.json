@@ -4131,11 +4131,11 @@
     },
     {
       "k": 724,
-      "v": "Production Limit: <<maxCap>>"
+      "v": "Limite de produção: <<maxCap>>"
     },
     {
       "k": 2331,
-      "v": "In Stock: <<availableAmount>>\nReserved: <<reservedAmount>>"
+      "v": "No estoque: <<availableAmount>>\nReservado: <<reservedAmount>>"
     },
     {
       "k": 725,
@@ -5863,7 +5863,7 @@
     },
     {
       "k": 1893,
-      "v": "Production Limits"
+      "v": "Limites de produção"
     },
     {
       "k": 1894,
