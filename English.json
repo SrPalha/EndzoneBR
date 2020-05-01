@@ -463,11 +463,11 @@
     },
     {
       "k": 277,
-      "v": "Naufrágio do ônibus"
+      "v": "Onibus quebrado"
     },
     {
       "k": 1220,
-      "v": "Barramento montado"
+      "v": "Onibus Casa"
     },
     {
       "k": 1221,
@@ -3359,11 +3359,11 @@
     },
     {
       "k": 2319,
-      "v": "(optional) Enter a description for your savegame."
+      "v": "(opcional) DESCRIÇÃO DO JOGO SALVO"
     },
     {
       "k": 2320,
-      "v": "Saving"
+      "v": "Salvando"
     },
     {
       "k": 2257,
@@ -4951,7 +4951,7 @@
     },
     {
       "k": 2298,
-      "v": "Early Access"
+      "v": "Acesso antecipado"
     },
     {
       "k": 1153,
