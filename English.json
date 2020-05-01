@@ -1923,7 +1923,7 @@
     },
     {
       "k": 2196,
-      "v": "Focus the next building of this type with the camera"
+      "v": "Focalize a próxima construção deste tipo com a câmera"
     },
     {
       "k": 520,
@@ -1939,7 +1939,7 @@
     },
     {
       "k": 522,
-      "v": "Rendimento da colheita"
+      "v": "Rendimento"
     },
     {
       "k": 523,
@@ -1963,23 +1963,23 @@
     },
     {
       "k": 527,
-      "v": "Our Scouts discovered an interesting-looking building at one of the abandoned sites. It wasn't in good condition. That's why we ought to take the right Tools with us. Maybe some basic construction material might come in handy, too, just in case we have to find another way in."
+      "v": "Nossos escoteiros descobriram um edifício de aparência interessante em um dos locais abandonados. Não estava em boas condições. É por isso que devemos levar as ferramentas certas conosco. Talvez algum material de construção básico também possa ser útil, caso tenhamos que encontrar outra maneira de entrar."
     },
     {
       "k": 538,
-      "v": "It's a pretty run-down building - the roof has partially caved in. On the other hand, the sign in front looks like one we had on the doors to the medical ward in the Endzone. Could be worth taking a look!"
+      "v": "É um edifício bastante degradado - o telhado cedeu parcialmente. Por outro lado, a placa na frente parece uma que tínhamos nas portas da enfermaria médica na zona final. Pode valer a pena dar uma olhada!"
     },
     {
       "k": 1096,
-      "v": "Gain Access"
+      "v": "Ganhar acesso"
     },
     {
       "k": 1097,
-      "v": "We should try to find a way to get in. Maybe we'll find some material."
+      "v": "Deveríamos tentar encontrar uma maneira de entrar. Talvez encontremos algum material."
     },
     {
       "k": 1098,
-      "v": "Get going!"
+      "v": "Vá em frente!"
     },
     {
       "k": 1099,
@@ -1987,255 +1987,255 @@
     },
     {
       "k": 696,
-      "v": "Use the Tools we brought along to get in through the door."
+      "v": "Use as ferramentas que trouxemos para entrar pela porta."
     },
     {
       "k": 533,
-      "v": "We forced the door open. Maybe we'll find something inside."
+      "v": "Nós forçamos a porta a abrir. Talvez encontremos algo dentro."
     },
     {
       "k": 534,
-      "v": "We didn't find anything. But we could try again in a few days."
+      "v": "Não encontramos nada. Mas poderíamos tentar novamente em alguns dias."
     },
     {
       "k": 531,
-      "v": "Roof"
+      "v": "Cobertura"
     },
     {
       "k": 1100,
-      "v": "Let's try to climb in through the roof!"
+      "v": "Vamos tentar subir através do telhado!"
     },
     {
       "k": 532,
-      "v": "We climbed in through a hole in the roof and no one was hurt! Maybe we can find something inside."
+      "v": "Entramos por um buraco no telhado e ninguém ficou ferido! Talvez possamos encontrar algo dentro."
     },
     {
       "k": 695,
-      "v": "Damn it, chief! One of us burst through the roof and busted a leg! But we did manage to open the door from the inside. Maybe we can find something."
+      "v": "Droga, chefe! Um de nós atravessou o telhado e quebrou uma perna! Mas conseguimos abrir a porta por dentro. Talvez possamos encontrar algo."
     },
     {
       "k": 539,
-      "v": "Search Through Everything!"
+      "v": "Pesquisa através de tudo!"
     },
     {
       "k": 530,
-      "v": "We found a way in. It's time to search through everything!"
+      "v": "Nós encontramos uma maneira de entrar. É hora de pesquisar tudo!"
     },
     {
       "k": 1101,
-      "v": "Start searching!"
+      "v": "Comece a pesquisar!"
     },
     {
       "k": 1102,
-      "v": "Library"
+      "v": "Biblioteca"
     },
     {
       "k": 1103,
-      "v": "Let's take a look in the library!"
+      "v": "Vamos dar uma olhada na biblioteca!"
     },
     {
       "k": 1104,
-      "v": "We found some interesting books! Maybe we can learn something about Medicine from them."
+      "v": "Encontramos alguns livros interessantes! Talvez possamos aprender algo sobre Medicina com eles."
     },
     {
       "k": 1105,
-      "v": "Unfortunately, we didn't find anything useful. <<dynamicmessage>>"
+      "v": "Infelizmente, não encontramos nada útil. <<dynamicmessage>>"
     },
     {
       "k": 1106,
-      "v": "Maybe we might find something if we come back with someone who's smarter."
+      "v": "Talvez possamos encontrar algo se voltarmos com alguém mais inteligente."
     },
     {
       "k": 1107,
-      "v": "Operating Table"
+      "v": "Mesa de operação"
     },
     {
       "k": 1108,
-      "v": "Let's take a look at the operating table!"
+      "v": "Vamos dar uma olhada na mesa de operações!"
     },
     {
       "k": 1109,
-      "v": "We found several types of medications and some electronic devices! That could really help in the event of an epidemic."
+      "v": "Encontramos vários tipos de medicamentos e alguns dispositivos eletrônicos! Isso poderia realmente ajudar no caso de uma epidemia."
     },
     {
       "k": 1110,
-      "v": "Unfortunately, we didn't find anything useful. <<dynamicmessage>>"
+      "v": "Infelizmente, não encontramos nada útil. <<dynamicmessage>>"
     },
     {
       "k": 1111,
-      "v": "Maybe we might find something if we come back with someone who has a good grasp of this subject."
+      "v": "Talvez possamos encontrar algo se voltarmos com alguém que tenha uma boa compreensão desse assunto.."
     },
     {
       "k": 1117,
-      "v": "Search the Surrounding Area"
+      "v": "Pesquise a área circundante"
     },
     {
       "k": 1118,
-      "v": "Maybe we'll find something if we search the surrounding area..."
+      "v": "Talvez encontremos algo se procurarmos nos arredores..."
     },
     {
       "k": 1119,
-      "v": "Search!"
+      "v": "Procurar!"
     },
     {
       "k": 1120,
-      "v": "Backyard"
+      "v": "Quintal"
     },
     {
       "k": 1121,
-      "v": "Let's take a look in the backyard"
+      "v": "Vamos dar uma olhada no quintal"
     },
     {
       "k": 1122,
-      "v": "We found some Scrap we can use."
+      "v": "Encontramos algumas sucatas que podemos usar."
     },
     {
       "k": 1123,
-      "v": "We didn't find anything, but we could try again some other time!"
+      "v": "Não encontramos nada, mas poderíamos tentar novamente outra hora!"
     },
     {
       "k": 1124,
-      "v": "More Doors"
+      "v": "Mais portas"
     },
     {
       "k": 1125,
-      "v": "Maybe we'll find more doors inside the House."
+      "v": "Talvez encontremos mais portas dentro da casa."
     },
     {
       "k": 1126,
-      "v": "We found the entrance to the basement. The door was hidden behind vines."
+      "v": "Encontramos a entrada do porão. A porta estava escondida atrás de videiras."
     },
     {
       "k": 1127,
-      "v": "We didn't find any other entrance, but we can try again some other time."
+      "v": "Não encontramos outra entrada, mas podemos tentar novamente outra hora."
     },
     {
       "k": 1128,
-      "v": "Front Yard"
+      "v": "Jardim da frente"
     },
     {
       "k": 1129,
-      "v": "Maybe we'll find something in the front yard..."
+      "v": "Talvez encontremos algo no jardim da frente..."
     },
     {
       "k": 1130,
-      "v": "We found some Metal!"
+      "v": "Encontramos algum metal!"
     },
     {
       "k": 1131,
-      "v": "We didn't find anything, but we could try again some other time!"
+      "v": "Não encontramos nada, mas podemos tentar novamente outra hora!"
     },
     {
       "k": 1134,
-      "v": "Search The Basement"
+      "v": "Pesquisar no Porão"
     },
     {
       "k": 1135,
-      "v": "Maybe we can find something down there."
+      "v": "Talvez possamos encontrar algo lá embaixo."
     },
     {
       "k": 1136,
-      "v": "Get moving!"
+      "v": "Mexa-se!"
     },
     {
       "k": 1137,
-      "v": "Go down"
+      "v": "Descer"
     },
     {
       "k": 1138,
-      "v": "Let's take a look down there. Looks like the basement is contaminated."
+      "v": "Vamos dar uma olhada lá em baixo. Parece que o porão está contaminado."
     },
     {
       "k": 1139,
-      "v": "Everything went smoothly! We found some Seeds down there!"
+      "v": "Tudo correu bem! Encontramos algumas sementes lá em baixo!"
     },
     {
       "k": 1140,
-      "v": "Some of us have been contaminated with Radiaçao. But we did find some Seeds down there!"
+      "v": "Alguns de nós foram contaminados com Radiaçao. Mas nós encontramos algumas sementes lá em baixo!"
     },
     {
       "k": 1182,
-      "v": "It’s a nuclear power plant! Those things devastated the world. Our elders told us that we ought to stay clear of them, but there still must be valuable Resources waiting inside. At the very least we'll need Tools and protective gear to get in."
+      "v": "É uma usina nuclear! Essas coisas devastaram o mundo. Nossos anciãos nos disseram que deveríamos ficar longe deles, mas ainda deve haver Recursos valiosos esperando lá dentro. No mínimo, precisaremos de ferramentas e equipamentos de proteção para entrar."
     },
     {
       "k": 1183,
-      "v": "Looks almost peaceful, if it weren't for the caved-in roof. That must've been one big bang! The remnants have still got to be emitting tons of Radiaçao. Just listen to that Geiger counter! <<dynamicmessage>>"
+      "v": "Parece quase pacífico, se não fosse pelo teto desabado. Deve ter sido um grande estrondo! Os remanescentes ainda devem emitir toneladas de radiação. Apenas ouça esse contador Geiger! <<dynamicmessage>>"
     },
     {
       "k": 1270,
-      "v": "Are you sure that we should be spending any time here? All of us ought to be wearing Radiaçao Suits if we don't want to catch the \"sickness\"."
+      "v": "Tem certeza de que devemos passar algum tempo aqui? Todos nós deveríamos usar ternos de Radiaçao se não quisermos pegar o \"sickness\"."
     },
     {
       "k": 1184,
-      "v": "Reactor Core"
+      "v": "Núcleo do reator"
     },
     {
       "k": 1185,
-      "v": "We can try to climb up the giant door to break in. <<dynamicmessage>> There's a rusty ladder up to the roof, too. From there we could try getting into the dome through the hole."
+      "v": "Podemos tentar subir a porta gigante para arrombar. <<dynamicmessage>> Há uma escada enferrujada até o telhado também. A partir daí, poderíamos tentar entrar na cúpula pelo buraco."
     },
     {
       "k": 1271,
-      "v": "Although it's going to be hard to open it with our bare hands."
+      "v": "Embora seja difícil abri-lo com nossas próprias mãos."
     },
     {
       "k": 1186,
-      "v": "Find a way into the reactor core!"
+      "v": "Encontre uma maneira de entrar no núcleo do reator!"
     },
     {
       "k": 1272,
-      "v": "Giant Door"
+      "v": "Porta gigante"
     },
     {
       "k": 1273,
-      "v": "Try to force the door open!"
+      "v": "Tente forçar a porta a abrir!"
     },
     {
       "k": 1274,
-      "v": "The door couldn't do a thing to stop the crowbar. Now the Geiger counter's going bananas. Are you really sure about this?"
+      "v": "A porta não podia fazer nada para parar o pé de cabra. Agora o contador geiger vai para o beleléu. Você realmente tem certeza disso?"
     },
     {
       "k": 1275,
-      "v": "This door may be old, but it still won't budge an inch. <<dynamicmessage>> Maybe we can find another way into the reactor core..."
+      "v": "Essa porta pode estar velha, mas ainda não se mexeu nem um centímetro. <<dynamicmessage>>  Talvez possamos encontrar outra maneira de entrar no núcleo do reator..."
     },
     {
       "k": 1276,
-      "v": "If we only had the right Tools with us..."
+      "v": "Se tivéssemos as ferramentas certas conosco..."
     },
     {
       "k": 1277,
-      "v": "Rusty Ladder"
+      "v": "Escada enferrujada"
     },
     {
       "k": 1278,
-      "v": "We could climb up that rusty ladder! <<dynamicmessage>>"
+      "v": "Poderíamos subir aquela escada enferrujada! <<dynamicmessage>>"
     },
     {
       "k": 1279,
-      "v": "But you know what, chief? We're not what you'd call nimble!"
+      "v": "Mas você sabe o que, chefe? Não somos o que você chamaria ágil!"
     },
     {
       "k": 1280,
-      "v": "The ladder broke apart as the last of us was climbing up it. But we made it. Now we can climb down to the core. You're sure about this, right? The Radiaçao level must still be incredibly high! We can see chunks of graphite all over the place..."
+      "v": "A escada se desfez quando o último de nós estava subindo. Mas nós conseguimos. Agora podemos descer até o núcleo. Você tem certeza disso, certo? O nível de Radiaçao ainda deve ser incrivelmente alto! Podemos ver pedaços de grafite em todo o lugar..."
     },
     {
       "k": 1281,
-      "v": "The ladder broke apart while climbing up! Luckily, no one was seriously injured. Just a few bruises and a dislocated shoulder. What's worse: We won't get in this way."
+      "v": "A escada se partiu enquanto subia! Felizmente, ninguém ficou gravemente ferido. Apenas algumas contusões e um ombro deslocado. O que é pior: não vamos ficar assim."
     },
     {
       "k": 1282,
-      "v": "Inside The Core"
+      "v": "Dentro do núcleo..."
     },
     {
       "k": 1283,
-      "v": "It's worth the risk!"
+      "v": "Vale a pena o risco!"
     },
     {
       "k": 1284,
-      "v": "There's an empty pool, some old tubes and machinery, and a room full of displays and control panels. But the needle on the Geiger counter keeps spiking like wild..."
+      "v": "Há uma piscina vazia, alguns tubos e máquinas velhas e uma sala cheia de displays e painéis de controle. Mas a agulha no balcão do Geiger continua a piscar..."
     },
     {
       "k": 1187,
-      "v": "Control Room"
+      "v": "Sala de controle"
     },
     {
       "k": 1188,
@@ -2243,7 +2243,7 @@
     },
     {
       "k": 1285,
-      "v": "Without protection it's a tough call!"
+      "v": "Sem proteção, é uma decisão difícil!"
     },
     {
       "k": 1189,
@@ -2843,23 +2843,23 @@
     },
     {
       "k": 1070,
-      "v": "Daytime working hours efficiency"
+      "v": "Eficiência no horário de trabalho diurno"
     },
     {
       "k": 1071,
-      "v": "Nighttime working hours efficiency"
+      "v": "Eficiência no horário de trabalho noturno"
     },
     {
       "k": 1072,
-      "v": "Production efficiency"
+      "v": "Eficiência de produção"
     },
     {
       "k": 2218,
-      "v": "Increases to <<value>>% when provided with electricity"
+      "v": "Aumenta para <<value>>% quando fornecido com eletricidade"
     },
     {
       "k": 1028,
-      "v": "Wells"
+      "v": "Poços"
     },
     {
       "k": 597,
@@ -2879,27 +2879,27 @@
     },
     {
       "k": 966,
-      "v": "Choose Seed"
+      "v": "Escolha a Semente"
     },
     {
       "k": 965,
-      "v": "Seed"
+      "v": "Semente"
     },
     {
       "k": 959,
-      "v": "Atual Seed"
+      "v": "Semente atual"
     },
     {
       "k": 960,
-      "v": "Next Seed"
+      "v": "Semente seguinte"
     },
     {
       "k": 961,
-      "v": "Terrestrial Radiaçao"
+      "v": "Radiaçao Terrestre"
     },
     {
       "k": 962,
-      "v": "Soil Moisture"
+      "v": "Umidade do Solo"
     },
     {
       "k": 968,
@@ -3339,11 +3339,11 @@
     },
     {
       "k": 923,
-      "v": "New Tasks"
+      "v": "Novas Tarefas"
     },
     {
       "k": 924,
-      "v": "Task completed"
+      "v": "Tarefa completa"
     },
     {
       "k": 1009,
@@ -3395,59 +3395,59 @@
     },
     {
       "k": 1926,
-      "v": "Map Code for Sharing"
+      "v": "Código de mapa para compartilhar"
     },
     {
       "k": 1927,
-      "v": "Paste Share Code"
+      "v": "Cole o código do mapa"
     },
     {
       "k": 610,
-      "v": "Assentamento Nome"
+      "v": "Nome do Mapa"
     },
     {
       "k": 611,
-      "v": "Map Seed"
+      "v": "Código do mapa"
     },
     {
       "k": 612,
-      "v": "Map Size"
+      "v": "Tamanho do Mapa"
     },
     {
       "k": 613,
-      "v": "Number of Settlers"
+      "v": "Quantidade de colonos"
     },
     {
       "k": 614,
-      "v": "Number of Mountains"
+      "v": "Quantidade de montanhas"
     },
     {
       "k": 615,
-      "v": "Number of Lakes"
+      "v": "Quantidade de lagos"
     },
     {
       "k": 616,
-      "v": "Number of Forests"
+      "v": "Quantidade de florestas"
     },
     {
       "k": 617,
-      "v": "Number of Ruins"
+      "v": "Quantidade de ruínas"
     },
     {
       "k": 1750,
-      "v": "Tool"
+      "v": "Ferramentas"
     },
     {
       "k": 1751,
-      "v": "Protective Clothing"
+      "v": "Roupa de proteção"
     },
     {
       "k": 1747,
-      "v": "Starting Conditions"
+      "v": "Condições Iniciais"
     },
     {
       "k": 1748,
-      "v": "Map Settings"
+      "v": "Configurações do mapa"
     },
     {
       "k": 2263,
@@ -3455,7 +3455,7 @@
     },
     {
       "k": 618,
-      "v": "Start Game"
+      "v": "Iniciar Jogo"
     },
     {
       "k": 619,
@@ -3463,11 +3463,11 @@
     },
     {
       "k": 620,
-      "v": "Enter Map Seed"
+      "v": "Coloque o código"
     },
     {
       "k": 2205,
-      "v": "Distance to Água"
+      "v": "Distancia da água"
     },
     {
       "k": 2206,
@@ -3843,7 +3843,7 @@
     },
     {
       "k": 640,
-      "v": "Capacity"
+      "v": "Capacidade"
     },
     {
       "k": 641,
@@ -4167,15 +4167,15 @@
     },
     {
       "k": 735,
-      "v": "Build Rainwater Collector"
+      "v": "Construir Coletor de água"
     },
     {
       "k": 1027,
-      "v": "Build Jetty"
+      "v": "Construir pier"
     },
     {
       "k": 1029,
-      "v": "Build Well"
+      "v": "Construir poço"
     },
     {
       "k": 813,
@@ -4335,7 +4335,7 @@
     },
     {
       "k": 829,
-      "v": "Scrap Pile"
+      "v": "Pilha de sucata"
     },
     {
       "k": 830,
@@ -4343,7 +4343,7 @@
     },
     {
       "k": 831,
-      "v": "Car Wreck"
+      "v": "Carro velho"
     },
     {
       "k": 852,
@@ -4379,7 +4379,7 @@
     },
     {
       "k": 869,
-      "v": "Greenhouse Ruin"
+      "v": "Ruínas de uma estufa"
     },
     {
       "k": 863,
@@ -4391,7 +4391,7 @@
     },
     {
       "k": 873,
-      "v": "Crashed Helicopter"
+      "v": "Ruinas de um Helicóptero"
     },
     {
       "k": 2220,
@@ -4919,7 +4919,7 @@
     },
     {
       "k": 1088,
-      "v": "Task Completed"
+      "v": "Tarefa Completa"
     },
     {
       "k": 1089,
@@ -4959,51 +4959,51 @@
     },
     {
       "k": 1154,
-      "v": "Good work!"
+      "v": "Bom trabalho!"
     },
     {
       "k": 1155,
-      "v": "Well done!"
+      "v": "Muito bem!"
     },
     {
       "k": 1156,
-      "v": "Great!"
+      "v": "Ótimo!"
     },
     {
       "k": 2019,
-      "v": "Next time!"
+      "v": "Próxima vez!"
     },
     {
       "k": 2020,
-      "v": "Got it!"
+      "v": "Conseguiu!"
     },
     {
       "k": 2021,
-      "v": "Better luck next time!"
+      "v": "Mais sorte da próxima vez!"
     },
     {
       "k": 1157,
-      "v": "Hey, chief, the Água Supply was completed as planned. So far everything's up and running, and we already siphoned off a little Água."
+      "v": "Ei, chefe, o suprimento de água foi concluído conforme o planejado. Até agora tudo está funcionando, e já tiramos um pouco de água."
     },
     {
       "k": 1158,
-      "v": "We've satisfied our basic needs with a functioning Comida chain! A few Rations have already been stockpiled."
+      "v": "Satisfazemos nossas necessidades básicas com uma rede de alimentos em funcionamento! Algumas já até foram armazenadas."
     },
     {
       "k": 1159,
-      "v": "Nifty! Now it's time to hunt for scrap and chop down a few trees to build ourselves Houses. We've already found a small Scrap Pile..."
+      "v": "Bacana! Agora é hora de caçar sucata e derrubar algumas árvores para construirmos Casas. Já encontramos uma pequena pilha de sucata..."
     },
     {
       "k": 1160,
-      "v": "Nice one, chief! Home sweet home! A little bit of Scrap and Madeira is still left over... Say, folks, did you really screw in all the screws?!"
+      "v": "Bom, chefe! Lar Doce Lar! Um pouco de sucata e a Madeira ainda sobra ... Diga, pessoal, você realmente estragou todos os parafusos?!"
     },
     {
       "k": 1161,
-      "v": "For starters, it's time to knuckle down and sort out a little trash! We've already sorted out one pile, chief! We just couldn't resist..."
+      "v": "Para começar, é hora de juntar os dedos e resolver um pouco de lixo! Já resolvemos uma pilha, chefe! Nós simplesmente não conseguimos resistir..."
     },
     {
       "k": 1167,
-      "v": "Looks like we got off to a pretty good start, chief! Don't worry, we know that we're in for some hard times! But we'll survive!"
+      "v": "Parece que começamos muito bem, chefe! Não se preocupe, sabemos que estamos passando por momentos difíceis! Mas nós vamos sobreviver!"
     },
     {
       "k": 1162,
@@ -5011,39 +5011,39 @@
     },
     {
       "k": 1163,
-      "v": "Damn!"
+      "v": "Droga!"
     },
     {
       "k": 1164,
-      "v": "Shoot!"
+      "v": "Tiro!"
     },
     {
       "k": 1165,
-      "v": "No way! "
+      "v": "Sem chance! "
     },
     {
       "k": 1166,
-      "v": "Yikes!"
+      "v": "Caramba!"
     },
     {
       "k": 2270,
-      "v": "Nope!"
+      "v": "Não!"
     },
     {
       "k": 1223,
-      "v": "Seeds from Fields chosen: <<amount>>"
+      "v": "Sementes dos campos escolhidos: <<amount>>"
     },
     {
       "k": 1229,
-      "v": "Survival Guide"
+      "v": "Guia de sobrevivência"
     },
     {
       "k": 1230,
-      "v": "Reproduction"
+      "v": "Reprodução"
     },
     {
       "k": 1231,
-      "v": "Age of Settlers"
+      "v": "Idade dos colonizadores"
     },
     {
       "k": 1232,
