@@ -19,7 +19,7 @@
     },
     {
       "k": 2307,
-      "v": "Max"
+      "v": "MAX"
     },
     {
       "k": 2308,
@@ -1923,7 +1923,7 @@
     },
     {
       "k": 2196,
-      "v": "Focalize a próxima construção deste tipo com a câmera"
+      "v": "Focalize a próxima construçao deste tipo com a câmera"
     },
     {
       "k": 520,
@@ -1963,7 +1963,7 @@
     },
     {
       "k": 527,
-      "v": "Nossos escoteiros descobriram um edifício de aparência interessante em um dos locais abandonados. Não estava em boas condições. É por isso que devemos levar as ferramentas certas conosco. Talvez algum material de construção básico também possa ser útil, caso tenhamos que encontrar outra maneira de entrar."
+      "v": "Nossos escoteiros descobriram um edifício de aparência interessante em um dos locais abandonados. Nao estava em boas condições. É por isso que devemos levar as ferramentas certas conosco. Talvez algum material de construçao básico também possa ser útil, caso tenhamos que encontrar outra maneira de entrar."
     },
     {
       "k": 538,
@@ -1995,7 +1995,7 @@
     },
     {
       "k": 534,
-      "v": "Não encontramos nada. Mas poderíamos tentar novamente em alguns dias."
+      "v": "Nao encontramos nada. Mas poderíamos tentar novamente em alguns dias."
     },
     {
       "k": 531,
@@ -2039,7 +2039,7 @@
     },
     {
       "k": 1105,
-      "v": "Infelizmente, não encontramos nada útil. <<dynamicmessage>>"
+      "v": "Infelizmente, nao encontramos nada útil. <<dynamicmessage>>"
     },
     {
       "k": 1106,
@@ -2047,7 +2047,7 @@
     },
     {
       "k": 1107,
-      "v": "Mesa de operação"
+      "v": "Mesa de operaçao"
     },
     {
       "k": 1108,
@@ -2059,11 +2059,11 @@
     },
     {
       "k": 1110,
-      "v": "Infelizmente, não encontramos nada útil. <<dynamicmessage>>"
+      "v": "Infelizmente, nao encontramos nada útil. <<dynamicmessage>>"
     },
     {
       "k": 1111,
-      "v": "Talvez possamos encontrar algo se voltarmos com alguém que tenha uma boa compreensão desse assunto.."
+      "v": "Talvez possamos encontrar algo se voltarmos com alguém que tenha uma boa compreensao desse assunto.."
     },
     {
       "k": 1117,
@@ -2091,7 +2091,7 @@
     },
     {
       "k": 1123,
-      "v": "Não encontramos nada, mas poderíamos tentar novamente outra hora!"
+      "v": "Nao encontramos nada, mas poderíamos tentar novamente outra hora!"
     },
     {
       "k": 1124,
@@ -2103,11 +2103,11 @@
     },
     {
       "k": 1126,
-      "v": "Encontramos a entrada do porão. A porta estava escondida atrás de videiras."
+      "v": "Encontramos a entrada do porao. A porta estava escondida atrás de videiras."
     },
     {
       "k": 1127,
-      "v": "Não encontramos outra entrada, mas podemos tentar novamente outra hora."
+      "v": "Nao encontramos outra entrada, mas podemos tentar novamente outra hora."
     },
     {
       "k": 1128,
@@ -2123,11 +2123,11 @@
     },
     {
       "k": 1131,
-      "v": "Não encontramos nada, mas podemos tentar novamente outra hora!"
+      "v": "Nao encontramos nada, mas podemos tentar novamente outra hora!"
     },
     {
       "k": 1134,
-      "v": "Pesquisar no Porão"
+      "v": "Pesquisar no Porao"
     },
     {
       "k": 1135,
@@ -2143,7 +2143,7 @@
     },
     {
       "k": 1138,
-      "v": "Vamos dar uma olhada lá em baixo. Parece que o porão está contaminado."
+      "v": "Vamos dar uma olhada lá em baixo. Parece que o porao está contaminado."
     },
     {
       "k": 1139,
@@ -2155,15 +2155,15 @@
     },
     {
       "k": 1182,
-      "v": "É uma usina nuclear! Essas coisas devastaram o mundo. Nossos anciãos nos disseram que deveríamos ficar longe deles, mas ainda deve haver Recursos valiosos esperando lá dentro. No mínimo, precisaremos de ferramentas e equipamentos de proteção para entrar."
+      "v": "É uma usina nuclear! Essas coisas devastaram o mundo. Nossos anciaos nos disseram que deveríamos ficar longe deles, mas ainda deve haver Recursos valiosos esperando lá dentro. No mínimo, precisaremos de ferramentas e equipamentos de proteçao para entrar."
     },
     {
       "k": 1183,
-      "v": "Parece quase pacífico, se não fosse pelo teto desabado. Deve ter sido um grande estrondo! Os remanescentes ainda devem emitir toneladas de radiação. Apenas ouça esse contador Geiger! <<dynamicmessage>>"
+      "v": "Parece quase pacífico, se nao fosse pelo teto desabado. Deve ter sido um grande estrondo! Os remanescentes ainda devem emitir toneladas de radiaçao. Apenas ouça esse contador Geiger! <<dynamicmessage>>"
     },
     {
       "k": 1270,
-      "v": "Tem certeza de que devemos passar algum tempo aqui? Todos nós deveríamos usar ternos de Radiaçao se não quisermos pegar o \"sickness\"."
+      "v": "Tem certeza de que devemos passar algum tempo aqui? Todos nós deveríamos usar ternos de Radiaçao se nao quisermos pegar o \"sickness\"."
     },
     {
       "k": 1184,
@@ -2175,7 +2175,7 @@
     },
     {
       "k": 1271,
-      "v": "Embora seja difícil abri-lo com nossas próprias mãos."
+      "v": "Embora seja difícil abri-lo com nossas próprias maos."
     },
     {
       "k": 1186,
@@ -2191,11 +2191,11 @@
     },
     {
       "k": 1274,
-      "v": "A porta não podia fazer nada para parar o pé de cabra. Agora o contador geiger vai para o beleléu. Você realmente tem certeza disso?"
+      "v": "A porta nao podia fazer nada para parar o pé de cabra. Agora o contador geiger vai para o beleléu. Você realmente tem certeza disso?"
     },
     {
       "k": 1275,
-      "v": "Essa porta pode estar velha, mas ainda não se mexeu nem um centímetro. <<dynamicmessage>>  Talvez possamos encontrar outra maneira de entrar no núcleo do reator..."
+      "v": "Essa porta pode estar velha, mas ainda nao se mexeu nem um centímetro. <<dynamicmessage>>  Talvez possamos encontrar outra maneira de entrar no núcleo do reator..."
     },
     {
       "k": 1276,
@@ -2211,7 +2211,7 @@
     },
     {
       "k": 1279,
-      "v": "Mas você sabe o que, chefe? Não somos o que você chamaria ágil!"
+      "v": "Mas você sabe o que, chefe? Nao somos o que você chamaria ágil!"
     },
     {
       "k": 1280,
@@ -2219,7 +2219,7 @@
     },
     {
       "k": 1281,
-      "v": "A escada se partiu enquanto subia! Felizmente, ninguém ficou gravemente ferido. Apenas algumas contusões e um ombro deslocado. O que é pior: não vamos ficar assim."
+      "v": "A escada se partiu enquanto subia! Felizmente, ninguém ficou gravemente ferido. Apenas algumas contusões e um ombro deslocado. O que é pior: nao vamos ficar assim."
     },
     {
       "k": 1282,
@@ -2231,7 +2231,7 @@
     },
     {
       "k": 1284,
-      "v": "Há uma piscina vazia, alguns tubos e máquinas velhas e uma sala cheia de displays e painéis de controle. Mas a agulha no balcão do Geiger continua a piscar..."
+      "v": "Há uma piscina vazia, alguns tubos e máquinas velhas e uma sala cheia de displays e painéis de controle. Mas a agulha no balcao do Geiger continua a piscar..."
     },
     {
       "k": 1187,
@@ -2243,7 +2243,7 @@
     },
     {
       "k": 1285,
-      "v": "Sem proteção, é uma decisão difícil!"
+      "v": "Sem proteçao, é uma decisao difícil!"
     },
     {
       "k": 1189,
@@ -2791,19 +2791,19 @@
     },
     {
       "k": 590,
-      "v": "Low Água reserves"
+      "v": "Reservas de água baixa"
     },
     {
       "k": 591,
-      "v": "Settlers with no Tools"
+      "v": "Colonos sem ferramentas"
     },
     {
       "k": 592,
-      "v": "Oncoming Sandstorm"
+      "v": "Tempestade de areia"
     },
     {
       "k": 1228,
-      "v": "Damaged Edifícios"
+      "v": "Edifícios danificados"
     },
     {
       "k": 2254,
@@ -2851,7 +2851,7 @@
     },
     {
       "k": 1072,
-      "v": "Eficiência de produção"
+      "v": "Eficiência de produçao"
     },
     {
       "k": 2218,
@@ -3439,7 +3439,7 @@
     },
     {
       "k": 1751,
-      "v": "Roupa de proteção"
+      "v": "Roupa de proteçao"
     },
     {
       "k": 1747,
@@ -4339,7 +4339,7 @@
     },
     {
       "k": 830,
-      "v": "House Ruin"
+      "v": "Ruínas de uma casa"
     },
     {
       "k": 831,
@@ -4359,11 +4359,11 @@
     },
     {
       "k": 864,
-      "v": "Collapsed Nuclear Power Plant Tower"
+      "v": "Torre da usina nuclear em colápso"
     },
     {
       "k": 865,
-      "v": "Nuclear Power Plant Ruin"
+      "v": "Ruína de uma Usina Nuclear"
     },
     {
       "k": 866,
@@ -4451,31 +4451,31 @@
     },
     {
       "k": 875,
-      "v": "Storage Depot Ruin"
+      "v": "Ruína de um armazem abandonado"
     },
     {
       "k": 876,
-      "v": "Hospital Ruin"
+      "v": "Ruínas de um Hospital"
     },
     {
       "k": 877,
-      "v": "Greenhouse Ruin"
+      "v": "Ruínas de uma Estufa"
     },
     {
       "k": 832,
-      "v": "Stag"
+      "v": "Veado"
     },
     {
       "k": 833,
-      "v": "Doe"
+      "v": "Faça"
     },
     {
       "k": 834,
-      "v": "Boar"
+      "v": "Javali"
     },
     {
       "k": 835,
-      "v": "Sow"
+      "v": "Semear"
     },
     {
       "k": 837,
@@ -4511,11 +4511,11 @@
     },
     {
       "k": 845,
-      "v": "Accumulate more Comida or build up larger stockpiles."
+      "v": "Acumule mais Comida ou faça estoques maiores."
     },
     {
       "k": 846,
-      "v": "Accumulate more Água or build up larger stockpiles."
+      "v": "Acumule mais Água ou faça estoques maiores."
     },
     {
       "k": 847,
@@ -4999,11 +4999,11 @@
     },
     {
       "k": 1161,
-      "v": "Para começar, é hora de juntar os dedos e resolver um pouco de lixo! Já resolvemos uma pilha, chefe! Nós simplesmente não conseguimos resistir..."
+      "v": "Para começar, é hora de juntar os dedos e resolver um pouco de lixo! Já resolvemos uma pilha, chefe! Nós simplesmente nao conseguimos resistir..."
     },
     {
       "k": 1167,
-      "v": "Parece que começamos muito bem, chefe! Não se preocupe, sabemos que estamos passando por momentos difíceis! Mas nós vamos sobreviver!"
+      "v": "Parece que começamos muito bem, chefe! Nao se preocupe, sabemos que estamos passando por momentos difíceis! Mas nós vamos sobreviver!"
     },
     {
       "k": 1162,
@@ -5027,7 +5027,7 @@
     },
     {
       "k": 2270,
-      "v": "Não!"
+      "v": "Nao!"
     },
     {
       "k": 1223,
@@ -5039,7 +5039,7 @@
     },
     {
       "k": 1230,
-      "v": "Reprodução"
+      "v": "Reproduçao"
     },
     {
       "k": 1231,
@@ -5247,7 +5247,7 @@
     },
     {
       "k": 1562,
-      "v": "Tarefas podem ser usadas para atribuir <link=\"3\"><u>Colonos disponíveis gratuitamente</u></link> reunir Recursos específicos ou remover Radiaçao em uma determinada área. Somente colonos que não realizam<link=\"3\"><u>qualquer atividade</u></link>realizará essas tarefas. A única exceção a isso é a tarefa \"Remover Radiaçao\".\nAté 4 colonos podem trabalhar em uma única tarefa.\n"
+      "v": "Tarefas podem ser usadas para atribuir <link=\"3\"><u>Colonos disponíveis gratuitamente</u></link> reunir Recursos específicos ou remover Radiaçao em uma determinada área. Somente colonos que nao realizam<link=\"3\"><u>qualquer atividade</u></link>realizará essas tarefas. A única exceçao a isso é a tarefa \"Remover Radiaçao\".\nAté 4 colonos podem trabalhar em uma única tarefa.\n"
     },
     {
       "k": 1563,
@@ -5255,7 +5255,7 @@
     },
     {
       "k": 1564,
-      "v": "Os colonos começam a coletar <link=\"15\"><u>Sucata</u></link> from <link=\"15\"><u>Pilhas de Sucata</u></link> localizado dentro da <link=\"3\"> <u> área de trabalho ativa </u> </link>. No entanto, eles não podem coletar nenhum recado de <link=\"15\"> <u> grandes ruínas </u> </link>. Para que eles façam isso, você deve <link=\"3\"><u> atribuir</u> </link> eles como <link=\"15\"> <u> Coletores de Sucata</u></link>."
+      "v": "Os colonos começam a coletar <link=\"15\"><u>Sucata</u></link> from <link=\"15\"><u>Pilhas de Sucata</u></link> localizado dentro da <link=\"3\"> <u> área de trabalho ativa </u> </link>. No entanto, eles nao podem coletar nenhum recado de <link=\"15\"> <u> grandes ruínas </u> </link>. Para que eles façam isso, você deve <link=\"3\"><u> atribuir</u> </link> eles como <link=\"15\"> <u> Coletores de Sucata</u></link>."
     },
     {
       "k": 1565,
@@ -5279,7 +5279,7 @@
     },
     {
       "k": 1569,
-      "v": "Designação de uma Profissão"
+      "v": "Designaçao de uma Profissao"
     },
     {
       "k": 1570,
@@ -5295,19 +5295,19 @@
     },
     {
       "k": 1573,
-      "v": "Você não pode empregar um colono diretamente. Em vez disso, você especifica quantos Colonos devem praticar uma determinada Profissão. Os colonos são automaticamente distribuídos entre as profissões."
+      "v": "Você nao pode empregar um colono diretamente. Em vez disso, você especifica quantos Colonos devem praticar uma determinada Profissao. Os colonos sao automaticamente distribuídos entre as profissões."
     },
     {
       "k": 1574,
-      "v": "Você pode ajustar manualmente o número de colonos empregados que trabalham em um local de trabalho específico até o máximo permitido para cada tipo de construção."
+      "v": "Você pode ajustar manualmente o número de colonos empregados que trabalham em um local de trabalho específico até o máximo permitido para cada tipo de construçao."
     },
     {
       "k": 1575,
-      "v": "Os colonos que não receberam nenhuma Profissão não permanecem ociosos. \nPor exemplo, eles transportam Recursos para <link=\"1\"> <u> locais de construção </u> </link> e dentro de Armazéns. \n Eles também carregam todas as <link=\"2\"><u> Tarefas</u> </link> que você as der. \nSe um Colono com uma Profissão designada morrer, essa Profissão será automaticamente emitida para um Colono disponível gratuitamente.\n"
+      "v": "Os colonos que nao receberam nenhuma Profissao nao permanecem ociosos. \nPor exemplo, eles transportam Recursos para <link=\"1\"> <u> locais de construçao </u> </link> e dentro de Armazéns. \n Eles também carregam todas as <link=\"2\"><u> Tarefas</u> </link> que você as der. \nSe um Colono com uma Profissao designada morrer, essa Profissao será automaticamente emitida para um Colono disponível gratuitamente.\n"
     },
     {
       "k": 1576,
-      "v": "Colonos alocados trabalham na Profissão que lhes foi atribuída. \nEles não realizarão quaisquer <link=\"2\"><u> Tarefas</u> </link> criadas separadamente. \n Se por algum motivo elas forem incapazes de executar seu trabalho, eles não ficarão ociosos. \nEles começarão a levar Recursos para os <link=\"1\"> <u> canteiros de obras </u> </link> e para os Armazéns. Além disso, eles também removem Radiaçao das áreas de trabalho ativas da tarefa <link=\"2\"> <u> Remover Radiaçao </u> </link>."
+      "v": "Colonos alocados trabalham na Profissao que lhes foi atribuída. \nEles nao realizarao quaisquer <link=\"2\"><u> Tarefas</u> </link> criadas separadamente. \n Se por algum motivo elas forem incapazes de executar seu trabalho, eles nao ficarao ociosos. \nEles começarao a levar Recursos para os <link=\"1\"> <u> canteiros de obras </u> </link> e para os Armazéns. Além disso, eles também removem Radiaçao das áreas de trabalho ativas da tarefa <link=\"2\"> <u> Remover Radiaçao </u> </link>."
     },
     {
       "k": 1249,
@@ -5331,7 +5331,7 @@
     },
     {
       "k": 1581,
-      "v": "Os colonos precisam de Comida para sobreviver. Se não receberem comida suficiente, passam fome e morrem. Quanto mais <link=\"9\"> <u> fontes de Comida </u> </link> disponíveis, melhor. Se os colonos estão com fome e a comida está disponível, eles cuidam da nutrição de maneira autônoma.."
+      "v": "Os colonos precisam de Comida para sobreviver. Se nao receberem comida suficiente, passam fome e morrem. Quanto mais <link=\"9\"> <u> fontes de Comida </u> </link> disponíveis, melhor. Se os colonos estao com fome e a comida está disponível, eles cuidam da nutriçao de maneira autônoma.."
     },
     {
       "k": 1582,
