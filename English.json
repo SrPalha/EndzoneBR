@@ -75,7 +75,7 @@
     },
     {
       "k": 967,
-      "v": "Estações"
+      "v": "Estaçoes"
     },
     {
       "k": 1095,
@@ -107,7 +107,7 @@
     },
     {
       "k": 234,
-      "v": "Agua"
+      "v": "Água"
     },
     {
       "k": 235,
@@ -251,11 +251,11 @@
     },
     {
       "k": 880,
-      "v": "A madeira é um material de construção básico. Também pode ser processada em carvão vegetal em um forno de carvão vegetal."
+      "v": "A madeira é um material de construçao básico. Também pode ser processada em carvao vegetal em um forno de carvao vegetal."
     },
     {
       "k": 881,
-      "v": "O refugo não é apenas um material de construção básico para edifícios. Também pode ser usado para fabricar ferramentas ou para processar recursos especiais"
+      "v": "O refugo nao é apenas um material de construçao básico para edifícios. Também pode ser usado para fabricar ferramentas ou para processar recursos especiais"
     },
     {
       "k": 882,
@@ -263,19 +263,19 @@
     },
     {
       "k": 883,
-      "v": "O plástico pode ser recuperado da sucata. É necessário um reciclador ou uma refinaria para fazer isso. É um material essencial para conter a radiação."
+      "v": "O plástico pode ser recuperado da sucata. É necessário um reciclador ou uma refinaria para fazer isso. É um material essencial para conter a radiaçao."
     },
     {
       "k": 884,
-      "v": "É possível recuperar eletrônicos da sucata. É necessário um reciclador ou uma refinaria para fazer isso. Os eletrônicos são usados ​​principalmente para a fonte de alimentação."
+      "v": "É possível recuperar eletrônicos da sucata. É necessário um reciclador ou uma refinaria para fazer isso. Os eletrônicos sao usados ​​principalmente para a fonte de alimentaçao."
     },
     {
       "k": 885,
-      "v": "O pano pode ser recuperado da sucata. É necessário um reciclador ou uma refinaria para fazer isso. O pano é usado por um alfaiate para produzir roupas de proteção."
+      "v": "O pano pode ser recuperado da sucata. É necessário um reciclador ou uma refinaria para fazer isso. O pano é usado por um alfaiate para produzir roupas de proteçao."
     },
     {
       "k": 886,
-      "v": "A água é a chave para a sobrevivência. A água pode ser coletada dos lagos por um cais, do solo por um poço ou da chuva por um coletor de água da chuva. Uma cisterna ou uma torre de água é necessária para distribuir a água dentro de um poço. o acordo "
+      "v": "A água é a chave para a sobrevivência. A água pode ser coletada dos lagos por um cais, do solo por um poço ou da chuva por um coletor de água da chuva. Uma Reservatórioa ou uma torre de água é necessária para distribuir a água dentro de um poço. o acordo "
     },
     {
       "k": 887,
@@ -283,19 +283,19 @@
     },
     {
       "k": 889,
-      "v": "As bagas são colhidas pelos coletores e podem ser encontradas nas florestas."
+      "v": "As frutas sao colhidas pelos coletores e podem ser encontradas nas florestas."
     },
     {
       "k": 890,
-      "v": "Os cogumelos são colhidos pelos coletores e podem ser encontrados nas florestas."
+      "v": "Os cogumelos sao colhidos pelos coletores e podem ser encontrados nas florestas."
     },
     {
       "k": 891,
-      "v": "As raízes são desenterradas pelos coletores e podem ser encontradas nas florestas."
+      "v": "As raízes sao desenterradas pelos coletores e podem ser encontradas nas florestas."
     },
     {
       "k": 892,
-      "v": "Javalis fornecem carne de javali quando são mortos por um caçador."
+      "v": "Javalis fornecem carne de javali quando sao mortos por um caçador."
     },
     {
       "k": 893,
@@ -303,7 +303,7 @@
     },
     {
       "k": 894,
-      "v": "As ervas são colhidas pelos coletores e podem ser encontradas nas florestas."
+      "v": "As ervas sao colhidas pelos coletores e podem ser encontradas nas florestas."
     },
     {
       "k": 895,
@@ -319,23 +319,23 @@
     },
     {
       "k": 898,
-      "v": "O carvão é feito de madeira usando um forno a carvão. Ele pode ser usado em uma torre de água para purificar a água e remover a radiação."
+      "v": "O carvao é feito de madeira usando um forno a carvao. Ele pode ser usado em uma torre de água para purificar a água e remover a radiaçao."
     },
     {
       "k": 899,
-      "v": "Lenços de pescoço protegem os colonos contra radiação de baixo nível."
+      "v": "Lenços de pescoço protegem os colonos contra radiaçao de baixo nível."
     },
     {
       "k": 900,
-      "v": "Máscaras de carvão ativado protegem os colonos contra radiação de nível médio."
+      "v": "Máscaras de carvao ativado protegem os colonos contra radiaçao de nível médio."
     },
     {
       "k": 901,
-      "v": "Os trajes de radiação protegem os colonos contra radiação de alto nível."
+      "v": "Os trajes de radiaçao protegem os colonos contra radiaçao de alto nível."
     },
     {
       "k": 902,
-      "v": "O feijão pode ser colhido nos campos."
+      "v": "O feijao pode ser colhido nos campos."
     },
     {
       "k": 903,
@@ -347,7 +347,7 @@
     },
     {
       "k": 905,
-      "v": "Os pimentões podem ser colhidos nos campos."
+      "v": "Os pimentoes podem ser colhidos nos campos."
     },
     {
       "k": 906,
@@ -367,7 +367,7 @@
     },
     {
       "k": 910,
-      "v": "Maçãs podem ser colhidas em pomares."
+      "v": "Maças podem ser colhidas em pomares."
     },
     {
       "k": 911,
@@ -383,7 +383,7 @@
     },
     {
       "k": 914,
-      "v": "Nozes-pecã podem ser colhidas em pomares."
+      "v": "Nozes-peca podem ser colhidas em pomares."
     },
     {
       "k": 915,
@@ -399,7 +399,7 @@
     },
     {
       "k": 918,
-      "v": "O cânhamo pode ser colhido nos campos. Ao contrário de outras culturas, o cânhamo não é uma fonte de alimento. O cânhamo é convertido em junções em um bar. Eles podem ser consumidos pelos colonos para aumentar sua confiança."
+      "v": "O cânhamo pode ser colhido nos campos. Ao contrário de outras culturas, o cânhamo nao é uma fonte de alimento. O cânhamo é convertido em junçoes em um bar. Eles podem ser consumidos pelos colonos para aumentar sua confiança."
     },
     {
       "k": 919,
@@ -407,11 +407,11 @@
     },
     {
       "k": 974,
-      "v": "O medicamento pode ser produzido em instalações médicas."
+      "v": "O medicamento pode ser produzido em instalaçoes médicas."
     },
     {
       "k": 1180,
-      "v": "Rações da Expedição são pacotes de Comida e Água com os quais as Expedições podem ser equipadas para explorar repetidamente Ruínas antes que a Expedição precise retornar."
+      "v": "Raçoes da Expediçao sao pacotes de Comida e Água com os quais as Expediçoes podem ser equipadas para explorar repetidamente Ruínas antes que a Expediçao precise retornar."
     },
     {
       "k": 1181,
@@ -419,15 +419,15 @@
     },
     {
       "k": 267,
-      "v": "Cabine"
+      "v": "Cabana"
     },
     {
       "k": 268,
-      "v": "Casa robusta"
+      "v": "Cabana media"
     },
     {
       "k": 373,
-      "v": "Abrigo"
+      "v": "Cabana grande"
     },
     {
       "k": 269,
@@ -447,423 +447,423 @@
     },
     {
       "k": 273,
-      "v": "Stockpile"
+      "v": "Estoque"
     },
     {
       "k": 274,
-      "v": "Market"
+      "v": "Mercado"
     },
     {
       "k": 275,
-      "v": "Expedition Station"
+      "v": "Estaçao de Expediçao"
     },
     {
       "k": 276,
-      "v": "Cemetery"
+      "v": "Cemitério"
     },
     {
       "k": 277,
-      "v": "Bus Wreck"
+      "v": "Naufrágio do ônibus"
     },
     {
       "k": 1220,
-      "v": "Mounted Bus"
+      "v": "Barramento montado"
     },
     {
       "k": 1221,
-      "v": "Town Center"
+      "v": "Centro da Cidade"
     },
     {
       "k": 1222,
-      "v": "Upgraded Town Center"
+      "v": "Atualizar Centro da Cidade"
     },
     {
       "k": 278,
-      "v": "Medical Facility"
+      "v": "Instalaço es Médicas"
     },
     {
       "k": 279,
-      "v": "School"
+      "v": "Escola"
     },
     {
       "k": 280,
-      "v": "Gatherer's Cabin"
+      "v": "Cabana de Coletor"
     },
     {
       "k": 281,
-      "v": "Hunting Lodge"
+      "v": "Cabana de Caça"
     },
     {
       "k": 282,
-      "v": "Fishing Hut"
+      "v": "Cabana de Pesca"
     },
     {
       "k": 283,
-      "v": "Orchard"
+      "v": "Pomar"
     },
     {
       "k": 284,
-      "v": "Covered Orchard"
+      "v": "Pomar coberto"
     },
     {
       "k": 285,
-      "v": "Cultivated Field"
+      "v": "Campo de Cultivo"
     },
     {
       "k": 286,
-      "v": "Covered Cultivated Field"
+      "v": "Campo de Cultivo Coberto"
     },
     {
       "k": 287,
-      "v": "Refinery"
+      "v": "Refinaria"
     },
     {
       "k": 288,
-      "v": "Scrapyard"
+      "v": "Pátio de sucata"
     },
     {
       "k": 289,
-      "v": "Pub"
+      "v": "Bar"
     },
     {
       "k": 290,
-      "v": "Tailor's Shop"
+      "v": "Alfaiataria"
     },
     {
       "k": 291,
-      "v": "Workshop"
+      "v": "Oficina"
     },
     {
       "k": 292,
-      "v": "Herbal Hut"
+      "v": "Cabana de ervas"
     },
     {
       "k": 293,
-      "v": "Forester’s Lodge"
+      "v": "Cabana Florestal"
     },
     {
       "k": 294,
-      "v": "Charcoal Kiln"
+      "v": "Forno de carvao"
     },
     {
       "k": 295,
-      "v": "Rainwater Collector"
+      "v": "Coletor de Água da Chuva"
     },
     {
       "k": 296,
-      "v": "Water Tower"
+      "v": "Torre de água"
     },
     {
       "k": 297,
-      "v": "Solar Collector"
+      "v": "Placas solares"
     },
     {
       "k": 298,
-      "v": "Electric Power Pole"
+      "v": "Poste de energia elétrica"
     },
     {
       "k": 299,
-      "v": "Battery"
+      "v": "Bateria"
     },
     {
       "k": 300,
-      "v": "Campfire"
+      "v": "Fogueira"
     },
     {
       "k": 381,
-      "v": "Jetty"
+      "v": "Pier"
     },
     {
       "k": 693,
-      "v": "Stock of Resources"
+      "v": "Estoque de Recursos"
     },
     {
       "k": 945,
-      "v": "Well"
+      "v": "Poço de água"
     },
     {
       "k": 946,
-      "v": "Recycler"
+      "v": "Reciclagem"
     },
     {
       "k": 975,
-      "v": "Irrigation Plant"
+      "v": "Torre de Irrigaçao"
     },
     {
       "k": 997,
-      "v": "Weather Station"
+      "v": "Estaçao meteorológica"
     },
     {
       "k": 1225,
-      "v": "Cistern"
+      "v": "Reservatório"
     },
     {
       "k": 301,
-      "v": "A small Cabin in which Settlers can live and start a Family. Settlers only move in as a Family."
+      "v": "Uma pequena cabana na qual os colonos podem viver e iniciar uma família. Os colonos só se mudam como uma família."
     },
     {
       "k": 302,
-      "v": "A sturdy house in which Settlers can live and start a Family. This Building has additional capacity to store Water and Food and can withstand more Sandstorms. Settlers only move in as a Family."
+      "v": "Uma cabana media na qual os colonos podem viver e começar uma família. Este edifício tem capacidade adicional para armazenar água e alimentos e pode suportar mais tempestades de areia. Os colonos só se mudam como uma família."
     },
     {
       "k": 374,
-      "v": "A large camp that can house a large number of Settlers, although it's not suitable for starting a Family."
+      "v": "Um  grande cabana que pode abrigar um grande número de colonos, embora nao seja adequado para iniciar uma família."
     },
     {
       "k": 303,
-      "v": "A simple road that enables Settlers to make fast progress."
+      "v": "Um caminho simples que permite aos colonos progredir rapidamente."
     },
     {
       "k": 304,
-      "v": "An paved road that enables Settlers to make faster progress."
+      "v": "Uma estrada pavimentada que permite que os colonos progridam mais rapidamente."
     },
     {
       "k": 305,
-      "v": "An paved road that enables Settlers to travel faster and makes protection against toxic rain possible."
+      "v": "Uma estrada pavimentada que permite que os colonos viajem mais rapidamente e possibilita a proteçao contra chuva tóxica."
     },
     {
       "k": 306,
-      "v": "All kinds of Resources are kept in a Warehouse. This Building can't store Water."
+      "v": "Todos os tipos de recursos sao mantidos em um armazém. Este edifício nao pode armazenar água."
     },
     {
       "k": 307,
-      "v": "A place to store raw materials like Wood, Scrap or Metal."
+      "v": "Um local para armazenar matérias-primas como madeira, sucata ou metal."
     },
     {
       "k": 308,
-      "v": "A central Building for distributing all of the Resources in the settlement. Logisticians collect Resources from the immediate vicinity of the Market."
+      "v": "Um edifício central para distribuir todos os recursos no assentamento. Os logísticos coletam recursos nas imediaçoes do mercado."
     },
     {
       "k": 309,
-      "v": "An Expedition Station sends out Explorers to collect Resources and special objects at locations on the map."
+      "v": "Uma Estaçao de Expediçao envia Exploradores para coletar Recursos e objetos especiais em locais no mapa."
     },
     {
       "k": 310,
-      "v": "A Cemetery offers Settlers a place where they can mourn their deceased relatives, which boosts their Confidence."
+      "v": "Um cemitério oferece aos colonos um lugar onde eles podem lamentar seus parentes falecidos, o que aumenta sua confiança."
     },
     {
       "k": 311,
-      "v": "The Town Center is the heart of the settlement. It is able to store the most Resources and provides more capacity with each upgrade. Once the Town Center has been mounted, Settlers can meet there and boost their Confidence."
+      "v": "O centro da cidade é o coraçao do assentamento. É capaz de armazenar o máximo de recursos e oferece mais capacidade a cada atualizaçao. Uma vez montado o centro da cidade, os colonos podem se encontrar lá e aumentar sua confiança."
     },
     {
       "k": 312,
-      "v": "A Medical Facility attends to Settlers who are sick."
+      "v": "Uma instalaçao médica atende a colonos doentes."
     },
     {
       "k": 313,
-      "v": "Starting at a certain age, a School provides Children with a place to learn and to become Educated Adults."
+      "v": "A partir de uma certa idade, uma escola oferece às crianças um lugar para aprender e tornar-se Adultos Educados."
     },
     {
       "k": 314,
-      "v": "A Gatherer's Cabin accumulates Food from Plants in the forests."
+      "v": "Cabana de um coletor acumula comida de plantas nas florestas."
     },
     {
       "k": 315,
-      "v": "A Hunting Lodge hunts wildlife for Food."
+      "v": "caça animais selvagens para comida."
     },
     {
       "k": 316,
-      "v": "A Fishing Hut provides Food from caught fish, but can only be placed at the waterside."
+      "v": "Uma cabana de pesca fornece comida de peixes capturados, mas só pode ser colocada à beira da água."
     },
     {
       "k": 317,
-      "v": "An Orchard provides Food like fruits and nuts from trees. Although an Orchard can be created without construction costs, it needs time to allow its trees to grow."
+      "v": "Um pomar fornece comida como frutas e nozes das árvores. Embora um pomar possa ser criado sem custos de construçao, ele precisa de tempo para permitir que suas árvores cresçam."
     },
     {
       "k": 318,
-      "v": "A Covered Orchard provides Food like fruits and nuts from trees and can be covered to avoid toxic rain."
+      "v": "Um pomar coberto fornece comida como frutas e nozes das árvores e pode ser coberto para evitar chuvas tóxicas."
     },
     {
       "k": 319,
-      "v": "A Cultivated Field provides Food from farming Crops. Although a Field can be created without construction costs, it needs time to grow the Crops."
+      "v": "Um campo cultivado fornece comida da lavoura. Embora um campo possa ser criado sem custos de construçao, ele precisa de tempo para cultivar as plantaçoes.."
     },
     {
       "k": 320,
-      "v": "A Covered Field provides Food from farming Crops and can be covered to avoid toxic rain."
+      "v": "Um Campo Coberto fornece Alimentos da lavoura e pode ser coberto para evitar chuvas tóxicas."
     },
     {
       "k": 321,
-      "v": "A Refinery simultaneously separates Metal, Cloth, Plastic or Electronics from Scrap."
+      "v": "Uma refinaria separa simultaneamente metal, tecido, plástico ou eletrônica de sucata."
     },
     {
       "k": 322,
-      "v": "A Scrapyard collects Scrap from Ruins in its immediate surroundings."
+      "v": "O Pátio de sucata coleta sucata das ruínas nas imediaçoes."
     },
     {
       "k": 323,
-      "v": "A Pub produces Beer, Liquor or Joints that can be consumed by Settlers to boost their Confidence."
+      "v": "Um bar produz cerveja, licor ou junçoes que podem ser consumidas pelos colonos para aumentar sua confiança."
     },
     {
       "k": 324,
-      "v": "A Tailor makes clothing that protects Settlers against Radiation."
+      "v": "Um alfaiate faz roupas que protegem os colonos contra a radiaçao."
     },
     {
       "k": 325,
-      "v": "A Workshop produces Tools that are needed to do any kind of work."
+      "v": "Um workshop produz ferramentas necessárias para qualquer tipo de trabalho."
     },
     {
       "k": 326,
-      "v": "A Herbal Hut gathers Herbs in forests which can be used to improve the Settlers' Health."
+      "v": "Uma cabana de ervas reúne ervas em florestas que podem ser usadas para melhorar a saúde dos colonos."
     },
     {
       "k": 327,
-      "v": "A Forester's Lodge can either cut trees down to produce Wood or plant saplings to reforest a certain area, or do both."
+      "v": "A cabana florestal pode cortar árvores para produzir madeira ou plantar mudas para reflorestar uma determinada área, ou fazer as duas coisas.."
     },
     {
       "k": 328,
-      "v": "A Charcoal Kiln produces Charcoal from Wood."
+      "v": "Um forno a carvao produz carvao a partir de madeira."
     },
     {
       "k": 329,
-      "v": "A Rainwater Collector collects Water from rain without requiring a workforce. It can be covered to avoid collecting toxic rain. A  Cistern or a Water Tower is necessary to distribute the Water within the settlement."
+      "v": "Um coletor de água da chuva coleta a água da chuva sem exigir força de trabalho. Pode ser coberto para evitar a coleta de chuva tóxica. É necessário um Reservatório ou Torre de Água para distribuir a Água dentro do assentamento."
     },
     {
       "k": 330,
-      "v": "A Water Tower collects and stores Water. It can also use Charcoal to filter Radiation out of the Water. This Building requires a Jetty, a Well or a Rainwater Collector in order to function."
+      "v": "Uma torre de água coleta e armazena água. Também pode usar carvao para filtrar a radiaçao da água. Este edifício requer um molhe, um poço ou um coletor de água da chuva para funcionar."
     },
     {
       "k": 331,
-      "v": "A Solar Collector generates a certain quantity of energy in order to supply the Building hooked up to the Power Grid with electricity."
+      "v": "Um coletor solar gera uma certa quantidade de energia para abastecer o edifício conectado à rede elétrica."
     },
     {
       "k": 332,
-      "v": "A Power Line connects Buildings to a Power Grid."
+      "v": "Uma linha de energia conecta edifícios a uma rede elétrica."
     },
     {
       "k": 333,
-      "v": "A Battery stores energy during the daytime and returns it to the Power Grid at night."
+      "v": "Uma bateria armazena energia durante o dia e a retorna à rede elétrica à noite."
     },
     {
       "k": 334,
-      "v": "A campfire is a meeting place for Settlers to boost their confidence."
+      "v": "Uma fogueira é um local de encontro para os colonos aumentarem sua confiança."
     },
     {
       "k": 382,
-      "v": "A place to collect Water. Requires a Cistern or a Water Tower to collect and store Water."
+      "v": "Um lugar para coletar água. Requer um Reservatório ou uma Torre de Água para coletar e armazenar Água."
     },
     {
       "k": 694,
-      "v": "A Stock of Resources that can be picked up and transfered to a storage building by Settlers."
+      "v": "Um estoque de recursos que podem ser retirados e transferidos para um edifício de armazenamento pelos colonos."
     },
     {
       "k": 947,
-      "v": "A Well produces Water slowly and even during a drought. Wells that are built too close together have a negative impact on their respective efficiency."
+      "v": "Um poço produz água lentamente e mesmo durante uma seca. Os poços construídos muito próximos têm um impacto negativo em sua respectiva eficiência."
     },
     {
       "k": 948,
-      "v": "A Recycler slowly separates Metal, Cloth, Plastic or Electronics from Scrap with low efficiency. Only one of these Resources can be separated at a time."
+      "v": "Um Reciclador separa lentamente Metal, Tecido, Plástico ou Eletrônicos da Sucata com baixa eficiência. Somente um desses Recursos pode ser separado por vez."
     },
     {
       "k": 976,
-      "v": "An Irrigation Plant System increases the soil moisture within its range of influence over time. This process consumes Water. The contamination level of the used Water also has influence on the earth radiation."
+      "v": "Um sistema de irrigaçao aumenta a umidade do solo dentro de sua faixa de influência ao longo do tempo. Este processo consome água. O nível de contaminaçao da água utilizada também influencia a radiaçao da terra."
     },
     {
       "k": 998,
-      "v": "The Weather Station enables the decision to be made at which rain contamination level Fields and Rainwater Collectors should be covered. Additionally it provides a rain contamination forecast."
+      "v": "A Estaçao Meteorológica permite que seja tomada a decisao em que nível de contaminaçao da chuva Campos e Coletores de Água da Chuva devem ser cobertos. Além disso, fornece uma previsao de contaminaçao por chuva."
     },
     {
       "k": 1226,
-      "v": "A Cistern collects and stores Water. This Building requires a Jetty, a Well or a Rainwater Collector to function.\nJetties and Wells are preferred to Rainwater Collectors when Water is collected."
+      "v": "Um Reservatório coleta e armazena Água. Este edifício requer um píer, um poço ou um coletor de água da chuva para funcionar. Nas águas e os poços sao preferidos aos coletores de água da chuva quando a água é coletada."
     },
     {
       "k": 335,
-      "v": "Settler"
+      "v": "Colono"
     },
     {
       "k": 336,
-      "v": "Builder"
+      "v": "Construtor"
     },
     {
       "k": 337,
-      "v": "Explorer"
+      "v": "Explorador"
     },
     {
       "k": 768,
-      "v": "Scout"
+      "v": "Olheiro"
     },
     {
       "k": 338,
-      "v": "Logistician"
+      "v": "Logística"
     },
     {
       "k": 339,
-      "v": "Medic"
+      "v": "Médico"
     },
     {
       "k": 340,
-      "v": "Teacher"
+      "v": "Professor"
     },
     {
       "k": 341,
-      "v": "Gatherer"
+      "v": "Coletor"
     },
     {
       "k": 342,
-      "v": "Hunter"
+      "v": "Caçador"
     },
     {
       "k": 343,
-      "v": "Fisher"
+      "v": "Pescador"
     },
     {
       "k": 344,
-      "v": "Farmer"
+      "v": "Agricultor"
     },
     {
       "k": 345,
-      "v": "Refiner"
+      "v": "Refinador"
     },
     {
       "k": 346,
-      "v": "Scrap Collector"
+      "v": "Coletor de Sucata"
     },
     {
       "k": 347,
-      "v": "Pubkeeper"
+      "v": "Chefe do bar"
     },
     {
       "k": 348,
-      "v": "Tailor"
+      "v": "Alfaiate"
     },
     {
       "k": 349,
-      "v": "Technician"
+      "v": "Técnico"
     },
     {
       "k": 350,
-      "v": "Herbalist"
+      "v": "Herbalista"
     },
     {
       "k": 351,
-      "v": "Forester"
+      "v": "Guarda Florestal"
     },
     {
       "k": 352,
-      "v": "Charcoal Burner"
+      "v": "Queimador de carvao"
     },
     {
       "k": 353,
-      "v": "Water Carrier"
+      "v": "Transportador de água"
     },
     {
       "k": 375,
-      "v": "Child"
+      "v": "Criança"
     },
     {
       "k": 376,
-      "v": "Student"
+      "v": "Estudante"
     },
     {
       "k": 379,
-      "v": "Adult"
+      "v": "Adulto"
     },
     {
       "k": 780,
-      "v": "Mortician"
+      "v": "Coveiro"
     },
     {
       "k": 949,
-      "v": "Wellkeeper"
+      "v": "Chefe do poço"
     },
     {
       "k": 978,
@@ -871,323 +871,323 @@
     },
     {
       "k": 354,
-      "v": "Carries out simple Tasks and helps to transport Resources."
+      "v": "Realiza tarefas simples e ajuda a transportar recursos."
     },
     {
       "k": 355,
-      "v": "Needed in order to build a construction."
+      "v": "Necessário para fazer a construçao."
     },
     {
       "k": 356,
-      "v": "Explorers are not part of the general Profession Distribution. They can be assigned and sent on Expeditions using an Expedition Station. Explorers don't take over any work in the Settlement."
+      "v": "Os exploradores nao fazem parte da distribuiçao geral de profissoes. Eles podem ser atribuídos e enviados em Expediçoes usando uma Estaçao de Expediçao. Os exploradores nao assumem nenhum trabalho no Acordo."
     },
     {
       "k": 769,
-      "v": "Scouts can either be sent to discover unknown locations or produce Expedition Rations in the Expedition Station."
+      "v": "Escoteiros podem ser enviados para descobrir locais desconhecidos ou produzir raçoes de expediçao na estaçao de expediçao."
     },
     {
       "k": 357,
-      "v": "Distributes all Resources at the Market."
+      "v": "Distribui todos os recursos no mercado."
     },
     {
       "k": 358,
-      "v": "Is needed in order to cure sick Settlers in a Medical Facility."
+      "v": "É necessário para curar colonos doentes em uma instalaçao médica."
     },
     {
       "k": 359,
-      "v": "Works at a School."
+      "v": "Trabalha em uma escola."
     },
     {
       "k": 360,
-      "v": "Gathers forest Plants as source of Food."
+      "v": "Reúne plantas como fonte de comida."
     },
     {
       "k": 361,
-      "v": "Hunts wild game for Food."
+      "v": "Caça selvagem de comida."
     },
     {
       "k": 362,
-      "v": "Fishes to provide Food."
+      "v": "Peixes para fornecer alimentos."
     },
     {
       "k": 363,
-      "v": "Works on a Field."
+      "v": "Trabalhos em um campo."
     },
     {
       "k": 364,
-      "v": "Refines Scrap to Metal, Electronics, Plastic or Cloth."
+      "v": "Sucata refinada em metal, eletrônica, plástico ou tecido."
     },
     {
       "k": 365,
-      "v": "Works at a Scrapyard."
+      "v": "Trabalha em um ferro-velho."
     },
     {
       "k": 366,
-      "v": "Produces Beer, Hard Liquor or Joints in a Pub."
+      "v": "Produz cerveja, bebidas destiladas um bar."
     },
     {
       "k": 367,
-      "v": "Makes Protective Clothing."
+      "v": "Faz roupas de proteçao."
     },
     {
       "k": 368,
-      "v": "Makes Tools."
+      "v": "Faz ferramentas."
     },
     {
       "k": 369,
-      "v": "Gathers Herbs from the forest that help to keep Settlers healthy."
+      "v": "Coleta ervas da floresta que ajudam a manter os colonos saudáveis."
     },
     {
       "k": 370,
-      "v": "Plants or cuts down trees."
+      "v": "Planta ou corta árvores."
     },
     {
       "k": 371,
-      "v": "Creates Charcoal from Wood."
+      "v": "Cria carvao da madeira."
     },
     {
       "k": 372,
-      "v": "Gathers Water from Jetties, Wells or Rainwater Collectors and conducts it to a Cistern or a Water Tower."
+      "v": "Coleta água de poços ou coletores da chuva e a conduz a um reservatório ou torre de água."
     },
     {
       "k": 377,
-      "v": "Children help their Families to transport Food and Water to their home."
+      "v": "As crianças ajudam suas famílias a transportar comida e água para sua casa."
     },
     {
       "k": 378,
-      "v": "Students learn at a School. When they have finished their educational training they are educated Adults and, as a result, work more effectively."
+      "v": "Os alunos aprendem em uma escola. Quando terminam o treinamento educacional, recebem educaçao de adultos e, como resultado, trabalham com mais eficiência."
     },
     {
       "k": 380,
-      "v": "Adults can become active in Professions or help to transport Resources and carry out simple Tasks."
+      "v": "Os adultos podem se tornar ativos nas profissoes ou ajudar a transportar recursos e realizar tarefas simples."
     },
     {
       "k": 781,
-      "v": "Takes care of dead Settlers and gives their relatives a place to mourn."
+      "v": "Cuida dos colonos mortos e dá a seus parentes um lugar para lamentar."
     },
     {
       "k": 950,
-      "v": "Operates pumps in a Well to ensure a steady flow of Water."
+      "v": "Opera bombas em um poço para garantir um fluxo constante de água."
     },
     {
       "k": 979,
-      "v": "Supplies the Irrigation Plant System with Water from Cisterns or Water Towers."
+      "v": "Fornece água ao sistema de irrigaçao de reservatórios ou torres de água."
     },
     {
       "k": 383,
-      "v": "Settler has a Home."
+      "v": "O Colono tem um Lar."
     },
     {
       "k": 384,
-      "v": "Settler visited a Campfire."
+      "v": "Colono visitou uma fogueira."
     },
     {
       "k": 385,
-      "v": "Settler visited a pub."
+      "v": "Colono visitou um pub."
     },
     {
       "k": 386,
-      "v": "Settler visited a relative's grave."
+      "v": "Colono visitou o túmulo de um parente."
     },
     {
       "k": 387,
-      "v": "Settler visited a Market."
+      "v": "Colono visitou um mercado."
     },
     {
       "k": 388,
-      "v": "Settler has Water."
+      "v": "Colono tem Água."
     },
     {
       "k": 389,
-      "v": "Settler has Food."
+      "v": "Colono tem Comida."
     },
     {
       "k": 390,
-      "v": "Settler's home is being supplied with Electricity."
+      "v": "A casa do colono tem eletricidade."
     },
     {
       "k": 391,
-      "v": "Settler has a newborn child."
+      "v": "Colono tem um filho recém-nascido."
     },
     {
       "k": 392,
-      "v": "Settler is married to a much older partner."
+      "v": "Colono é casado com um parceiro muito mais velho."
     },
     {
       "k": 748,
-      "v": "Settler is infertile due to old age."
+      "v": "Colono é infértil devido à idade avançada."
     },
     {
       "k": 393,
-      "v": "Settler is infertile due to suffering from high-level Radiation."
+      "v": "O colono é infértil pois foi exposto a um grande nível de radiaçao."
     },
     {
       "k": 394,
-      "v": "A relative of this Settler died and has no grave."
+      "v": "Um parente deste Colono morreu e nao tem sepultura."
     },
     {
       "k": 1227,
-      "v": "The Settler's home is severely damaged.\n"
+      "v": "A casa do Colono está seriamente danificada."
     },
     {
       "k": 2161,
-      "v": "Settler suffers from Mental Stress."
+      "v": "Colono sofre de estresse mental."
     },
     {
       "k": 2165,
-      "v": "Settler experienced something good during an expedition."
+      "v": "Colono experimentou algo bom durante uma expediçao."
     },
     {
       "k": 395,
-      "v": "Gather all Resources"
+      "v": "Reunir todos os recursos"
     },
     {
       "k": 396,
-      "v": "Gather Wood"
+      "v": "Coletar Madeira"
     },
     {
       "k": 397,
-      "v": "Gather Scrap"
+      "v": "Coletar Sucata"
     },
     {
       "k": 398,
-      "v": "Remove Radiation"
+      "v": "Remover Radiaçao"
     },
     {
       "k": 794,
-      "v": "Gather Plants"
+      "v": "Coletar Plantas"
     },
     {
       "k": 399,
-      "v": "Orders Settlers to gather all the Wood, small Scrap Piles and all the Plants from one area. This produces less outcome than using the particular production buildings."
+      "v": "Ordena que os Colonos reunam toda a Madeira, pequenas Estacas de Sucata e todas as Plantas de uma área. Isso produz menos resultado do que usar os edifícios de produçao específicos."
     },
     {
       "k": 400,
-      "v": "Orders Settlers to gather all the Wood from one area. This produces less outcome than using a Forester’s Lodge."
+      "v": "Ordena que os Colonos coletem toda a madeira de uma área. Isso produz menos resultado do que o uso de uma Cabana florestal."
     },
     {
       "k": 401,
-      "v": "Orders Settlers to gather small Scrap Piles from one area. This produces less outcome than using a Scrapyard."
+      "v": "Ordena que os Colonos coletem pequenas estacas de uma área. Isso produz menos resultado do que usar um Pátio de sucata."
     },
     {
       "k": 402,
-      "v": "Orders all unassigned Settlers to dig up the soil in a certain area in order to remove the Radiation there."
+      "v": "Ordena a todos os colonos nao atribuídos que desenterrem o solo em uma determinada área para remover a radiaçao lá."
     },
     {
       "k": 767,
-      "v": "Change Field of Work"
+      "v": "Alterar campo de trabalho"
     },
     {
       "k": 795,
-      "v": "Orders Settlers to gather Forest Plants such as Berries, Mushrooms or Herbs. This produces less outcome than using a Gatherer's Cabin."
+      "v": "Ordena que os colonos colhem plantas da floresta, como frutas, cogumelos ou ervas. Isso produz menos resultado do que usar a cabana de coletor."
     },
     {
       "k": 403,
-      "v": "Settlers with no Food"
+      "v": "Colonos sem comida"
     },
     {
       "k": 404,
-      "v": "Settlers with no Water"
+      "v": "Colonos sem água"
     },
     {
       "k": 405,
-      "v": "Settlers with no Home"
+      "v": "Colonos sem casa"
     },
     {
       "k": 406,
-      "v": "Professionals with no Workplace"
+      "v": "Profissionais sem local de trabalho"
     },
     {
       "k": 495,
-      "v": "Settlers with no Tools"
+      "v": "Colonos sem ferramentas"
     },
     {
       "k": 496,
-      "v": "Settlers with no Protective Clothing"
+      "v": "Colonos sem roupa de proteçao"
     },
     {
       "k": 423,
-      "v": "Settlers suffering from Radiation"
+      "v": "Colonos que sofrem de radiaçao"
     },
     {
       "k": 601,
-      "v": "Settlers suffering from a disease"
+      "v": "Colonos que sofrem de uma doença"
     },
     {
       "k": 746,
-      "v": "Settlers in poor health"
+      "v": "Colonos com problemas de saúde"
     },
     {
       "k": 747,
-      "v": "Settlers with low level of Confidence"
+      "v": "Colonos com baixo nível de confiança"
     },
     {
       "k": 407,
-      "v": "Confidence"
+      "v": "Confiança"
     },
     {
       "k": 408,
-      "v": "Health"
+      "v": "Saúde"
     },
     {
       "k": 409,
-      "v": "Radiation"
+      "v": "Radiaçao"
     },
     {
       "k": 410,
-      "v": "Low"
+      "v": "Baixo"
     },
     {
       "k": 411,
-      "v": "Medium"
+      "v": "Médio"
     },
     {
       "k": 412,
-      "v": "High"
+      "v": "Alto"
     },
     {
       "k": 957,
-      "v": "Pause Construction"
+      "v": "Pausar construçao"
     },
     {
       "k": 952,
-      "v": "Cancel Construction"
+      "v": "Cancelar construçao"
     },
     {
       "k": 953,
-      "v": "Build Next"
+      "v": "Próxima construçao"
     },
     {
       "k": 1151,
-      "v": "Gives this Building the highest priority for all Builders. They take care of constructing this Building as soon as they have completed their current Tasks."
+      "v": "Dá a este edifício a maior prioridade para todos os construtores. Eles cuidam da construçao deste edifício assim que concluírem suas tarefas atuais.."
     },
     {
       "k": 413,
-      "v": "Construction Progress"
+      "v": "Progresso da construçao"
     },
     {
       "k": 414,
-      "v": "Clear Building Area"
+      "v": "Limpar área de construçao"
     },
     {
       "k": 1094,
-      "v": "Construction Costs"
+      "v": "Custo de construçaos"
     },
     {
       "k": 1617,
-      "v": "Repair Next"
+      "v": "Reparar Próximo"
     },
     {
       "k": 1618,
-      "v": "Gives this Building the highest priority for all Builders. They take care of repairing this Building as soon as they have completed their current Tasks."
+      "v": "Dá a este edifício a maior prioridade para todos os construtores. Eles cuidam de reparar este edifício assim que concluírem suas tarefas atuais."
     },
     {
       "k": 415,
-      "v": "Demographic Change"
+      "v": "Mudança demográfica"
     },
     {
       "k": 416,
-      "v": "Professionals"
+      "v": "Profissionais"
     },
     {
       "k": 417,
@@ -1195,147 +1195,147 @@
     },
     {
       "k": 418,
-      "v": "Statistics"
+      "v": "Estatisticas"
     },
     {
       "k": 419,
-      "v": "Graphs"
+      "v": "Gráficos"
     },
     {
       "k": 420,
-      "v": "Production Limits"
+      "v": "Limites de produçao"
     },
     {
       "k": 421,
-      "v": "Settlement Inventory"
+      "v": "Inventario"
     },
     {
       "k": 422,
-      "v": "No demographic change since the pioneers settled."
+      "v": "Nenhuma mudança demográfica desde que os pioneiros se estabeleceram."
     },
     {
       "k": 743,
-      "v": "Current Season"
+      "v": "Estaçao atual"
     },
     {
       "k": 744,
-      "v": "Last Season"
+      "v": "Ultima estaçao"
     },
     {
       "k": 745,
-      "v": "Two Seasons Ago"
+      "v": "Duas estaçoes atrás"
     },
     {
       "k": 2256,
-      "v": "Changes the timeframe for the Production and Consumption Statistics below"
+      "v": "Altera o período das estatísticas de produçao e consumo abaixo"
     },
     {
       "k": 2324,
-      "v": "Graphs and more detailed statistics about settlers and resources coming soon"
+      "v": "Gráficos e estatísticas mais detalhadas sobre colonos e recursos próximosn"
     },
     {
       "k": 424,
-      "v": "Place"
+      "v": "Colocar"
     },
     {
       "k": 425,
-      "v": "Click & Drag to assign"
+      "v": "Clique e arraste para atribuir"
     },
     {
       "k": 426,
-      "v": "End Mode"
+      "v": "Finalizar"
     },
     {
       "k": 427,
-      "v": "Rotate Building"
+      "v": "Rodar edifício"
     },
     {
       "k": 428,
-      "v": "Daytime"
+      "v": "Dia"
     },
     {
       "k": 429,
-      "v": "Nighttime"
+      "v": "Noite"
     },
     {
       "k": 430,
-      "v": "Drought"
+      "v": "Seca"
     },
     {
       "k": 431,
-      "v": "Acid rain"
+      "v": "Chuva ácida"
     },
     {
       "k": 524,
-      "v": "Weakly contaminated rain"
+      "v": "Chuva contaminada fraca"
     },
     {
       "k": 525,
-      "v": "Medium contaminated rain"
+      "v": "Chuva contaminada média"
     },
     {
       "k": 526,
-      "v": "Highly contaminated rain"
+      "v": "Chuva contaminada forte"
     },
     {
       "k": 981,
-      "v": "No rain"
+      "v": "Sem chuva"
     },
     {
       "k": 1061,
-      "v": "Rain (unknown contamination! Build a Weather Station for forecasts)"
+      "v": "Chuva (contaminaçao desconhecida! Construa uma estaçao meteorológica para previsoes)"
     },
     {
       "k": 982,
-      "v": "Uncontaminated Rain"
+      "v": "Chuva nao contaminada"
     },
     {
       "k": 983,
-      "v": "Weather and Time of Day"
+      "v": "Tempo e hora do dia"
     },
     {
       "k": 1008,
-      "v": "Construction Time"
+      "v": "Tempo de construçao"
     },
     {
       "k": 432,
-      "v": "Confidence"
+      "v": "Confiança"
     },
     {
       "k": 433,
-      "v": "Cut Down & Reforest"
+      "v": "Reduzir e Reflorestar"
     },
     {
       "k": 434,
-      "v": "Cut Down"
+      "v": "Rasgar"
     },
     {
       "k": 435,
-      "v": "Reforest"
+      "v": "Reflorestar"
     },
     {
       "k": 1524,
-      "v": "Build & Repair"
+      "v": "Construçao e reparo"
     },
     {
       "k": 1525,
-      "v": "Build"
+      "v": "Construir"
     },
     {
       "k": 1526,
-      "v": "Repair"
+      "v": "Reparar"
     },
     {
       "k": 1619,
-      "v": "Building Condition"
+      "v": "Condiçao de construçao"
     },
     {
       "k": 1266,
-      "v": "Workforce"
+      "v": "Trabalhadores"
     },
     {
       "k": 1267,
-      "v": "Production Limit"
+      "v": "Limite de produçao"
     },
     {
       "k": 942,
@@ -1343,211 +1343,211 @@
     },
     {
       "k": 436,
-      "v": "Crop"
+      "v": "Cortar"
     },
     {
       "k": 437,
-      "v": "Filtration"
+      "v": "Filtragem"
     },
     {
       "k": 438,
-      "v": "Water Source"
+      "v": "Fonte de água"
     },
     {
       "k": 439,
-      "v": "Mode"
+      "v": "Modo"
     },
     {
       "k": 440,
-      "v": "Product"
+      "v": "Produto"
     },
     {
       "k": 441,
-      "v": "Inhabitants"
+      "v": "Habitantes"
     },
     {
       "k": 442,
-      "v": "Contamination"
+      "v": "Contaminaçao"
     },
     {
       "k": 443,
-      "v": "Inventory"
+      "v": "Inventário"
     },
     {
       "k": 1170,
-      "v": "Inventory Limit"
+      "v": "Limite de inventário"
     },
     {
       "k": 444,
-      "v": "Raw Material"
+      "v": "Matéria prima"
     },
     {
       "k": 954,
-      "v": "Main View"
+      "v": "Vista principal"
     },
     {
       "k": 789,
-      "v": "Workers"
+      "v": "Trabalhadores"
     },
     {
       "k": 788,
-      "v": "Visitors"
+      "v": "Visitantes"
     },
     {
       "k": 445,
-      "v": "Storage"
+      "v": "Armazenamento"
     },
     {
       "k": 920,
-      "v": "Nearby Resources"
+      "v": "Recursos próximos"
     },
     {
       "k": 951,
-      "v": "Options"
+      "v": "Opçoes"
     },
     {
       "k": 977,
-      "v": "Efficiency"
+      "v": "Eficiência"
     },
     {
       "k": 2315,
-      "v": "Basic Info"
+      "v": "Informaçao básica"
     },
     {
       "k": 964,
-      "v": "Family"
+      "v": "Família"
     },
     {
       "k": 446,
-      "v": "Activity & Info"
+      "v": "Atividade e Informaçoes"
     },
     {
       "k": 447,
-      "v": "Inventory"
+      "v": "Inventário"
     },
     {
       "k": 1076,
-      "v": "Settler Badges"
+      "v": "Emblemas do Colono"
     },
     {
       "k": 1217,
-      "v": "Settlers with Tools work more effectively. Without Tools, production in the settlement is slowed down drastically."
+      "v": "Os colonos com ferramentas trabalham com mais eficiência. Sem ferramentas, a produçao no assentamento é desacelerada drasticamente."
     },
     {
       "k": 1218,
-      "v": "Settlers wearing Protective Clothing are not exposed to Radiation when they wander around. Better Protective Clothing protects against higher levels of Radiation."
+      "v": "Os colonos que usam roupas de proteçao nao sao expostos à Radiaçao quando andam por aí. Melhor vestuário de proteçao protege contra níveis mais altos de Radiaçao."
     },
     {
       "k": 1219,
-      "v": "Educated Settlers perform their Professions much more effectively than uneducated Settlers."
+      "v": "Colonos Educados realizam suas Profissoes com muito mais eficácia do que Colonos Nao Educados."
     },
     {
       "k": 2310,
-      "v": "Condition"
+      "v": "Doença"
     },
     {
       "k": 2311,
-      "v": "Education Progress"
+      "v": "Progresso da educaçao"
     },
     {
       "k": 448,
-      "v": "Construction Information"
+      "v": "Informaçoes sobre construçao"
     },
     {
       "k": 2325,
-      "v": "Resources that can't be collected in the immediate vicinity:\n<<missingResources>>"
+      "v": "Recursos que nao podem ser coletados nas imediaçoes:\n<<missingResources>>"
     },
     {
       "k": 449,
-      "v": "Needs <<missingResources>>"
+      "v": "Necessidades <<missingResources>>"
     },
     {
       "k": 450,
-      "v": "No Workforce available. Click to open Worker Disposition or assign directly to this Building."
+      "v": "Nao há força de trabalho disponível. Clique para abrir Disposiçao do Trabalhador ou atribua diretamente a este Edifício."
     },
     {
       "k": 451,
-      "v": "Production Limit of this resource is reached"
+      "v": "O limite de produçao deste recurso foi atingido"
     },
     {
       "k": 452,
-      "v": "No Builders available. Click to open Professionals Menu or assign directly to this Building."
+      "v": "Nao há construtores disponíveis. Clique para abrir o Menu Profissionais ou atribua diretamente a este edifício."
     },
     {
       "k": 453,
-      "v": "The work in this Building has paused"
+      "v": "O trabalho neste edifício parou"
     },
     {
       "k": 454,
-      "v": "The Storage Capacity in this Building is running low"
+      "v": "A capacidade de armazenamento neste edifício está acabando"
     },
     {
       "k": 516,
-      "v": "Building is under construction"
+      "v": "Edifício está em construçao"
     },
     {
       "k": 1508,
-      "v": "Building is damaged"
+      "v": "O edifício está danificado"
     },
     {
       "k": 2262,
-      "v": "Missing resources to repair this building"
+      "v": "Faltam recursos para reparar este edifício"
     },
     {
       "k": 455,
-      "v": "Production time"
+      "v": "Tempo de produçao"
     },
     {
       "k": 456,
-      "v": "Profession"
+      "v": "Profissao"
     },
     {
       "k": 457,
-      "v": "Home"
+      "v": "Casa"
     },
     {
       "k": 458,
-      "v": "Tool"
+      "v": "Ferramenta"
     },
     {
       "k": 459,
-      "v": "Clothing"
+      "v": "Roupas"
     },
     {
       "k": 994,
-      "v": "Settlers are the backbone of the settlement. Whereas Children help their parents to store goods at their homes, parents can either take over simple gathering Tasks or adopt a Profession."
+      "v": "Os colonos sao a espinha dorsal do acordo. Enquanto as crianças ajudam seus pais a armazenar mercadorias em suas casas, eles podem assumir tarefas simples de reuniao ou adotar uma profissao.."
     },
     {
       "k": 992,
-      "v": "The sum of all positive buffs that affect total Confidence."
+      "v": "A soma de todos os buffs positivos que afetam a confiança total."
     },
     {
       "k": 993,
-      "v": "The sum of all negative buffs that affect total Confidence."
+      "v": "A soma de todos os buffs negativos que afetam a confiança total."
     },
     {
       "k": 922,
-      "v": "The contamination of this settler"
+      "v": "A contaminaçao deste colono"
     },
     {
       "k": 460,
-      "v": "No Tool"
+      "v": "Nenhuma ferramenta"
     },
     {
       "k": 461,
-      "v": "No Protective Clothing"
+      "v": "Sem roupa de proteçao"
     },
     {
       "k": 1052,
-      "v": "Settler is thirsty!"
+      "v": "Colono está com sede!"
     },
     {
       "k": 1053,
-      "v": "Settler is hungry!"
+      "v": "Colono está com fome!"
     },
     {
       "k": 2297,
-      "v": "Settler is suffering from Radiation"
+      "v": "Settler is suffering from Radiaçao"
     },
     {
       "k": 462,
@@ -1563,11 +1563,11 @@
     },
     {
       "k": 464,
-      "v": "Close"
+      "v": "Fechar"
     },
     {
       "k": 465,
-      "v": "Buildings"
+      "v": "Edifícios"
     },
     {
       "k": 466,
@@ -1575,11 +1575,11 @@
     },
     {
       "k": 467,
-      "v": "Settlement"
+      "v": "Assentamento"
     },
     {
       "k": 468,
-      "v": "Name"
+      "v": "Nome"
     },
     {
       "k": 750,
@@ -1587,63 +1587,63 @@
     },
     {
       "k": 469,
-      "v": "Current"
+      "v": "Atual"
     },
     {
       "k": 470,
-      "v": "Produced"
+      "v": "Produzido"
     },
     {
       "k": 471,
-      "v": "Consumed"
+      "v": "Consumido"
     },
     {
       "k": 995,
-      "v": "Buildings & Tasks"
+      "v": "Edifícios e tarefas"
     },
     {
       "k": 472,
-      "v": "Production Limits"
+      "v": "Limites de produçao"
     },
     {
       "k": 473,
-      "v": "Settlement Inventory"
+      "v": " Inventário"
     },
     {
       "k": 474,
-      "v": "Back to overview"
+      "v": "Voltar ao menu principal"
     },
     {
       "k": 475,
-      "v": "None"
+      "v": "Nenhum"
     },
     {
       "k": 476,
-      "v": "Low"
+      "v": "Baixo"
     },
     {
       "k": 477,
-      "v": "Medium"
+      "v": "Medio"
     },
     {
       "k": 478,
-      "v": "High"
+      "v": "Alto"
     },
     {
       "k": 2014,
-      "v": "Regions not exposed to Radiation can be crossed by Settlers safely."
+      "v": "Regioes nao expostas a Radiaçao podem ser atravessadas por colonos com segurança."
     },
     {
       "k": 2015,
-      "v": "Regions exposed to Low-level Radiation contaminate Settlers slowly. They can protect themselves by wearing a Neck Scarf."
+      "v": "Regioes expostas a colonizadores de radiaçao de baixo nível lentamente. Eles podem se proteger usando um lenço de pescoço."
     },
     {
       "k": 2016,
-      "v": "Regions exposed to Medium-level Radiation contaminate Settlers quickly. They can protect themselves by wearing an Activated Carbon Mask."
+      "v": "As regioes expostas à radiaçao de nível médio contaminam os colonos rapidamente. Eles podem se proteger usando uma máscara de carvao ativado."
     },
     {
       "k": 2017,
-      "v": "Regions exposed to High-level Radiation are extremely dangerous. Settlers who don't wear a Radiation Suit will be quickly contaminated."
+      "v": "As regioes expostas à radiaçao de alto nível sao extremamente perigosas. Colonizadores que nao usam traje de Radiaçao serao rapidamente contaminados."
     },
     {
       "k": 479,
@@ -1651,215 +1651,215 @@
     },
     {
       "k": 480,
-      "v": "Dry"
+      "v": "Seco"
     },
     {
       "k": 481,
-      "v": "Moist"
+      "v": "Úmido"
     },
     {
       "k": 482,
-      "v": "Wet"
+      "v": "Molhado"
     },
     {
       "k": 819,
-      "v": "Dried-out soil lets Fields, Orchards and forest Plants wither away."
+      "v": "Solo seco permite que campos, pomares e plantas da floresta murcham."
     },
     {
       "k": 820,
-      "v": "Dry soil diminishes the growth of Fields, Orchards and forest Plants."
+      "v": "Solo seco diminui o crescimento de campos, pomares e plantas florestais."
     },
     {
       "k": 821,
-      "v": "Moist soil is good for Field, Orchard and forest Plant growth."
+      "v": "Solo úmido é bom para o campo, pomar e floresta."
     },
     {
       "k": 822,
-      "v": "Fields, Orchards and forest Plants grow faster on wet soil."
+      "v": "Campos, pomares e florestas As plantas crescem mais rapidamente em solo úmido."
     },
     {
       "k": 483,
-      "v": "Activate/Deactivate production"
+      "v": "Ativar/Desativar produçao"
     },
     {
       "k": 484,
-      "v": "Activate/Deactivate Electricity to relieve the connected Power Grid"
+      "v": "Ativar/Desativar Eletricidade para aliviar a rede elétrica conectada"
     },
     {
       "k": 485,
-      "v": "Turnover Statistics"
+      "v": "Estatísticas de rotatividade"
     },
     {
       "k": 486,
-      "v": "Demolish"
+      "v": "Demolir"
     },
     {
       "k": 963,
-      "v": "Upgrade Building"
+      "v": "Atualizar"
     },
     {
       "k": 984,
-      "v": "Upgrade to <<buildingType>>"
+      "v": "Atualizr para <<buildingType>>"
     },
     {
       "k": 2340,
-      "v": "Upgrade Progress"
+      "v": "Progresso da atualizaçao"
     },
     {
       "k": 487,
-      "v": "In-stock inventory of all logistics Buildings in the settlement"
+      "v": "Inventário em estoque de todas logísticas do assentamento"
     },
     {
       "k": 2300,
-      "v": "Children help their Families to transport Food and Water to their home. \nNext Childs to become Adults:"
+      "v": "As crianças ajudam suas famílias a transportar Comida e Água para sua casa. \nPróximas crianças a se tornar Adultos:"
     },
     {
       "k": 488,
-      "v": "Resources"
+      "v": "Recursos"
     },
     {
       "k": 489,
-      "v": "Professionals"
+      "v": "Profissionais"
     },
     {
       "k": 490,
-      "v": "Statistics"
+      "v": "Estatisticas"
     },
     {
       "k": 491,
-      "v": "Adults"
+      "v": "Adultos"
     },
     {
       "k": 492,
-      "v": "Students"
+      "v": "Estudantes"
     },
     {
       "k": 493,
-      "v": "Children"
+      "v": "Crianças"
     },
     {
       "k": 497,
-      "v": "Average Confidence of all Settlers"
+      "v": "Confiança média de todos os colonos"
     },
     {
       "k": 498,
-      "v": "Average Health of all Settlers"
+      "v": "Saúde média de todos os colonos"
     },
     {
       "k": 499,
-      "v": "Average Radiation of all Settlers"
+      "v": "Radiaçao média de todos os colonos"
     },
     {
       "k": 814,
-      "v": "A low level of Confidence slows down population growth. Settlers can cheer themselves up in community Buildings."
+      "v": "Um baixo nível de confiança diminui o crescimento da populaçao. Colonos podem se animar em Edifícios comunitários."
     },
     {
       "k": 815,
-      "v": "A low level of Health increases the risk that a disease breaks out and weakens production, because affected Settlers move slower."
+      "v": "Um baixo nível de saúde aumenta o risco de surgir uma doença e enfraquece a produçao, porque os colonos afetados se movem mais lentamente."
     },
     {
       "k": 816,
-      "v": "A high level of Radiation lets Settlers' Health dwindle away. In addition, Settlers become infertile or die from the high level of Radiation."
+      "v": "Um alto nível de Radiaçao permite que a Saúde dos Colonos diminua. Além disso, os colonos se tornam inférteis ou morrem do alto nível de Radiaçao."
     },
     {
       "k": 500,
-      "v": "Education"
+      "v": "Educaçao"
     },
     {
       "k": 501,
-      "v": "Educated"
+      "v": "Educados"
     },
     {
       "k": 502,
-      "v": "Uneducated"
+      "v": "Nao educados"
     },
     {
       "k": 958,
-      "v": "Pause Demolition"
+      "v": "Pausar Demoliçao"
     },
     {
       "k": 503,
-      "v": "Dismantling Info"
+      "v": "Informaçoes de Desmontagem"
     },
     {
       "k": 504,
-      "v": "Clear Inventory"
+      "v": "Limpar Inventário"
     },
     {
       "k": 956,
-      "v": "Demolish Next"
+      "v": "Demolir próximo"
     },
     {
       "k": 1152,
-      "v": "Gives this Building the highest priority for all Builders. They take care of demolishing this Building as soon as they have completed their current Tasks."
+      "v": "Dá a este edifício a maior prioridade para todos os construtores. Eles cuidam da demoliçao deste edifício assim que terminam suas tarefas atuais.."
     },
     {
       "k": 505,
-      "v": "Cancel Dismantling"
+      "v": "Cancelar Desmontagem"
     },
     {
       "k": 2219,
-      "v": "Cancel Upgrade"
+      "v": "Cancelar atualizaçao"
     },
     {
       "k": 506,
-      "v": "Dismantling Progress"
+      "v": "Desmantelamento do progresso"
     },
     {
       "k": 783,
-      "v": "Show or hide the Game Log"
+      "v": "Mostrar ou ocultar o registro do jogo"
     },
     {
       "k": 507,
-      "v": "<<name>> ({{profession}}) died of starvation {{replacement_status}}."
+      "v": "<<name>> ({{profession}}) morreu de fome {{replacement_status}}."
     },
     {
       "k": 508,
-      "v": "<<name>> ({{profession}}) died of thirst {{replacement_status}}."
+      "v": "<<name>> ({{profession}}) morreu de sede {{replacement_status}}."
     },
     {
       "k": 509,
-      "v": "<<name>> ({{profession}}) died from Radiation {{replacement_status}}."
+      "v": "<<name>> ({{profession}}) morreu de radiaçao {{replacement_status}}."
     },
     {
       "k": 510,
-      "v": "<<name>> ({{profession}}) died of old age {{replacement_status}}."
+      "v": "<<name>> ({{profession}}) morreu de velhice {{replacement_status}}."
     },
     {
       "k": 511,
-      "v": "<<name>> was born."
+      "v": "<<name>> nasceu."
     },
     {
       "k": 512,
-      "v": "<<name>> now goes to School."
+      "v": "<<name>> agora vai para a escola."
     },
     {
       "k": 513,
-      "v": "<<name>> grew up and became an Adult."
+      "v": "<<name>> cresceu e se tornou um adulto."
     },
     {
       "k": 514,
-      "v": "<<name>> finished School and is now an educated Adult."
+      "v": "<<name>> terminou a escola e agora é um adulto educado."
     },
     {
       "k": 599,
-      "v": "<<name>> ({{profession}}) died from their illness {{replacement_status}}."
+      "v": "<<name>> ({{profession}}) morreu da doença {{replacement_status}}."
     },
     {
       "k": 801,
-      "v": "and was replaced by another Settler."
+      "v": "e foi substituído por outro Colono."
     },
     {
       "k": 802,
-      "v": "and couldn't be replaced by any other Settler."
+      "v": "e nao pôde ser substituído por nenhum outro Colono."
     },
     {
       "k": 515,
-      "v": "<<name>> had to drop out of School prematurely and is now an Uneducated Adult."
+      "v": "<<name>> teve que abandonar a escola prematuramente e agora é um adulto sem instruçao."
     },
     {
       "k": 782,
-      "v": "Scarce Resource: {{resource_key}}"
+      "v": "Recursos escassos: {{resource_key}}"
     },
     {
       "k": 793,
@@ -1867,59 +1867,59 @@
     },
     {
       "k": 805,
-      "v": "Building Completed: {{building_type}}"
+      "v": "Construçao concluída: {{building_type}}"
     },
     {
       "k": 2213,
-      "v": "Show or Hide Common"
+      "v": "Mostrar ou ocultar"
     },
     {
       "k": 2214,
-      "v": "Show or Hide Deaths"
+      "v": "Mostrar ou ocultar mortes"
     },
     {
       "k": 2215,
-      "v": "Show or Hide Buildings"
+      "v": "Mostrar ou ocultar Edifícios"
     },
     {
       "k": 2216,
-      "v": "Show or Hide Notifications"
+      "v": "Mostrar ou ocultar notificaçoes"
     },
     {
       "k": 2217,
-      "v": "Show or Hide Resources"
+      "v": "Mostrar ou ocultar recursos"
     },
     {
       "k": 517,
-      "v": "Age"
+      "v": "Idade"
     },
     {
       "k": 817,
-      "v": "The Geiger counter displays the average Radiation in the current field of view.\n"
+      "v": "O contador Geiger exibe a Radiaçao média no campo de visao atual.\n"
     },
     {
       "k": 518,
-      "v": "Click to display terrestrial Radiation."
+      "v": "Clique para exibir a radiaçao terrestre."
     },
     {
       "k": 818,
-      "v": "The water meter displays the amount of stored Water in all of the settlememt's Water Towers and Rainwater Collectors."
+      "v": "O hidrômetro exibe a quantidade de água armazenada em todas as torres de água e coletores de água da chuva do estabelecimento."
     },
     {
       "k": 519,
-      "v": "Click to display soil moisture."
+      "v": "Clique para exibir a umidade do solo."
     },
     {
       "k": 940,
-      "v": "The production limit for Water. When the production limit is reached, all Water Carriers join in to help perform simple Tasks in the settlement."
+      "v": "O limite de produçao para Água. Quando o limite de produçao é atingido, todos os Transportadores de Água se juntam para ajudar a executar Tarefas simples no assentamento."
     },
     {
       "k": 941,
-      "v": "Click to open Resource Menu"
+      "v": "Clique para abrir o menu Recurso"
     },
     {
       "k": 2195,
-      "v": "Focus the previous building of this type with the camera"
+      "v": "Focalize a construçao anterior deste tipo com a câmera"
     },
     {
       "k": 2196,
@@ -1927,39 +1927,39 @@
     },
     {
       "k": 520,
-      "v": "Harvest Now"
+      "v": "Colheita Agora"
     },
     {
       "k": 2197,
-      "v": "<<amount>> Buildings of this type built"
+      "v": "<<amount>> edifícios deste tipo construídos"
     },
     {
       "k": 521,
-      "v": "Planting"
+      "v": "Plantando"
     },
     {
       "k": 522,
-      "v": "Crop Yield"
+      "v": "Rendimento da colheita"
     },
     {
       "k": 523,
-      "v": "Irrigation"
+      "v": "Irrigaçao"
     },
     {
       "k": 2330,
-      "v": "The amount of resources that is reserved to be picked up by settlers for consumption or work tasks."
+      "v": "A quantidade de recursos reservados para serem recolhidos pelos colonos para consumo ou tarefas de trabalho."
     },
     {
       "k": 732,
-      "v": "Current and maximum number of workers"
+      "v": "Número atual e máximo de trabalhadores"
     },
     {
       "k": 733,
-      "v": "Production Limit"
+      "v": "Limite de produçao"
     },
     {
       "k": 734,
-      "v": "Total number of workers in this Profession in the settlement"
+      "v": "Número total de trabalhadores nesta profissao no assentamento"
     },
     {
       "k": 527,
@@ -1983,7 +1983,7 @@
     },
     {
       "k": 1099,
-      "v": "Door"
+      "v": "Porta"
     },
     {
       "k": 696,
@@ -2151,7 +2151,7 @@
     },
     {
       "k": 1140,
-      "v": "Some of us have been contaminated with Radiation. But we did find some Seeds down there!"
+      "v": "Some of us have been contaminated with Radiaçao. But we did find some Seeds down there!"
     },
     {
       "k": 1182,
@@ -2159,11 +2159,11 @@
     },
     {
       "k": 1183,
-      "v": "Looks almost peaceful, if it weren't for the caved-in roof. That must've been one big bang! The remnants have still got to be emitting tons of Radiation. Just listen to that Geiger counter! <<dynamicmessage>>"
+      "v": "Looks almost peaceful, if it weren't for the caved-in roof. That must've been one big bang! The remnants have still got to be emitting tons of Radiaçao. Just listen to that Geiger counter! <<dynamicmessage>>"
     },
     {
       "k": 1270,
-      "v": "Are you sure that we should be spending any time here? All of us ought to be wearing Radiation Suits if we don't want to catch the \"sickness\"."
+      "v": "Are you sure that we should be spending any time here? All of us ought to be wearing Radiaçao Suits if we don't want to catch the \"sickness\"."
     },
     {
       "k": 1184,
@@ -2215,7 +2215,7 @@
     },
     {
       "k": 1280,
-      "v": "The ladder broke apart as the last of us was climbing up it. But we made it. Now we can climb down to the core. You're sure about this, right? The Radiation level must still be incredibly high! We can see chunks of graphite all over the place..."
+      "v": "The ladder broke apart as the last of us was climbing up it. But we made it. Now we can climb down to the core. You're sure about this, right? The Radiaçao level must still be incredibly high! We can see chunks of graphite all over the place..."
     },
     {
       "k": 1281,
@@ -2239,7 +2239,7 @@
     },
     {
       "k": 1188,
-      "v": "This looks like a control room. It ought to be full of electronic equipment. <<dynamicmessage>>"
+      "v": "Parece uma sala de controle. Deveria estar cheio de equipamentos eletrônicos. <<dynamicmessage>>"
     },
     {
       "k": 1285,
@@ -2379,7 +2379,7 @@
     },
     {
       "k": 1302,
-      "v": "That was close! The last of us nearly fell on top of the group, but at the last moment he latched onto something. <<dynamicmessage>> There are lots of dusty Radiation Suits lying around here! They should prove to come in handy..."
+      "v": "That was close! The last of us nearly fell on top of the group, but at the last moment he latched onto something. <<dynamicmessage>> There are lots of dusty Radiaçao Suits lying around here! They should prove to come in handy..."
     },
     {
       "k": 1365,
@@ -2387,7 +2387,7 @@
     },
     {
       "k": 1303,
-      "v": "Damn it, chief, the last of us slipped and fell on top of the whole group. Hit us really hard. We'd be better off heading back... <<dynamicmessage>> This room is full of Radiation Suits, but we were only able to take a few of them with us..."
+      "v": "Damn it, chief, the last of us slipped and fell on top of the whole group. Hit us really hard. We'd be better off heading back... <<dynamicmessage>> This room is full of Radiaçao Suits, but we were only able to take a few of them with us..."
     },
     {
       "k": 1366,
@@ -2455,7 +2455,7 @@
     },
     {
       "k": 1319,
-      "v": "Yes! No door can stop us! We're in a much smaller storage room, but guess what we found in a couple of lockers: Radiation Suits and masks! They really ought to come in handy."
+      "v": "Yes! No door can stop us! We're in a much smaller storage room, but guess what we found in a couple of lockers: Radiaçao Suits and masks! They really ought to come in handy."
     },
     {
       "k": 1320,
@@ -2551,11 +2551,11 @@
     },
     {
       "k": 1215,
-      "v": "Some of them seem to contain Water, but the Geiger counter is going crazy! We'd be best off just staying away from those barrels. But we can take the empty ones along with us."
+      "v": "Some of them seem to contain Água, but the Geiger counter is going crazy! We'd be best off just staying away from those barrels. But we can take the empty ones along with us."
     },
     {
       "k": 1216,
-      "v": "We accidentally tipped one over while trying to open the lid, and now Water has spilled out all over the place. We took off when the Geiger counter started clicking, but some of us suddenly don't feel well at all."
+      "v": "We accidentally tipped one over while trying to open the lid, and now Água has spilled out all over the place. We took off when the Geiger counter started clicking, but some of us suddenly don't feel well at all."
     },
     {
       "k": 1353,
@@ -2579,7 +2579,7 @@
     },
     {
       "k": 646,
-      "v": "Cancel"
+      "v": "Cancelar"
     },
     {
       "k": 2312,
@@ -2587,23 +2587,23 @@
     },
     {
       "k": 540,
-      "v": "Next"
+      "v": "Próximo"
     },
     {
       "k": 541,
-      "v": "Continue"
+      "v": "Continuar"
     },
     {
       "k": 791,
-      "v": "Restart"
+      "v": "Reiniciar"
     },
     {
       "k": 542,
-      "v": "Cancel Remove Radiation"
+      "v": "Cancelar remover radiaçao"
     },
     {
       "k": 543,
-      "v": "Cancels all \"Remove Radiation\" Tasks in a certain area."
+      "v": "Cancels all \"Remove Radiaçao\" Tasks in a certain area."
     },
     {
       "k": 544,
@@ -2611,7 +2611,7 @@
     },
     {
       "k": 545,
-      "v": "Food"
+      "v": "Comida"
     },
     {
       "k": 546,
@@ -2619,7 +2619,7 @@
     },
     {
       "k": 547,
-      "v": "Radiation Protection"
+      "v": "Radiaçao Protection"
     },
     {
       "k": 548,
@@ -2639,15 +2639,15 @@
     },
     {
       "k": 986,
-      "v": "Providing a wide variety of Foods together with Herbs keeps your Settlers healthy and lowers the risk of a disease outbreak."
+      "v": "Providing a wide variety of Comidas together with Herbs keeps your Settlers healthy and lowers the risk of a disease outbreak."
     },
     {
       "k": 987,
-      "v": "Water is the key to survival. Water can be collected from Lakes via a Jetty, from the ground via a Well, or from rain via a Rainwater Collector. A Cistern or a Water Tower is neccessary to distribute the Water within the settlement."
+      "v": "Água is the key to survival. Água can be collected from Lakes via a Jetty, from the ground via a Well, or from rain via a Rainwater Collector. A Reservatório or a Água Tower is neccessary to distribute the Água within the settlement."
     },
     {
       "k": 988,
-      "v": "Radiation protection keeps your Settlers healthy by shielding them against Radiation from the surrounding environment when they move around."
+      "v": "Radiaçao protection keeps your Settlers healthy by shielding them against Radiaçao from the surrounding environment when they move around."
     },
     {
       "k": 989,
@@ -2671,11 +2671,11 @@
     },
     {
       "k": 553,
-      "v": "Food"
+      "v": "Comida"
     },
     {
       "k": 554,
-      "v": "Water"
+      "v": "Água"
     },
     {
       "k": 555,
@@ -2683,11 +2683,11 @@
     },
     {
       "k": 556,
-      "v": "Expeditions"
+      "v": "Expediçoes"
     },
     {
       "k": 557,
-      "v": "Remove Road"
+      "v": "Remover estrada"
     },
     {
       "k": 558,
@@ -2695,7 +2695,7 @@
     },
     {
       "k": 955,
-      "v": "Builders demolish marked Buildings. Demolishing a Building recovers some of the Resources that were originally used for construction."
+      "v": "Builders demolish marked Edifícios. Demolishing a Building recovers some of the Resources that were originally used for construction."
     },
     {
       "k": 559,
@@ -2715,11 +2715,11 @@
     },
     {
       "k": 854,
-      "v": "This Building requires Charcoal to filter Radiation from Water."
+      "v": "This Building requires Charcoal to filter Radiaçao from Água."
     },
     {
       "k": 1006,
-      "v": "Click to open Professionals Menu"
+      "v": "Click to open Profissionais Menu"
     },
     {
       "k": 1007,
@@ -2771,7 +2771,7 @@
     },
     {
       "k": 585,
-      "v": "Professionals with no Workplace"
+      "v": "Profissionais with no Workplace"
     },
     {
       "k": 586,
@@ -2787,11 +2787,11 @@
     },
     {
       "k": 589,
-      "v": "Low Food reserves"
+      "v": "Low Comida reserves"
     },
     {
       "k": 590,
-      "v": "Low Water reserves"
+      "v": "Low Água reserves"
     },
     {
       "k": 591,
@@ -2803,7 +2803,7 @@
     },
     {
       "k": 1228,
-      "v": "Damaged Buildings"
+      "v": "Damaged Edifícios"
     },
     {
       "k": 2254,
@@ -2835,11 +2835,11 @@
     },
     {
       "k": 1054,
-      "v": "Buildings of the same type in the vicinity of each other reduce the production figure for each Building."
+      "v": "Edifícios of the same type in the vicinity of each other reduce the production figure for each Building."
     },
     {
       "k": 1055,
-      "v": "Buildings in the vicinity: <<amount>>"
+      "v": "Edifícios in the vicinity: <<amount>>"
     },
     {
       "k": 1070,
@@ -2871,11 +2871,11 @@
     },
     {
       "k": 1067,
-      "v": "Amount of Water filtered per Coal:"
+      "v": "Amount of Água filtered per Coal:"
     },
     {
       "k": 1068,
-      "v": "This Water Tower filters <<amount>> times the amount of Water per unit of Charcoal via electricity."
+      "v": "This Água Tower filters <<amount>> times the amount of Água per unit of Charcoal via electricity."
     },
     {
       "k": 966,
@@ -2887,7 +2887,7 @@
     },
     {
       "k": 959,
-      "v": "Current Seed"
+      "v": "Atual Seed"
     },
     {
       "k": 960,
@@ -2895,7 +2895,7 @@
     },
     {
       "k": 961,
-      "v": "Terrestrial Radiation"
+      "v": "Terrestrial Radiaçao"
     },
     {
       "k": 962,
@@ -2919,11 +2919,11 @@
     },
     {
       "k": 1057,
-      "v": "Growing Time: <<growTime>> Season(s)"
+      "v": "Growing Time: <<growTime>> Estaçao(s)"
     },
     {
       "k": 1058,
-      "v": "Growing Time: <<growTime>> Season(s)\nCrop Cycles: <<harvestCycles>>\nRegrowth Time: <<regrowTime>> Season(s)"
+      "v": "Growing Time: <<growTime>> Estaçao(s)\nCrop Cycles: <<harvestCycles>>\nRegrowth Time: <<regrowTime>> Estaçao(s)"
     },
     {
       "k": 972,
@@ -2947,15 +2947,15 @@
     },
     {
       "k": 999,
-      "v": "Water Consumption"
+      "v": "Água Consumption"
     },
     {
       "k": 1000,
-      "v": "Water Consumption during drought"
+      "v": "Água Consumption during drought"
     },
     {
       "k": 1001,
-      "v": "Irrigation"
+      "v": "Irrigaçao"
     },
     {
       "k": 1031,
@@ -2963,7 +2963,7 @@
     },
     {
       "k": 1032,
-      "v": "Set the rain contamination level at which the respective Buildings are supposed to be covered to protect them."
+      "v": "Set the rain contamination level at which the respective Edifícios are supposed to be covered to protect them."
     },
     {
       "k": 1033,
@@ -2995,11 +2995,11 @@
     },
     {
       "k": 1039,
-      "v": "Consuming Buildings"
+      "v": "Consuming Edifícios"
     },
     {
       "k": 1040,
-      "v": "Energy Produced"
+      "v": "Energy Produzido"
     },
     {
       "k": 1041,
@@ -3023,7 +3023,7 @@
     },
     {
       "k": 1149,
-      "v": "Energy Produced: <<producedEnergy>>\nEnergy Consumption: <<consumedEnergy>>"
+      "v": "Energy Produzido: <<producedEnergy>>\nEnergy Consumption: <<consumedEnergy>>"
     },
     {
       "k": 1150,
@@ -3035,7 +3035,7 @@
     },
     {
       "k": 1044,
-      "v": "Highlighting Toggle on/off for all Consuming Buildings in the gameworld"
+      "v": "Highlighting Toggle on/off for all Consuming Edifícios in the gameworld"
     },
     {
       "k": 1045,
@@ -3127,7 +3127,7 @@
     },
     {
       "k": 1174,
-      "v": "Radiation Contamination Badge"
+      "v": "Radiaçao Contamination Badge"
     },
     {
       "k": 1623,
@@ -3191,7 +3191,7 @@
     },
     {
       "k": 1638,
-      "v": "Water Carrier Badge"
+      "v": "Água Carrier Badge"
     },
     {
       "k": 1639,
@@ -3311,15 +3311,15 @@
     },
     {
       "k": 1176,
-      "v": "This badge is awarded for enduring high-level Radiation for <<seasons>> Seasons."
+      "v": "This badge is awarded for enduring high-level Radiaçao for <<seasons>> Seasons."
     },
     {
       "k": 1177,
-      "v": "This Settler hasn't received any badge yet."
+      "v": "Este Colono ainda nao recebeu nenhum emblema."
     },
     {
       "k": 2345,
-      "v": "Settlers that work in a profession or live under certain conditions for over <<seasons>> seasons are rewarded with a badge."
+      "v": "Os colonos que trabalham em uma profissao ou vivem sob certas condiçoes por mais de <<seasons>> temporadas sao recompensados com um distintivo."
     },
     {
       "k": 749,
@@ -3403,7 +3403,7 @@
     },
     {
       "k": 610,
-      "v": "Settlement Name"
+      "v": "Assentamento Nome"
     },
     {
       "k": 611,
@@ -3459,7 +3459,7 @@
     },
     {
       "k": 619,
-      "v": "Name your settlement"
+      "v": "Nome your settlement"
     },
     {
       "k": 620,
@@ -3467,7 +3467,7 @@
     },
     {
       "k": 2205,
-      "v": "Distance to Water"
+      "v": "Distance to Água"
     },
     {
       "k": 2206,
@@ -3487,31 +3487,31 @@
     },
     {
       "k": 2210,
-      "v": "The distance to water defines how far away the first natural source of water should be to the Town Center. A higher distance increases the difficulty."
+      "v": "A distância da água define a que distância a primeira fonte natural de água deve estar para o centro da cidade. Uma distância maior aumenta a dificuldade."
     },
     {
       "k": 1734,
-      "v": "Graphics"
+      "v": "Gráficos"
     },
     {
       "k": 1735,
-      "v": "Audio"
+      "v": "Áudio"
     },
     {
       "k": 1736,
-      "v": "Resolution"
+      "v": "Resoluçao"
     },
     {
       "k": 1737,
-      "v": "Toggle Fullscreen"
+      "v": "Alternar para o modo tela cheia"
     },
     {
       "k": 1942,
-      "v": "Shadow Quality"
+      "v": "Qualidade da sombra"
     },
     {
       "k": 1943,
-      "v": "Grass Quality"
+      "v": "Qualidade da grama"
     },
     {
       "k": 2146,
@@ -3519,47 +3519,47 @@
     },
     {
       "k": 2147,
-      "v": "Display Mode"
+      "v": "Modo de exibiçao"
     },
     {
       "k": 2148,
-      "v": "Level of Detail"
+      "v": "Nível de detalhe"
     },
     {
       "k": 2149,
-      "v": "Texture Quality"
+      "v": "Qualidade da textura"
     },
     {
       "k": 2150,
-      "v": "Ambient Occlusion"
+      "v": "Oclusao ambiental"
     },
     {
       "k": 2151,
-      "v": "Anisotropic Filtering"
+      "v": "Filtragem anisotrópica"
     },
     {
       "k": 2152,
-      "v": "Render Quality"
+      "v": "Qualidade de renderizaçao"
     },
     {
       "k": 2153,
-      "v": "Exclusive Fullscreen"
+      "v": "Tela cheia exclusiva"
     },
     {
       "k": 2154,
-      "v": "Borderless Window"
+      "v": "Janela sem borda"
     },
     {
       "k": 2155,
-      "v": "Windowed"
+      "v": "Janela"
     },
     {
       "k": 2156,
-      "v": "* the game is currently not optimized for this resolution. "
+      "v": "* o jogo atualmente nao está otimizado para esta resoluçao. "
     },
     {
       "k": 2157,
-      "v": "Resolution & Refresh Rate"
+      "v": "Resoluçao e taxa de atualizaçao"
     },
     {
       "k": 2158,
@@ -3567,91 +3567,91 @@
     },
     {
       "k": 1738,
-      "v": "Master Volume"
+      "v": "Volume principal"
     },
     {
       "k": 1739,
-      "v": "Game Volume"
+      "v": "Volume do jogo"
     },
     {
       "k": 1740,
-      "v": "Music Volume"
+      "v": "Volume da música"
     },
     {
       "k": 1741,
-      "v": "User Interface Volume"
+      "v": "Volume da interface do usuário"
     },
     {
       "k": 2258,
-      "v": "Radiation Sound Effect"
+      "v": "Efeito do som da Radiaçao"
     },
     {
       "k": 2192,
-      "v": "User Interface"
+      "v": "Interface de usuário"
     },
     {
       "k": 2193,
-      "v": "Scale"
+      "v": "Escala"
     },
     {
       "k": 2275,
-      "v": "Controls Overview"
+      "v": "Visao geral dos controles"
     },
     {
       "k": 2276,
-      "v": "Default Game Speed"
+      "v": "Velocidade padrao do jogo"
     },
     {
       "k": 2277,
-      "v": "Fast Game Speed"
+      "v": "Velocidade de jogo rápida"
     },
     {
       "k": 2278,
-      "v": "Very Fast Game Speed"
+      "v": "Velocidade de jogo muito rápida"
     },
     {
       "k": 2279,
-      "v": "Open Main Menu"
+      "v": "Abra o Menu Principal"
     },
     {
       "k": 2280,
-      "v": "Switch through Overlays"
+      "v": "Alternar entre sobreposiçoes"
     },
     {
       "k": 2281,
-      "v": "Move Camera"
+      "v": "Mover câmera"
     },
     {
       "k": 2282,
-      "v": "Open Production Limits"
+      "v": "Abrir o menu de Limites de Produçao"
     },
     {
       "k": 2283,
-      "v": "Open Professions Menu"
+      "v": "Abrir o menu de Profissoes"
     },
     {
       "k": 2284,
-      "v": "Open Build & Tasks Menu"
+      "v": "Abra o menu de construçao e tarefas"
     },
     {
       "k": 2285,
-      "v": "Pause The Game"
+      "v": "Pausar o jogo"
     },
     {
       "k": 2286,
-      "v": "Open Bug Reporter"
+      "v": "Abrir Bug Reporter"
     },
     {
       "k": 2287,
-      "v": "Rotate Camera"
+      "v": "Rodar Camera"
     },
     {
       "k": 2288,
-      "v": "Rotate Building"
+      "v": "Rodar edifício"
     },
     {
       "k": 2289,
-      "v": "Disable UI"
+      "v": "Desativar interface do usuário"
     },
     {
       "k": 2290,
@@ -3659,103 +3659,103 @@
     },
     {
       "k": 2291,
-      "v": "Select"
+      "v": "Selecione"
     },
     {
       "k": 2292,
-      "v": "Hold To Rotate Camera"
+      "v": "Segure para girar a câmera"
     },
     {
       "k": 2293,
-      "v": "Scroll To Zoom"
+      "v": "Role para ampliar"
     },
     {
       "k": 2294,
-      "v": "Click To Rotate Building"
+      "v": "Clique para rodar edifício"
     },
     {
       "k": 2295,
-      "v": "Hold To Pan Camera"
+      "v": "Segure para deslocar a câmera"
     },
     {
       "k": 2296,
-      "v": "Click To Deselect"
+      "v": "Clique para desmarcar"
     },
     {
       "k": 1742,
-      "v": "Small"
+      "v": "pequeno"
     },
     {
       "k": 1743,
-      "v": "Medium"
+      "v": "Medio"
     },
     {
       "k": 1744,
-      "v": "Large"
+      "v": "Maior"
     },
     {
       "k": 1745,
-      "v": "Apply"
+      "v": "Aplicar"
     },
     {
       "k": 1746,
-      "v": "Reset"
+      "v": "Redefinir"
     },
     {
       "k": 2211,
-      "v": "Short"
+      "v": "Baixo"
     },
     {
       "k": 2212,
-      "v": "Far"
+      "v": "Longe"
     },
     {
       "k": 621,
-      "v": "Delete"
+      "v": "Deletar"
     },
     {
       "k": 622,
-      "v": "Cancel"
+      "v": "Cancelar"
     },
     {
       "k": 623,
-      "v": "Quit"
+      "v": "Sair :("
     },
     {
       "k": 1002,
-      "v": "Increase by 10"
+      "v": "Aumentar em 10"
     },
     {
       "k": 1003,
-      "v": "Increase by 100"
+      "v": "Aumentar em 100"
     },
     {
       "k": 1004,
-      "v": "Decrease by 10"
+      "v": "Diminuir em 10"
     },
     {
       "k": 1005,
-      "v": "Decrease by 100"
+      "v": "Diminuir em 100"
     },
     {
       "k": 2261,
-      "v": "You are currently in a running game session. All unsaved progress will be lost when starting a new game!"
+      "v": "Você está atualmente em uma sessao de jogo em execuçao. Todo o progresso nao salvo será perdido ao iniciar um novo jogo!"
     },
     {
       "k": 792,
-      "v": "Are you sure you want to restart the current game session? All unsaved progress will be lost!"
+      "v": "Tem certeza de que deseja reiniciar a sessao atual do jogo? Todo o progresso nao salvo será perdido!"
     },
     {
       "k": 624,
-      "v": "Are you sure you want to delete the session <<settlementName>> and all of its savegames? This cannot be undone!"
+      "v": "Tem certeza de que deseja excluir a sessao <<settlementName>> e todos os seus jogos de salvamento? Isto nao pode ser desfeito!"
     },
     {
       "k": 625,
-      "v": "Are you sure you want to delete this savegame?"
+      "v": "Tem certeza de que deseja excluir este savegame?"
     },
     {
       "k": 626,
-      "v": "Are you sure you want to quit the game? All unsaved progress will be lost!"
+      "v": "Tem certeza de que deseja sair do jogo? Todo o progresso nao salvo será perdido!"
     },
     {
       "k": 1749,
@@ -3795,7 +3795,7 @@
     },
     {
       "k": 1056,
-      "v": "Maximum No. of Inhabitants: <<adultsAmount>> Adults and <<childAmount>> Children."
+      "v": "Maximum No. of Inhabitants: <<adultsAmount>> Adultos and <<childAmount>> Crianças."
     },
     {
       "k": 824,
@@ -3979,15 +3979,15 @@
     },
     {
       "k": 796,
-      "v": "Let's build ourselves a new home!"
+      "v": "Vamos construir um novo lar!"
     },
     {
       "k": 687,
-      "v": "This looks like a good place to settle. You know what we learned in the Endzone: Basic needs come first and foremost! We have to build up a Water and Food supply, and then..."
+      "v": "Parece um bom lugar para se estabelecer. Você sabe o que aprendemos no EndZone? as necessidades básicas vêm antes de tudo! Temos que construir suprimentos de água e comida, e entao ..."
     },
     {
       "k": 1169,
-      "v": "A New Beginning"
+      "v": "Um novo começo"
     },
     {
       "k": 699,
@@ -4071,11 +4071,11 @@
     },
     {
       "k": 719,
-      "v": "Idle"
+      "v": "Só de boa"
     },
     {
       "k": 720,
-      "v": "Dead"
+      "v": "Morto"
     },
     {
       "k": 776,
@@ -4107,19 +4107,19 @@
     },
     {
       "k": 2273,
-      "v": "Current Profession"
+      "v": "Profissao Atual"
     },
     {
       "k": 2274,
-      "v": "Next Profession"
+      "v": "Profissao seguinte"
     },
     {
       "k": 2309,
-      "v": "No Partner"
+      "v": "Nenhum parceiro"
     },
     {
       "k": 721,
-      "v": "Blocking areas"
+      "v": "Áreas de bloqueio"
     },
     {
       "k": 722,
@@ -4127,7 +4127,7 @@
     },
     {
       "k": 723,
-      "v": "Requires Water"
+      "v": "Requires Água"
     },
     {
       "k": 724,
@@ -4139,11 +4139,11 @@
     },
     {
       "k": 725,
-      "v": "Water"
+      "v": "Água"
     },
     {
       "k": 726,
-      "v": "Food"
+      "v": "Comida"
     },
     {
       "k": 727,
@@ -4195,7 +4195,7 @@
     },
     {
       "k": 823,
-      "v": "Rain clouds increase the soil irrigation level but can also change its Radiation level depending on how highly the rain is contaminated in the current year."
+      "v": "Rain clouds increase the soil irrigation level but can also change its Radiaçao level depending on how highly the rain is contaminated in the current year."
     },
     {
       "k": 740,
@@ -4211,7 +4211,7 @@
     },
     {
       "k": 2326,
-      "v": "Current Settlers in this Profession"
+      "v": "Atual Settlers in this Profession"
     },
     {
       "k": 2327,
@@ -4431,7 +4431,7 @@
     },
     {
       "k": 2228,
-      "v": "Fast Food Restaurant"
+      "v": "Fast Comida Restaurant"
     },
     {
       "k": 2229,
@@ -4503,19 +4503,19 @@
     },
     {
       "k": 843,
-      "v": "Focus on accumulating Food."
+      "v": "Focus on accumulating Comida."
     },
     {
       "k": 844,
-      "v": "Focus on accumulating Water."
+      "v": "Focus on accumulating Água."
     },
     {
       "k": 845,
-      "v": "Accumulate more Food or build up larger stockpiles."
+      "v": "Accumulate more Comida or build up larger stockpiles."
     },
     {
       "k": 846,
-      "v": "Accumulate more Water or build up larger stockpiles."
+      "v": "Accumulate more Água or build up larger stockpiles."
     },
     {
       "k": 847,
@@ -4523,7 +4523,7 @@
     },
     {
       "k": 848,
-      "v": "Slows your Settlers down, redistributes Radiation and damages Buildings."
+      "v": "Slows your Settlers down, redistributes Radiaçao and damages Edifícios."
     },
     {
       "k": 849,
@@ -4535,7 +4535,7 @@
     },
     {
       "k": 851,
-      "v": "Stockpile Water and Food in order to survive. The soil is going to become infertile."
+      "v": "Stockpile Água and Comida in order to survive. The soil is going to become infertile."
     },
     {
       "k": 856,
@@ -4567,19 +4567,19 @@
     },
     {
       "k": 857,
-      "v": "Tasks"
+      "v": "Tarefas"
     },
     {
       "k": 858,
-      "v": "Establish a functioning Water Supply."
+      "v": "Criar um abastecimento de água."
     },
     {
       "k": 859,
-      "v": "\"<<buildingName>>\" built: <<amount>>"
+      "v": "Construir: <<amount>> <<buildingName>>"
     },
     {
       "k": 2191,
-      "v": "Place \"<<buildingName>>\" task"
+      "v": "Colocar \"<<buildingName>>\" tarefa"
     },
     {
       "k": 1026,
@@ -4587,27 +4587,27 @@
     },
     {
       "k": 1113,
-      "v": "Side Tasks"
+      "v": "Tarefas secundárias"
     },
     {
       "k": 1143,
-      "v": "Rewards"
+      "v": "Recompensas"
     },
     {
       "k": 860,
-      "v": "Provide the settlement with Food"
+      "v": "Fornecer o acordo com Comida"
     },
     {
       "k": 861,
-      "v": "Buildings built in the category <<category>>: <<amount>>"
+      "v": "Edifícios construídos na categoria <<category>>: <<amount>>"
     },
     {
       "k": 1025,
-      "v": "Assign Settlers to the Profession <<professionName>>: <<amount>>"
+      "v": "Atribuir colonos à profissao <<professionName>>: <<amount>>"
     },
     {
       "k": 862,
-      "v": "Resource"
+      "v": "Recurso"
     },
     {
       "k": 2269,
@@ -4615,7 +4615,7 @@
     },
     {
       "k": 1030,
-      "v": "The supply of Water and Food are secured for the time being.\n \nStart gathering Resources from the surroundings so that <<villageName>> can continue to grow."
+      "v": "The supply of Água and Comida are secured for the time being.\n \nStart gathering Resources from the surroundings so that <<villageName>> can continue to grow."
     },
     {
       "k": 927,
@@ -4675,23 +4675,23 @@
     },
     {
       "k": 2301,
-      "v": "Children help their Families to transport Food and Water to their home. They can be educated in a School as long as they are childs to make them grow up to educated Adults."
+      "v": "Crianças help their Families to transport Comida and Água to their home. They can be educated in a School as long as they are childs to make them grow up to educated Adultos."
     },
     {
       "k": 2302,
-      "v": "Young Adults are Settlers that recently became Adults and are potential new workforce that can be distributed to different Professions. If they are provided with a suitable place to start a family they try to find a partner to grow the population of the settlement."
+      "v": "Young Adultos are Settlers that recently became Adultos and are potential new workforce that can be distributed to different Professions. If they are provided with a suitable place to start a family they try to find a partner to grow the population of the settlement."
     },
     {
       "k": 2303,
-      "v": "Adults are Settlers, that might be old enough to have proven themselves worthy in a specific profession. In this case they are rewarded with a Badge. Adults are still fertile and might help to grow the population of the settlement."
+      "v": "Adultos are Settlers, that might be old enough to have proven themselves worthy in a specific profession. In this case they are rewarded with a Badge. Adultos are still fertile and might help to grow the population of the settlement."
     },
     {
       "k": 2304,
-      "v": "Old Adults are no longer fertile and can't help to grow the population of the settlement anymore. They are likely to be rewarded with a Badge for a specific Profession."
+      "v": "Old Adultos are no longer fertile and can't help to grow the population of the settlement anymore. They are likely to be rewarded with a Badge for a specific Profession."
     },
     {
       "k": 2305,
-      "v": "Very Old Adults will die any time soon. If there are free Settlers available in case of their Death they can be replaced in their current Profession."
+      "v": "Very Old Adultos will die any time soon. If there are free Settlers available in case of their Death they can be replaced in their current Profession."
     },
     {
       "k": 2306,
@@ -4731,7 +4731,7 @@
     },
     {
       "k": 1928,
-      "v": "Advantage due to Professionals"
+      "v": "Advantage due to Profissionais"
     },
     {
       "k": 1016,
@@ -4767,7 +4767,7 @@
     },
     {
       "k": 1644,
-      "v": "Explorers with <<value>> Radiation or higher: <<count>>"
+      "v": "Explorers with <<value>> Radiaçao or higher: <<count>>"
     },
     {
       "k": 1645,
@@ -4775,7 +4775,7 @@
     },
     {
       "k": 1929,
-      "v": "Professionals in the field of <<profession>>: <<count>>"
+      "v": "Profissionais in the field of <<profession>>: <<count>>"
     },
     {
       "k": 2253,
@@ -4803,7 +4803,7 @@
     },
     {
       "k": 1351,
-      "v": "Expedition Inventory"
+      "v": "Expedition Inventário"
     },
     {
       "k": 1352,
@@ -4875,7 +4875,7 @@
     },
     {
       "k": 2241,
-      "v": "New Settlers have joind the Settlement."
+      "v": "New Settlers have joind the Assentamento."
     },
     {
       "k": 2242,
@@ -4899,7 +4899,7 @@
     },
     {
       "k": 1081,
-      "v": "Produce Radiation Protection Clothing for your Settlers"
+      "v": "Produce Radiaçao Protection Clothing for your Settlers"
     },
     {
       "k": 1082,
@@ -4911,7 +4911,7 @@
     },
     {
       "k": 1084,
-      "v": "Reach Season <<amount>>"
+      "v": "Reach Estaçao <<amount>>"
     },
     {
       "k": 1086,
@@ -4983,11 +4983,11 @@
     },
     {
       "k": 1157,
-      "v": "Hey, chief, the Water Supply was completed as planned. So far everything's up and running, and we already siphoned off a little Water."
+      "v": "Hey, chief, the Água Supply was completed as planned. So far everything's up and running, and we already siphoned off a little Água."
     },
     {
       "k": 1158,
-      "v": "We've satisfied our basic needs with a functioning Food chain! A few Rations have already been stockpiled."
+      "v": "We've satisfied our basic needs with a functioning Comida chain! A few Rations have already been stockpiled."
     },
     {
       "k": 1159,
@@ -4995,7 +4995,7 @@
     },
     {
       "k": 1160,
-      "v": "Nice one, chief! Home sweet home! A little bit of Scrap and Wood is still left over... Say, folks, did you really screw in all the screws?!"
+      "v": "Nice one, chief! Home sweet home! A little bit of Scrap and Madeira is still left over... Say, folks, did you really screw in all the screws?!"
     },
     {
       "k": 1161,
@@ -5047,7 +5047,7 @@
     },
     {
       "k": 1232,
-      "v": "Adults"
+      "v": "Adultos"
     },
     {
       "k": 1233,
@@ -5055,7 +5055,7 @@
     },
     {
       "k": 1234,
-      "v": "Children"
+      "v": "Crianças"
     },
     {
       "k": 1235,
@@ -5067,31 +5067,31 @@
     },
     {
       "k": 1237,
-      "v": "All Children become Adults as of a certain age. As Adults they can be instructed to carry out a <link=\"2\"><u>Task</u></link> or to pursue a <link=\"3\"><u>Profession</u></link>."
+      "v": "All Crianças become Adultos as of a certain age. As Adultos they can be instructed to carry out a <link=\"2\"><u>Task</u></link> or to pursue a <link=\"3\"><u>Profession</u></link>."
     },
     {
       "k": 1238,
-      "v": "Settlers who live in a House start a Family. A Family consists of one male and one female Adult. In the course of time these two Settlers are going to reproduce, and if sufficient space is available in the House they have up to three Children all at once."
+      "v": "Settlers who live in a House start a Family. A Family consists of one male and one female Adult. In the course of time these two Settlers are going to reproduce, and if sufficient space is available in the House they have up to three Crianças all at once."
     },
     {
       "k": 1239,
-      "v": "Children are born when a Family has enough space in their House. \nThey cannot practice <link=\"3\"><u>Professions</u></link> or carry out <link=\"2\"><u>Tasks</u></link>.\nDespite this, Children are going to help out in the settlement. For instance, they carry Resources from <link=\"18\"><u>Warehouses</u></link> to their homes and attend <link=\"17\"><u>School</u></link> if one is available."
+      "v": "Crianças are born when a Family has enough space in their House. \nThey cannot practice <link=\"3\"><u>Professions</u></link> or carry out <link=\"2\"><u>Tasks</u></link>.\nDespite this, Crianças are going to help out in the settlement. For instance, they carry Resources from <link=\"18\"><u>Warehouses</u></link> to their homes and attend <link=\"17\"><u>School</u></link> if one is available."
     },
     {
       "k": 1240,
-      "v": "A cabin can be built to give Settlers a home. Settlers constitute a Family when they live in one House. <link=\"5\"><u>Food Items</u></link> for the Settlers who live there are stored in the Building.\nSettlers with a roof over their heads are also <link=\"8\"><u>more confident</u></link>."
+      "v": "A cabin can be built to give Settlers a home. Settlers constitute a Family when they live in one House. <link=\"5\"><u>Comida Items</u></link> for the Settlers who live there are stored in the Building.\nSettlers with a roof over their heads are also <link=\"8\"><u>more confident</u></link>."
     },
     {
       "k": 1241,
-      "v": "The Sturdy House functions like a cabin. In addition it can store more <link=\"6\"><u>Water</u></link> and <link=\"5\"><u>Food Items</u></link> for its inhabitants, while also withstanding sandtorms more easily. Settlers only move in as a family."
+      "v": "The Sturdy House functions like a cabin. In addition it can store more <link=\"6\"><u>Água</u></link> and <link=\"5\"><u>Comida Items</u></link> for its inhabitants, while also withstanding sandtorms more easily. Settlers only move in as a family."
     },
     {
       "k": 1242,
-      "v": "A Shelter has room for up to 25 Settlers. While living in a Shelter Settlers do not start any Families and do not reproduce. The Shelter is able to store <link=\"5\"><u>Food</u></link> and <link=\"6\"><u>Water</u></link> for its inhabitants."
+      "v": "A Shelter has room for up to 25 Settlers. While living in a Shelter Settlers do not start any Families and do not reproduce. The Shelter is able to store <link=\"5\"><u>Comida</u></link> and <link=\"6\"><u>Água</u></link> for its inhabitants."
     },
     {
       "k": 1243,
-      "v": "Settlers who grow too old become infertile. They can also lose their ability to reproduce when they are highly <link=\"10\"><u>contaminated</u></link> with Radiation."
+      "v": "Settlers who grow too old become infertile. They can also lose their ability to reproduce when they are highly <link=\"10\"><u>contaminated</u></link> with Radiaçao."
     },
     {
       "k": 1245,
@@ -5167,15 +5167,15 @@
     },
     {
       "k": 1542,
-      "v": "You can commission the construction of a Building by specifying a construction site on the land where the Building is supposed to appear. If the land does not permit this, it indicates this by marking the problematic areas red. You can place any construction site, even when your settlement does not have the necessary Resources at its disposal yet.\nIf the land is <link=\"10\"><u>contaminated</u></link> with Radiation, your Settlers start by digging up the soil.\nOnce your settlers have removed the Radiation from the construction site, they will bring the Resources needed for construction to the construction site. \nWhen all necessary Resources are there, your Builders will start constructing the Building.\n"
+      "v": "You can commission the construction of a Building by specifying a construction site on the land where the Building is supposed to appear. If the land does not permit this, it indicates this by marking the problematic areas red. You can place any construction site, even when your settlement does not have the necessary Resources at its disposal yet.\nIf the land is <link=\"10\"><u>contaminated</u></link> with Radiaçao, your Settlers start by digging up the soil.\nOnce your settlers have removed the Radiaçao from the construction site, they will bring the Resources needed for construction to the construction site. \nWhen all necessary Resources are there, your Builders will start constructing the Building.\n"
     },
     {
       "k": 1543,
-      "v": "Many Buildings have a fixed working radius. <link=\"3\"><u>Employed</u></link> Settlers who work on the Building only work within this assigned radius. You can shift the radius using the appropriate icon."
+      "v": "Many Edifícios have a fixed working radius. <link=\"3\"><u>Employed</u></link> Settlers who work on the Building only work within this assigned radius. You can shift the radius using the appropriate icon."
     },
     {
       "k": 1544,
-      "v": "Entrances to Buildings are marked as a green area.\nSettlers can enter and exit the Building solely at these entrances.\n"
+      "v": "Entrances to Edifícios are marked as a green area.\nSettlers can enter and exit the Building solely at these entrances.\n"
     },
     {
       "k": 1545,
@@ -5183,7 +5183,7 @@
     },
     {
       "k": 1546,
-      "v": "Streets are created differently compared with other Buildings. Klick on the land where you want to place a Street. Now move the mouse along the route the Street is supposed to take.\nClick again to award your Builders the contract to build the Street.\n"
+      "v": "Streets are created differently compared with other Edifícios. Klick on the land where you want to place a Street. Now move the mouse along the route the Street is supposed to take.\nClick again to award your Builders the contract to build the Street.\n"
     },
     {
       "k": 1547,
@@ -5191,7 +5191,7 @@
     },
     {
       "k": 1548,
-      "v": "<link=\"5\"><u>Fields and Orchards</u></link> are built differently compared with other Buildings.\nClick on the spot of land where you want to create a Field. Now move the mouse until your field has the desired size. Click on the spot again to create the Field.\nThe minimum size for a Field or an Orchard is 6x6, the maximum size is 16x16. \n"
+      "v": "<link=\"5\"><u>Fields and Orchards</u></link> are built differently compared with other Edifícios.\nClick on the spot of land where you want to create a Field. Now move the mouse until your field has the desired size. Click on the spot again to create the Field.\nThe minimum size for a Field or an Orchard is 6x6, the maximum size is 16x16. \n"
     },
     {
       "k": 1549,
@@ -5207,135 +5207,135 @@
     },
     {
       "k": 1552,
-      "v": "Buildings become damaged when they have been caught in a <link=\"7\"><u>sandstorm</u></link>.\nA Building that has sustained too much damage becomes inactive until it is repaired.\nSettlers who have to live in damaged Houses lose some <link=\"8\"><u>Confidence</u></link>. Your Builders automatically repair all damaged Buildings."
+      "v": "Edifícios become damaged when they have been caught in a <link=\"7\"><u>sandstorm</u></link>.\nA Building that has sustained too much damage becomes inactive until it is repaired.\nSettlers who have to live in damaged Houses lose some <link=\"8\"><u>Confidence</u></link>. Your Builders automatically repair all damaged Edifícios."
     },
     {
       "k": 1553,
-      "v": "Your Builders can take readily constructed Buildings apart again. A small part of the Resources used to construct the Building can be used again and is brought to the Warehouse."
+      "v": "Your Builders can take readily constructed Edifícios apart again. A small part of the Resources used to construct the Building can be used again and is brought to the Warehouse."
     },
     {
       "k": 1247,
-      "v": "Using Tasks"
+      "v": "Usando tarefas"
     },
     {
       "k": 1555,
-      "v": "Tasks"
+      "v": "Tarefas"
     },
     {
       "k": 1556,
-      "v": "Gather Wood"
+      "v": "Coletar Madeira"
     },
     {
       "k": 1557,
-      "v": "Gather Scrap"
+      "v": "Coletar Sucata"
     },
     {
       "k": 1558,
-      "v": "Gather Plants"
+      "v": "Coletar Plantas"
     },
     {
       "k": 1559,
-      "v": "Gather Everything"
+      "v": "Coletar tudo"
     },
     {
       "k": 1560,
-      "v": "Remove Radiation"
+      "v": "Remover Radiaçao"
     },
     {
       "k": 1561,
-      "v": "Cancel Remove Radiation"
+      "v": "Cancelar Remover Radiaçao"
     },
     {
       "k": 1562,
-      "v": "Tasks can be used to assign <link=\"3\"><u>freely available Settlers</u></link> to gather specific Resources or remove Radiation in a certain area. Only settlers who do not carry out <link=\"3\"><u>any activity</u></link> will perform such Tasks. The only exception to this is the Task \"Remove Radiation\".\nUp to 4 Settlers can work on a single Task.\n"
+      "v": "Tarefas podem ser usadas para atribuir <link=\"3\"><u>Colonos disponíveis gratuitamente</u></link> reunir Recursos específicos ou remover Radiaçao em uma determinada área. Somente colonos que não realizam<link=\"3\"><u>qualquer atividade</u></link>realizará essas tarefas. A única exceção a isso é a tarefa \"Remover Radiaçao\".\nAté 4 colonos podem trabalhar em uma única tarefa.\n"
     },
     {
       "k": 1563,
-      "v": "Settlers begin gathering <link=\"15\"><u>Wood</u></link> from <link=\"15\"><u>trees</u></link> located within the <link=\"3\"><u>active working area</u></link>."
+      "v": "Os colonos começam a reunir <link=\"15\"><u>Madeira</u></link> de <link=\"15\"><u>árvores</u></link>localizado dentro do <link=\"3\"><u>área de trabalho ativa</u></link>."
     },
     {
       "k": 1564,
-      "v": "Settlers begin collecting <link=\"15\"><u>Scrap</u></link> from <link=\"15\"><u>Scrap Piles</u></link> located within the <link=\"3\"><u>active working area</u></link>. However, they cannot collect any Scrap from <link=\"15\"><u>large Ruins</u></link>. To have them do this you must <link=\"3\"><u>assign</u></link> them as <link=\"15\"><u>Scrap Collectors</u></link>."
+      "v": "Os colonos começam a coletar <link=\"15\"><u>Sucata</u></link> from <link=\"15\"><u>Pilhas de Sucata</u></link> localizado dentro da <link=\"3\"> <u> área de trabalho ativa </u> </link>. No entanto, eles não podem coletar nenhum recado de <link=\"15\"> <u> grandes ruínas </u> </link>. Para que eles façam isso, você deve <link=\"3\"><u> atribuir</u> </link> eles como <link=\"15\"> <u> Coletores de Sucata</u></link>."
     },
     {
       "k": 1565,
-      "v": "Settlers begin gathering <link=\"5\"><u>Berries, Mushrooms</u></link> and <link=\"9\"><u>Herbs</u></link> located within the <link=\"3\"><u>active working area</u></link>."
+      "v": "Os colonos começam a se reunir <link=\"5\"> <u> frutas, cogumelos </u> </link> e <link=\"9\"> <u> Ervas </u> </ link > localizado dentro da <link=\"3\"> <u> área de trabalho ativa</u></link>."
     },
     {
       "k": 1566,
-      "v": "Settlers begin to gather all Resources located within the Task's <link=\"3\"><u>active working area</u></link>."
+      "v": "Os colonos começam a reunir todos os Recursos localizados nas <link=\"3\"><u>active working area</u></link>."
     },
     {
       "k": 1567,
-      "v": "Settlers begin to remove <link=\"10\"><u>Radiation pollution</u></link> by digging up the soil. \nUnlike other Tasks, here you don’t need <link=\"3\"><u>freely available Settlers</u></link>. All Settlers who have nothing to do at the moment, even those who have a Workplace, will help dig."
+      "v": "Os colonos começam a remover<link=\"10\"><u>Radiaçao pollution</u></link> by digging up the soil. \nUnlike other Tasks, here you don’t need <link=\"3\"><u>freely available Settlers</u></link>. All Settlers who have nothing to do at the moment, even those who have a Workplace, will help dig."
     },
     {
       "k": 1568,
-      "v": "Settlers will stop removing <link=\"10\"><u>Radiation</u></link> from the selected area."
+      "v": "Os colonos param de remover<link=\"10\"><u>Radiaçao</u></link> from the selected area."
     },
     {
       "k": 1248,
-      "v": "Professions"
+      "v": "Profissões"
     },
     {
       "k": 1569,
-      "v": "Assignment of a Profession"
+      "v": "Designação de uma Profissão"
     },
     {
       "k": 1570,
-      "v": "Adjusting Settlers Working at a Building"
+      "v": "Ajustando colonos trabalhando em um edifício"
     },
     {
       "k": 1571,
-      "v": "Freely Available Settlers"
+      "v": "Colonos disponíveis gratuitamente"
     },
     {
       "k": 1572,
-      "v": "Employed Settlers"
+      "v": "Colonos empregados"
     },
     {
       "k": 1573,
-      "v": "You cannot employ a Settler directly. Instead you specify how many Settlers are supposed to practice a certain Profession. The Settlers are then automatically distributed among the Professions."
+      "v": "Você não pode empregar um colono diretamente. Em vez disso, você especifica quantos Colonos devem praticar uma determinada Profissão. Os colonos são automaticamente distribuídos entre as profissões."
     },
     {
       "k": 1574,
-      "v": "You can manually adjust the number of employed Settlers who work at a specific Workplace up to the maximum allowed for each type of Building."
+      "v": "Você pode ajustar manualmente o número de colonos empregados que trabalham em um local de trabalho específico até o máximo permitido para cada tipo de construção."
     },
     {
       "k": 1575,
-      "v": "Settlers who are not assigned any Profession do not remain idle.\nFor instance, they transport Resources to <link=\"1\"><u>construction sites</u></link> and inside Warehouses.\nThey also carry out all <link=\"2\"><u>Tasks</u></link> you give them.\nIf a Settler with an assigned Profession dies, this Profession is automatically issued to a freely available Settler. \n"
+      "v": "Os colonos que não receberam nenhuma Profissão não permanecem ociosos. \nPor exemplo, eles transportam Recursos para <link=\"1\"> <u> locais de construção </u> </link> e dentro de Armazéns. \n Eles também carregam todas as <link=\"2\"><u> Tarefas</u> </link> que você as der. \nSe um Colono com uma Profissão designada morrer, essa Profissão será automaticamente emitida para um Colono disponível gratuitamente.\n"
     },
     {
       "k": 1576,
-      "v": "Allocated Settlers work in the Profession issued to them.\nThey will not carry out any <link=\"2\"><u>Tasks</u></link> that are created separately.\nIf for some reason they are unable to perform their work, they will not be idle.\nThey will begin to bring Resources to <link=\"1\"><u>construction sites</u></link> and into Warehouses. Additionally, they also remove Radiation from active working areas of the <link=\"2\"><u>Remove Radiation</u></link> Task."
+      "v": "Colonos alocados trabalham na Profissão que lhes foi atribuída. \nEles não realizarão quaisquer <link=\"2\"><u> Tarefas</u> </link> criadas separadamente. \n Se por algum motivo elas forem incapazes de executar seu trabalho, eles não ficarão ociosos. \nEles começarão a levar Recursos para os <link=\"1\"> <u> canteiros de obras </u> </link> e para os Armazéns. Além disso, eles também removem Radiaçao das áreas de trabalho ativas da tarefa <link=\"2\"> <u> Remover Radiaçao </u> </link>."
     },
     {
       "k": 1249,
-      "v": "Hunger"
+      "v": "Fome"
     },
     {
       "k": 1577,
-      "v": "Hungry Settlers"
+      "v": "Colonos famintos"
     },
     {
       "k": 1578,
-      "v": "Forest Plants"
+      "v": "Plantas Florestais"
     },
     {
       "k": 1579,
-      "v": "Wild Game"
+      "v": "Jogo selvagem"
     },
     {
       "k": 1580,
-      "v": "Seedlings"
+      "v": "Mudas"
     },
     {
       "k": 1581,
-      "v": "Settlers need Food to survive. If they are not supplied with enough Food they starve and die. The more <link=\"9\"><u>sources of Food</u></link> available to them, the better. If Settlers are hungry and Food is available, they attend to their nutrition self-reliantly."
+      "v": "Os colonos precisam de Comida para sobreviver. Se não receberem comida suficiente, passam fome e morrem. Quanto mais <link=\"9\"> <u> fontes de Comida </u> </link> disponíveis, melhor. Se os colonos estão com fome e a comida está disponível, eles cuidam da nutrição de maneira autônoma.."
     },
     {
       "k": 1582,
-      "v": "Forest Plants grow near <link=\"15\"><u>trees</u></link>. They regrow when the <link=\"7\"><u>Irrigation Level</u></link> is sufficient. In the same vein, they wither away when the soil is too dry.\nThey can be gathered up via the respective <link=\"2\"><u>Task</u></link> or by Gatherers."
+      "v": "As plantas da floresta crescem perto de <link=\"15\"><u> árvores</u> </link>. Eles regridem quando o <link=\"7\"> <u> Nível de Irrigaçao </u> </link> é suficiente. Na mesma linha, eles murcham quando o solo está muito seco. \nEles podem ser coletados através dos respectivos <link=\"2\"><u> Tarefas</u> </link> ou pelos Gatherers."
     },
     {
       "k": 1583,
@@ -5351,19 +5351,19 @@
     },
     {
       "k": 1585,
-      "v": "The Fishing Hut <link=\"3\"><u>employs</u></link> Fishermen. The Fishermen catch fish from <link=\"6\"><u>Lakes</u></link>.\nA Fishing Hut must be <link=\"1\"><u>placed</u></link> next to a suitable source of Water. Any source of Water that is big enough to accommodate the Fishing Hut is sufficient.\nPlacing many Fishing Huts next to each other reduces their productivity. Therefore try to keep them outside the <link=\"1\"><u>working areas</u></link> of neighboring Fishing Huts."
+      "v": "The Fishing Hut <link=\"3\"><u>employs</u></link> Fishermen. The Fishermen catch fish from <link=\"6\"><u>Lakes</u></link>.\nA Fishing Hut must be <link=\"1\"><u>placed</u></link> next to a suitable source of Água. Any source of Água that is big enough to accommodate the Fishing Hut is sufficient.\nPlacing many Fishing Huts next to each other reduces their productivity. Therefore try to keep them outside the <link=\"1\"><u>working areas</u></link> of neighboring Fishing Huts."
     },
     {
       "k": 1586,
-      "v": "There are many different Seeds with which Fields can be planted and Orchards can be sown.\nAll of the Plants have their own individual Growing Times and Yields.\nPlants grow faster when the <link=\"7\"><u>Irrigation Level</u></link> is sufficiently high.\nIf the soil dries out, the Plants dry up too and die.\nEmploy Farmers to sow the Seeds and bring in the Crops."
+      "v": "There are many different Seeds with which Fields can be planted and Orchards can be sown.\nAll of the Plants have their own individual Growing Times and Yields.\nPlants grow faster when the <link=\"7\"><u>Irrigaçao Level</u></link> is sufficiently high.\nIf the soil dries out, the Plants dry up too and die.\nEmploy Farmers to sow the Seeds and bring in the Crops."
     },
     {
       "k": 1587,
-      "v": "Fields <link=\"3\"><u>employ</u></link> Farmers. Farmers plant and harvest Crops when they’re ready to be harvested. To order the Farmers to plant a Seed, choose the Seed via the \"Change Seed\" button.\nYou can also put a different Seed on the waiting list. The Farmers begin by cultivating the new Seed as soon as the current Crop has been harvested. To plant the new Seeds immediately you can force the Farmers to harvest the current Crop in the Field by pressing on the \"Harvest Current Crop\" button. \n"
+      "v": "Fields <link=\"3\"><u>employ</u></link> Farmers. Farmers plant and harvest Crops when they’re ready to be harvested. To order the Farmers to plant a Seed, choose the Seed via the \"Change Seed\" button.\nYou can also put a different Seed on the waiting list. The Farmers begin by cultivating the new Seed as soon as the current Crop has been harvested. To plant the new Seeds immediately you can force the Farmers to harvest the current Crop in the Field by pressing on the \"Harvest Atual Crop\" button. \n"
     },
     {
       "k": 1588,
-      "v": "Orchards operate similarly to Fields and <link=\"3\"><u>employ</u></link> Farmers.\nUnlike Crops in field cultivation, Seeds from Orchards spawn Fruit or Nut Trees.\nThese trees have an initial Growing Time which they need in order to yield a Crop. Once an Orchard tree has grown it will provide Food each Season.\nYour Farmers can bring in Harvests from these trees for several Seasons before they have to be replanted.\n"
+      "v": "Orchards operate similarly to Fields and <link=\"3\"><u>employ</u></link> Farmers.\nUnlike Crops in field cultivation, Seeds from Orchards spawn Fruit or Nut Trees.\nThese trees have an initial Growing Time which they need in order to yield a Crop. Once an Orchard tree has grown it will provide Comida each Estaçao.\nYour Farmers can bring in Harvests from these trees for several Seasons before they have to be replanted.\n"
     },
     {
       "k": 1250,
@@ -5379,31 +5379,31 @@
     },
     {
       "k": 1591,
-      "v": "Settlers require Water to survive. If they are not supplied with enough Water they die of thirst. The more sources of Water available to them, the better. When Settlers get thirsty and Water is available, they will take care of their nutrition themselves."
+      "v": "Settlers require Água to survive. If they are not supplied with enough Água they die of thirst. The more sources of Água available to them, the better. When Settlers get thirsty and Água is available, they will take care of their nutrition themselves."
     },
     {
       "k": 1592,
-      "v": "The Cistern <link=\"3\"><u>employs</u></link> Water Carriers. These Water Carriers collect Water from all available sources of Water within the active <link=\"1\"><u>working area</u></link>. One Cistern can <link=\"18\"><u>store</u></link> up to 2000 units of Water. You can manually indicate from which sources the Cisterns ought to collect Water."
+      "v": "The Reservatório <link=\"3\"><u>employs</u></link> Água Carriers. These Água Carriers collect Água from all available sources of Água within the active <link=\"1\"><u>working area</u></link>. One Reservatório can <link=\"18\"><u>store</u></link> up to 2000 units of Água. You can manually indicate from which sources the Reservatórios ought to collect Água."
     },
     {
       "k": 1593,
-      "v": "The Water Tower works similarly to the Cisterns and represents an upgrade. A single Water Tower can <link=\"18\"><u>store</u></link> up to 5000 units of Water. The maximum number of Water Carriers is accordingly higher. In addition, the Water Tower has a filtration system to filter out the Radiation from <link=\"10\"><u>contaminated water</u></link> using <link=\"11\"><u>Charcoal</u></link>."
+      "v": "The Água Tower works similarly to the Reservatórios and represents an upgrade. A single Água Tower can <link=\"18\"><u>store</u></link> up to 5000 units of Água. The maximum number of Água Carriers is accordingly higher. In addition, the Água Tower has a filtration system to filter out the Radiaçao from <link=\"10\"><u>contaminated água</u></link> using <link=\"11\"><u>Charcoal</u></link>."
     },
     {
       "k": 1594,
-      "v": "Lakes are the primary source of Water for your settlement. They equally give you access to Fish. Build a Jetty to be able to collect Water and a <link=\"5\"><u>Fishing Hut</u></link> to be able to fish.\nYou should also keep an eye on the Lake's <link=\"10\"><u>Radiation Level</u></link> because Water Carriers collect Water contaminated with Radiation, too. All Lakes dry up temporarily during a <link=\"7\"><u>drought</u></link>. This source of Water runs dry as a result."
+      "v": "Lakes are the primary source of Água for your settlement. They equally give you access to Fish. Build a Jetty to be able to collect Água and a <link=\"5\"><u>Fishing Hut</u></link> to be able to fish.\nYou should also keep an eye on the Lake's <link=\"10\"><u>Radiaçao Level</u></link> because Água Carriers collect Água contaminated with Radiaçao, too. All Lakes dry up temporarily during a <link=\"7\"><u>drought</u></link>. This source of Água runs dry as a result."
     },
     {
       "k": 1595,
-      "v": "The Jetty creates a point from which your Water Carriers can collect Water from a Lake."
+      "v": "The Jetty creates a point from which your Água Carriers can collect Água from a Lake."
     },
     {
       "k": 1596,
-      "v": "Wells <link=\"3\"><u>employ</u></link> Wellkeepers. Wellkeepers pump groundwater into a retention basin.\nThis Water can subsequently be collected by Water Carriers and brought to Water Towers or Cisterns. \nPlacing multiple Wells next to each other reduces their productivity. Therefore try to place them outside neighboring <link=\"1\"><u>working areas</u></link>."
+      "v": "Wells <link=\"3\"><u>employ</u></link> Wellkeepers. Wellkeepers pump groundwater into a retention basin.\nThis Água can subsequently be collected by Água Carriers and brought to Água Towers or Reservatórios. \nPlacing multiple Wells next to each other reduces their productivity. Therefore try to place them outside neighboring <link=\"1\"><u>working areas</u></link>."
     },
     {
       "k": 1597,
-      "v": "The Rainwater Collector collects Water from <link=\"7\"><u>rain clouds</u></link>. This Water is subsequently picked up by Water Carriers and brought to a Water Tower or a Cistern. Keep an eye on the rain clouds' <link=\"10\"><u>Radiation Level</u></link> because the Rainwater Collector also stores rain contaminated by Radiation. To prevent this you can <link=\"7\"><u>temporarily cover Rainwater Collectors</u></link> that belong to you."
+      "v": "The Rainwater Collector collects Água from <link=\"7\"><u>rain clouds</u></link>. This Água is subsequently picked up by Água Carriers and brought to a Água Tower or a Reservatório. Keep an eye on the rain clouds' <link=\"10\"><u>Radiaçao Level</u></link> because the Rainwater Collector also stores rain contaminated by Radiaçao. To prevent this you can <link=\"7\"><u>temporarily cover Rainwater Collectors</u></link> that belong to you."
     },
     {
       "k": 1251,
@@ -5423,11 +5423,11 @@
     },
     {
       "k": 1601,
-      "v": "Irrigation"
+      "v": "Irrigaçao"
     },
     {
       "k": 1602,
-      "v": "Water Heat Map"
+      "v": "Água Heat Map"
     },
     {
       "k": 1603,
@@ -5447,39 +5447,39 @@
     },
     {
       "k": 1607,
-      "v": "During the night all production Buildings work at a slower pace. If they are supposed to work more efficiently you have to supply them with <link=\"13\"><u>Electricity</u></link>."
+      "v": "During the night all production Edifícios work at a slower pace. If they are supposed to work more efficiently you have to supply them with <link=\"13\"><u>Electricity</u></link>."
     },
     {
       "k": 1608,
-      "v": "Rain clouds move across the map and increase the Irrigation Level of the soil they pass over. Some of these clouds may even contain acid. Rain not contaminated with Radiation will also decrease the <link=\"10\"><u>Radiation Level</u></link> of the soil."
+      "v": "Rain clouds move across the map and increase the Irrigaçao Level of the soil they pass over. Some of these clouds may even contain acid. Rain not contaminated with Radiaçao will also decrease the <link=\"10\"><u>Radiaçao Level</u></link> of the soil."
     },
     {
       "k": 1609,
-      "v": "The Irrigation Level indicates the <link=\"6\"><u>Water Level</u></link> of the soil. The more Water stored in the soil, the faster Plants like <link=\"5\"><u>Berries, Mushrooms and Seedlings</u></link> grow on it. If the soil is dried out, the Plants wither away and die, too."
+      "v": "The Irrigaçao Level indicates the <link=\"6\"><u>Água Level</u></link> of the soil. The more Água stored in the soil, the faster Plants like <link=\"5\"><u>Berries, Mushrooms and Seedlings</u></link> grow on it. If the soil is dried out, the Plants wither away and die, too."
     },
     {
       "k": 1610,
-      "v": "You can check soil moisture by switching on the Water Heat Map."
+      "v": "You can check soil moisture by switching on the Água Heat Map."
     },
     {
       "k": 1611,
-      "v": "Contaminated rain increases the <link=\"10\"><u>Radiation Level</u></link> in the soil. There are three kinds of contaminated rain. Each type of rain pushes the Radiation Level to its respective value. Acid rain increases the Irrigation Level of the soil just like normal rain."
+      "v": "Contaminated rain increases the <link=\"10\"><u>Radiaçao Level</u></link> in the soil. There are three kinds of contaminated rain. Each type of rain pushes the Radiaçao Level to its respective value. Acid rain increases the Irrigaçao Level of the soil just like normal rain."
     },
     {
       "k": 1612,
-      "v": "During a drought the soil dries out and <link=\"5\"><u>Plants as well as Seedlings</u></link> wither away.\nAll <link=\"6\"><u>Lakes</u></link> dry up at the same time. Water returns to the Lakes at the end of a drought."
+      "v": "During a drought the soil dries out and <link=\"5\"><u>Plants as well as Seedlings</u></link> wither away.\nAll <link=\"6\"><u>Lakes</u></link> dry up at the same time. Água returns to the Lakes at the end of a drought."
     },
     {
       "k": 1613,
-      "v": "Some droughts are accompanied by a sandstorm. The sandstorm influences the <link=\"10\"><u>Radiation Level</u></link> of the soil. Settlers caught in a sandstorm move slower. \nAny Building hit by a sandstorm will also be <link=\"1\"><u>damaged</u></link> and (if not repaired) eventually become unusable."
+      "v": "Some droughts are accompanied by a sandstorm. The sandstorm influences the <link=\"10\"><u>Radiaçao Level</u></link> of the soil. Settlers caught in a sandstorm move slower. \nAny Building hit by a sandstorm will also be <link=\"1\"><u>damaged</u></link> and (if not repaired) eventually become unusable."
     },
     {
       "k": 1614,
-      "v": "The Weather Station enables you to see if rain clouds are contaminated with Radiation or not.\nIf they are contaminated, you see how strong their Radiation Level is, too.\nHere you can also set at which point your <link=\"5\"><u>Fields and Orchards</u></link> as well as your <link=\"6\"><u>Rainwater Collectors</u></link> ought to be covered so that they are spared from contaminated rain."
+      "v": "The Weather Station enables you to see if rain clouds are contaminated with Radiaçao or not.\nIf they are contaminated, you see how strong their Radiaçao Level is, too.\nHere you can also set at which point your <link=\"5\"><u>Fields and Orchards</u></link> as well as your <link=\"6\"><u>Rainwater Collectors</u></link> ought to be covered so that they are spared from contaminated rain."
     },
     {
       "k": 1615,
-      "v": "The Irrigation Plant <link=\"3\"><u>employs</u></link> Irrigators. \nThe Irrigator transports Water from the <link=\"6\"><u>Water Tower</u></link> or the Cistern to the Plant System.\nOnce activated, the Plant System increases the Irrigation Level of the soil in the <link=\"1\"><u>working area</u></link>.\nThe higher the Irrigation Level is supposed to be, the more Water is going to be consumed during Irrigation. During a drought the Irrigation Plant System consumes even more Water.\nIf the Water is contaminated with Radiation, the <link=\"10\"><u>Radiation Level</u></link> in the Plant System working area increases as well.\nIn turn, Water not contaminated with Radiation reduces the Radiation Level. "
+      "v": "The Irrigaçao Plant <link=\"3\"><u>employs</u></link> Irrigators. \nThe Irrigator transports Água from the <link=\"6\"><u>Água Tower</u></link> or the Reservatório to the Plant System.\nOnce activated, the Plant System increases the Irrigaçao Level of the soil in the <link=\"1\"><u>working area</u></link>.\nThe higher the Irrigaçao Level is supposed to be, the more Água is going to be consumed during Irrigaçao. During a drought the Irrigaçao Plant System consumes even more Água.\nIf the Água is contaminated with Radiaçao, the <link=\"10\"><u>Radiaçao Level</u></link> in the Plant System working area increases as well.\nIn turn, Água not contaminated with Radiaçao reduces the Radiaçao Level. "
     },
     {
       "k": 1252,
@@ -5503,11 +5503,11 @@
     },
     {
       "k": 1814,
-      "v": "Liquor can be made by a Pubkeeper out of <link=\"5\"><u>Berries</u></link> and <link=\"6\"><u>Water</u></link>. Consuming it not only provides a temporary boost to Settlers' Confidence, it also reduces <link=\"6\"><u>thirst</u></link>."
+      "v": "Liquor can be made by a Pubkeeper out of <link=\"5\"><u>Berries</u></link> and <link=\"6\"><u>Água</u></link>. Consuming it not only provides a temporary boost to Settlers' Confidence, it also reduces <link=\"6\"><u>thirst</u></link>."
     },
     {
       "k": 1815,
-      "v": "Beer can be made by an Pubkeeper out of <link=\"6\"><u>Water</u></link> and <link=\"5\"><u>Wheat</u></link>.\nConsuming it not only provides a temporary boost to Settlers' Confidence, it also reduces <link=\"6\"><u>thirst</u></link>."
+      "v": "Beer can be made by an Pubkeeper out of <link=\"6\"><u>Água</u></link> and <link=\"5\"><u>Wheat</u></link>.\nConsuming it not only provides a temporary boost to Settlers' Confidence, it also reduces <link=\"6\"><u>thirst</u></link>."
     },
     {
       "k": 1816,
@@ -5535,11 +5535,11 @@
     },
     {
       "k": 1821,
-      "v": "Health is crucial for the survival of your Settlers.\nWhen the Settlers' Health status is poor and Herbs or Medicine are available, they take care of healthcare themselves. Providing a large amount of different <link=\"5\"><u>Food sources</u></link> keeps your Settlers healthy. <link=\"10\"><u>High-level Radiation</u></link>  diminishes your Settlers' Health. In the case of Settlers with low-level Health, they move slower and run a greater risk of getting sick. "
+      "v": "Health is crucial for the survival of your Settlers.\nWhen the Settlers' Health status is poor and Herbs or Medicine are available, they take care of healthcare themselves. Providing a large amount of different <link=\"5\"><u>Comida sources</u></link> keeps your Settlers healthy. <link=\"10\"><u>High-level Radiaçao</u></link>  diminishes your Settlers' Health. In the case of Settlers with low-level Health, they move slower and run a greater risk of getting sick. "
     },
     {
       "k": 1822,
-      "v": "Herbs grow near <link=\"15\"><u>trees</u></link>. They regrow when the <link=\"7\"><u>Irrigation Level</u></link> of the soil is sufficiently high. In turn, when the soil is arid they wither. They can be gathered either via the <link=\"2\"><u>Gather Plants Task</u></link> or by Herbalists."
+      "v": "Herbs grow near <link=\"15\"><u>trees</u></link>. They regrow when the <link=\"7\"><u>Irrigaçao Level</u></link> of the soil is sufficiently high. In turn, when the soil is arid they wither. They can be gathered either via the <link=\"2\"><u>Gather Plants Task</u></link> or by Herbalists."
     },
     {
       "k": 1823,
@@ -5559,87 +5559,87 @@
     },
     {
       "k": 1254,
-      "v": "Radiation"
+      "v": "Radiaçao"
     },
     {
       "k": 1827,
-      "v": "Radiation"
+      "v": "Radiaçao"
     },
     {
       "k": 1828,
-      "v": "Terrestrial Radiation"
+      "v": "Terrestrial Radiaçao"
     },
     {
       "k": 1829,
-      "v": "Settlers' Radiation Contamination"
+      "v": "Settlers' Radiaçao Contamination"
     },
     {
       "k": 1830,
-      "v": "Radioactively Contaminated Food"
+      "v": "Radioactively Contaminated Comida"
     },
     {
       "k": 1831,
-      "v": "Radioactively Contaminated Water"
+      "v": "Radioactively Contaminated Água"
     },
     {
       "k": 1832,
-      "v": "Radiation is one of the most prominent dangers your settlement is exposed to.\nYou ought to avoid exposing your Settlers to High-level Radiation.\nRadiation exists at different levels. These levels range from No Radiation to High-level Radiation.\nLow-level Radiation is generally depicted in green, Medium-level Radiation in yellow, and High-level Radiation in red. The higher the level of Radiation, the more dangerous it is.\n"
+      "v": "Radiaçao is one of the most prominent dangers your settlement is exposed to.\nYou ought to avoid exposing your Settlers to High-level Radiaçao.\nRadiation exists at different levels. These levels range from No Radiaçao to High-level Radiaçao.\nLow-level Radiaçao is generally depicted in green, Medium-level Radiaçao in yellow, and High-level Radiaçao in red. The higher the level of Radiaçao, the more dangerous it is.\n"
     },
     {
       "k": 1833,
-      "v": "You can view the current level of Terrestrial Radiation by toggling the Radiation Heat Map. This enables you to keep an eye on your surroundings and you can try to avoid highly contaminated areas.\n"
+      "v": "You can view the current level of Terrestrial Radiaçao by toggling the Radiaçao Heat Map. This enables you to keep an eye on your surroundings and you can try to avoid highly contaminated areas.\n"
     },
     {
       "k": 1834,
-      "v": "When Settlers are exposed to Radiation from any source, their individual Radiation Exposure Level rises.\nIn the case of higher-level Radiation, the Settlers' <link=\"9\"><u>Health</u></link> declines much faster, making them more susceptible to <link=\"9\"><u>Illness</u></link>. If a Settler's Radiation Exposure Level rises too high, the Settler eventually becomes infertile and can even die from the Radiation."
+      "v": "When Settlers are exposed to Radiaçao from any source, their individual Radiaçao Exposure Level rises.\nIn the case of higher-level Radiaçao, the Settlers' <link=\"9\"><u>Health</u></link> declines much faster, making them more susceptible to <link=\"9\"><u>Illness</u></link>. If a Settler's Radiaçao Exposure Level rises too high, the Settler eventually becomes infertile and can even die from the Radiaçao."
     },
     {
       "k": 1835,
-      "v": "Food Items that are harvested from soil contaminated with Radiation will be contaminated by it.\nIf your Settlers consume such <link=\"5\"><u>Food Items</u></link>, their Radiation Exposure Level will rise."
+      "v": "Comida Items that are harvested from soil contaminated with Radiaçao will be contaminated by it.\nIf your Settlers consume such <link=\"5\"><u>Comida Items</u></link>, their Radiaçao Exposure Level will rise."
     },
     {
       "k": 1836,
-      "v": "<link=\"6\"><u>Water</u></link> collected from a Lake or a Rainwater Collector containing Water contaminated with Radiation will be contaminated, too. If your Settlers consume these kinds of Water, their Radiation Exposure Level will rise."
+      "v": "<link=\"6\"><u>Água</u></link> collected from a Lake or a Rainwater Collector containing Água contaminated with Radiaçao will be contaminated, too. If your Settlers consume these kinds of Água, their Radiaçao Exposure Level will rise."
     },
     {
       "k": 1255,
-      "v": "Radiation Protection"
+      "v": "Radiaçao Protection"
     },
     {
       "k": 1837,
-      "v": "Radiation Protection Clothing"
+      "v": "Radiaçao Protection Clothing"
     },
     {
       "k": 1838,
-      "v": "Allocation of Radiation Protection Clothing"
+      "v": "Allocation of Radiaçao Protection Clothing"
     },
     {
       "k": 1839,
-      "v": "Your Settlers need clothing to protect themselves from omnipresent <link=\"10\"><u>Radiation</u></link>.\nWhen Settlers have no protective clothing and clothing is available, they equip themselves on their own. Better clothing protects against higher-level Radiation.\nProtective clothing is durable yet becomes unusable over time.\nWhen a piece of clothing becomes unusable, the Settler needs a new one.\n"
+      "v": "Your Settlers need clothing to protect themselves from omnipresent <link=\"10\"><u>Radiaçao</u></link>.\nWhen Settlers have no protective clothing and clothing is available, they equip themselves on their own. Better clothing protects against higher-level Radiaçao.\nProtective clothing is durable yet becomes unusable over time.\nWhen a piece of clothing becomes unusable, the Settler needs a new one.\n"
     },
     {
       "k": 1840,
-      "v": "Neck Scarves completely protect your Settlers against <link=\"10\"><u>Low-level Radiation</u></link>. Neck Scarves also provide a slight amount of protection against higher-level Radiation, but they do not shield against it completely. They are made by Tailors and require <link=\"16\"><u>Cloth</u></link>."
+      "v": "Neck Scarves completely protect your Settlers against <link=\"10\"><u>Low-level Radiaçao</u></link>. Neck Scarves also provide a slight amount of protection against higher-level Radiaçao, but they do not shield against it completely. They are made by Tailors and require <link=\"16\"><u>Cloth</u></link>."
     },
     {
       "k": 1841,
-      "v": "Activated Carbon Masks completely protect your Settlers from <link=\"10\"><u>Low- and Medium-level Radiation</u></link>. Activated Carbon Masks also provide a slight amount of protection against higher-level Radiation, but they do not shield against it completely. They are made by Tailors and require <link=\"16\"><u>Cloth</u></link> and Charcoal."
+      "v": "Activated Carbon Masks completely protect your Settlers from <link=\"10\"><u>Low- and Medium-level Radiaçao</u></link>. Activated Carbon Masks also provide a slight amount of protection against higher-level Radiaçao, but they do not shield against it completely. They are made by Tailors and require <link=\"16\"><u>Cloth</u></link> and Charcoal."
     },
     {
       "k": 1842,
-      "v": "Radiation Suits completely protect your Settlers against <link=\"10\"><u>Low-, Medium- and High-level Radiation</u></link>. They are made by Tailors and require <link=\"16\"><u>Cloth</u></link>, Charcoal and <link=\"16\"><u>Plastic</u></link>."
+      "v": "Radiaçao Suits completely protect your Settlers against <link=\"10\"><u>Low-, Medium- and High-level Radiaçao</u></link>. They are made by Tailors and require <link=\"16\"><u>Cloth</u></link>, Charcoal and <link=\"16\"><u>Plastic</u></link>."
     },
     {
       "k": 1843,
-      "v": "The Tailor's Shop <link=\"3\"><u>employs</u></link> Tailors. Tailors make Neck Scarves, Activated Carbon Masks and Radiation Suits out of <link=\"16\"><u>Cloth</u></link>, Charcoal and <link=\"16\"><u>Plastic</u></link>. You can decide which remedy is supposed to be produced next. The employed Tailors begin with the work on the new remedy as soon as the current Task is completed."
+      "v": "The Tailor's Shop <link=\"3\"><u>employs</u></link> Tailors. Tailors make Neck Scarves, Activated Carbon Masks and Radiaçao Suits out of <link=\"16\"><u>Cloth</u></link>, Charcoal and <link=\"16\"><u>Plastic</u></link>. You can decide which remedy is supposed to be produced next. The employed Tailors begin with the work on the new remedy as soon as the current Task is completed."
     },
     {
       "k": 1844,
-      "v": "Charcoal is produced by the Charcoal Burner. <link=\"15\"><u>Wood</u></link> is needed to produce it.\nCharcoal can be used to make protective clothing or to filter the Water stored in your <link=\"6\"><u>Water Towers</u></link>. "
+      "v": "Charcoal is produced by the Charcoal Burner. <link=\"15\"><u>Madeira</u></link> is needed to produce it.\nCharcoal can be used to make protective clothing or to filter the Água stored in your <link=\"6\"><u>Água Towers</u></link>. "
     },
     {
       "k": 1845,
-      "v": "The Charcoal Kiln <link=\"3\"><u>employs</u></link> Charcoal Burners. Charcoal Burners make Charcoal out of <link=\"15\"><u>Wood</u></link>."
+      "v": "The Charcoal Kiln <link=\"3\"><u>employs</u></link> Charcoal Burners. Charcoal Burners make Charcoal out of <link=\"15\"><u>Madeira</u></link>."
     },
     {
       "k": 1846,
@@ -5659,15 +5659,15 @@
     },
     {
       "k": 1849,
-      "v": "Scrap Tools increase the produciton speed in the case of Tasks where the Settler is equipped with them. Scrap tools are made in the Workshop out of <link=\"15\"><u>Wood and Scrap</u></link>."
+      "v": "Scrap Tools increase the produciton speed in the case of Tasks where the Settler is equipped with them. Scrap tools are made in the Workshop out of <link=\"15\"><u>Madeira and Scrap</u></link>."
     },
     {
       "k": 1850,
-      "v": "Metal Tools substantially increase the production speed in the case of Tasks where the Settler is equipped with them. Metal Tools are made in the Workshop out of <link=\"15\"><u>Wood, Scrap</u></link> and <link=\"16\"><u>Metal</u></link>."
+      "v": "Metal Tools substantially increase the production speed in the case of Tasks where the Settler is equipped with them. Metal Tools are made in the Workshop out of <link=\"15\"><u>Madeira, Scrap</u></link> and <link=\"16\"><u>Metal</u></link>."
     },
     {
       "k": 1851,
-      "v": "The Workshop <link=\"1\"><u>employs</u></link> Technicians. Technicians make Scrap Tools and Metal Tools out of <link=\"15\"><u>Wood, Scrap</u></link> and <link=\"16\"><u>Metal</u></link>. You can decide which type is supposed to be produced next. The employed Technician begins with the work on the new type as soon as the current Task is completed."
+      "v": "The Workshop <link=\"1\"><u>employs</u></link> Technicians. Technicians make Scrap Tools and Metal Tools out of <link=\"15\"><u>Madeira, Scrap</u></link> and <link=\"16\"><u>Metal</u></link>. You can decide which type is supposed to be produced next. The employed Technician begins with the work on the new type as soon as the current Task is completed."
     },
     {
       "k": 1257,
@@ -5683,7 +5683,7 @@
     },
     {
       "k": 1853,
-      "v": "You can supply your Buildings with Electricity by hooking them up to a Power Grid.\nIn the case of Buildings that are connected to the Power Grid,  the working hours decrease during <link=\"7\"><u>daytime as well as nighttime</u></link>. Each Building that is supplied with Electricity consumes a certain amount of the total Power Supply for as long as it is connected."
+      "v": "You can supply your Edifícios with Electricity by hooking them up to a Power Grid.\nIn the case of Edifícios that are connected to the Power Grid,  the working hours decrease during <link=\"7\"><u>daytime as well as nighttime</u></link>. Each Building that is supplied with Electricity consumes a certain amount of the total Power Supply for as long as it is connected."
     },
     {
       "k": 1854,
@@ -5695,11 +5695,11 @@
     },
     {
       "k": 1856,
-      "v": "A Battery can store surplus Electricity until it is fully charged. At <link=\"7\"><u>night</u></link> this Electricity is used to supply all connected Buildings with energy until the Battery is empty."
+      "v": "A Battery can store surplus Electricity until it is fully charged. At <link=\"7\"><u>night</u></link> this Electricity is used to supply all connected Edifícios with energy until the Battery is empty."
     },
     {
       "k": 1857,
-      "v": "Power Lines connect Buildings to the Power Grid."
+      "v": "Power Lines connect Edifícios to the Power Grid."
     },
     {
       "k": 1258,
@@ -5743,7 +5743,7 @@
     },
     {
       "k": 1867,
-      "v": "Sending Settlers off on an Expedition takes place together with Rations. These Rations consist of <link=\"6\"><u>Water</u></link> and <link=\"5\"><u>Food</u></link>.\nAll of your Explorers need Rations so that their needs can be taken into account during the journey to the Ruin. Each time they complete a Task during an Expedition they will also use up a Ration.\n"
+      "v": "Sending Settlers off on an Expedition takes place together with Rations. These Rations consist of <link=\"6\"><u>Água</u></link> and <link=\"5\"><u>Comida</u></link>.\nAll of your Explorers need Rations so that their needs can be taken into account during the journey to the Ruin. Each time they complete a Task during an Expedition they will also use up a Ration.\n"
     },
     {
       "k": 1868,
@@ -5767,7 +5767,7 @@
     },
     {
       "k": 1872,
-      "v": "Scrap is one of the key Resources for your settlement.\nMany Buildings require Scrap in order to be <link=\"1\"><u>built</u></link>. It is also needed to obtain <link=\"16\"><u>refined Resources</u></link> such as <link=\"16\"><u>Cloth</u></link> and <link=\"16\"><u>Plastic</u></link>, and to make <link=\"12\"><u>Tools</u></link>."
+      "v": "Scrap is one of the key Resources for your settlement.\nMany Edifícios require Scrap in order to be <link=\"1\"><u>built</u></link>. It is also needed to obtain <link=\"16\"><u>refined Resources</u></link> such as <link=\"16\"><u>Cloth</u></link> and <link=\"16\"><u>Plastic</u></link>, and to make <link=\"12\"><u>Tools</u></link>."
     },
     {
       "k": 1873,
@@ -5783,15 +5783,15 @@
     },
     {
       "k": 1876,
-      "v": "Wood is one of the key Resources for your settlement.\nMany Buildings require Wood for their <link=\"1\"><u>construction</u></link>. It is also needed to make <link=\"11\"><u>Charcoal</u></link> and for making <link=\"12\"><u>Tools</u></link>."
+      "v": "Madeira is one of the key Resources for your settlement.\nMany Edifícios require Madeira for their <link=\"1\"><u>construction</u></link>. It is also needed to make <link=\"11\"><u>Charcoal</u></link> and for making <link=\"12\"><u>Tools</u></link>."
     },
     {
       "k": 1877,
-      "v": "Trees grow everywhere on the Map. Depending on their size and age, they supply a certain amount of Wood.\nThey can be chopped down, either with the help of the <link=\"2\"><u>Gather Wood Task</u></link> or by Foresters.\nIf the <link=\"7\"><u>Irrigation Level</u></link> is sufficient, <link=\"1\"><u>Mushrooms and Berries</u></link> begin to grow near them.\nForesters can reforest cleared areas.\n"
+      "v": "Trees grow everywhere on the Map. Depending on their size and age, they supply a certain amount of Madeira.\nThey can be chopped down, either with the help of the <link=\"2\"><u>Gather Madeira Task</u></link> or by Foresters.\nIf the <link=\"7\"><u>Irrigaçao Level</u></link> is sufficient, <link=\"1\"><u>Mushrooms and Berries</u></link> begin to grow near them.\nForesters can reforest cleared areas.\n"
     },
     {
       "k": 1878,
-      "v": "The Forester Lodge <link=\"3\"><u>employs</u></link> Foresters. Foresters collect Wood located within their <link=\"1#2\"><u>assigned working area</u></link>. Foresters work more efficiently when the Forester Lodger is erected in the vicinity of some <link=\"15\"><u>trees</u></link>. Foresters can equally plant new trees. The Forester Lodge can be set so that it chops down or plants trees, or performs both at the same time."
+      "v": "The Forester Lodge <link=\"3\"><u>employs</u></link> Foresters. Foresters collect Madeira located within their <link=\"1#2\"><u>assigned working area</u></link>. Foresters work more efficiently when the Forester Lodger is erected in the vicinity of some <link=\"15\"><u>trees</u></link>. Foresters can equally plant new trees. The Forester Lodge can be set so that it chops down or plants trees, or performs both at the same time."
     },
     {
       "k": 1260,
@@ -5803,23 +5803,23 @@
     },
     {
       "k": 1880,
-      "v": "Many Buildings require refined Resources for their <link=\"1\"><u>construction</u></link>.\nFormulas for products like <link=\"1\"><u>protective clothing</u></link> or <link=\"12\"><u>Metal Tools</u></link> are needed, too.\nThese Resources are manufactured from <link=\"15\"><u>Scrap</u></link>."
+      "v": "Many Edifícios require refined Resources for their <link=\"1\"><u>construction</u></link>.\nFormulas for products like <link=\"1\"><u>protective clothing</u></link> or <link=\"12\"><u>Metal Tools</u></link> are needed, too.\nThese Resources are manufactured from <link=\"15\"><u>Scrap</u></link>."
     },
     {
       "k": 1881,
-      "v": "Cloth is used in the <link=\"1\"><u>construction</u></link> of certain Buildings such as the <link=\"11\"><u>Tailor's Shop</u></link> or the <link=\"4\"><u>Shelter</u></link>.\nIt is also a crucial component of the <link=\"11\"><u>protective clothing</u></link> your Tailors are able to make."
+      "v": "Cloth is used in the <link=\"1\"><u>construction</u></link> of certain Edifícios such as the <link=\"11\"><u>Tailor's Shop</u></link> or the <link=\"4\"><u>Shelter</u></link>.\nIt is also a crucial component of the <link=\"11\"><u>protective clothing</u></link> your Tailors are able to make."
     },
     {
       "k": 1882,
-      "v": "Metal is used in the <link=\"1\"><u>construction</u></link> of certain Buildings such as the <link=\"12\"><u>Expedition Station</u></link> or the <link=\"12\"><u>Workshop</u></link>.\nIt is also a crucial component for making <link=\"12\"><u>Metal Tools</u></link>."
+      "v": "Metal is used in the <link=\"1\"><u>construction</u></link> of certain Edifícios such as the <link=\"12\"><u>Expedition Station</u></link> or the <link=\"12\"><u>Workshop</u></link>.\nIt is also a crucial component for making <link=\"12\"><u>Metal Tools</u></link>."
     },
     {
       "k": 1883,
-      "v": "Plastic is used in the <link=\"1\"><u>construction</u></link> of certain Buildings such as <link=\"6\"><u>Rainwater Collectors</u></link> or the <link=\"7\"><u>Irrigation Plant System</u></link>.\nIt is also a crucial component of <link=\"11\"><u>Activated Carbon Masks and Radiation Suits</u></link>."
+      "v": "Plastic is used in the <link=\"1\"><u>construction</u></link> of certain Edifícios such as <link=\"6\"><u>Rainwater Collectors</u></link> or the <link=\"7\"><u>Irrigaçao Plant System</u></link>.\nIt is also a crucial component of <link=\"11\"><u>Activated Carbon Masks and Radiaçao Suits</u></link>."
     },
     {
       "k": 1884,
-      "v": "Electronics are used above all in the <link=\"1\"><u>construction</u></link> of <link=\"13\"><u>Electricity Buildings</u></link> or special Buildings such as the <link=\"9\"><u>Medical Facility</u></link>."
+      "v": "Electronics are used above all in the <link=\"1\"><u>construction</u></link> of <link=\"13\"><u>Electricity Edifícios</u></link> or special Edifícios such as the <link=\"9\"><u>Medical Facility</u></link>."
     },
     {
       "k": 1885,
@@ -5843,7 +5843,7 @@
     },
     {
       "k": 1889,
-      "v": "The School <link=\"3\"><u>employs</u></link> Teachers. As long as sufficient space is available and a Teacher is present, Children will attend school and get educated."
+      "v": "The School <link=\"3\"><u>employs</u></link> Teachers. As long as sufficient space is available and a Teacher is present, Crianças will attend school and get educated."
     },
     {
       "k": 1262,
@@ -5859,7 +5859,7 @@
     },
     {
       "k": 1892,
-      "v": "Settler Inventory"
+      "v": "Settler Inventário"
     },
     {
       "k": 1893,
@@ -5875,7 +5875,7 @@
     },
     {
       "k": 1896,
-      "v": "Not all Buildings can store every Resource. Most Buildings can only store the Resources they produce or need for their own production. Settlers bring and take these Resources into or out of the Building on their own."
+      "v": "Not all Edifícios can store every Resource. Most Edifícios can only store the Resources they produce or need for their own production. Settlers bring and take these Resources into or out of the Building on their own."
     },
     {
       "k": 1897,
@@ -5887,15 +5887,15 @@
     },
     {
       "k": 1899,
-      "v": "The Town Center can store any Resource except <link=\"6\"><u>Water</u></link>. You can choose the types of Resources that ought to be stored in the Town Center and change your decision at any time."
+      "v": "The Town Center can store any Resource except <link=\"6\"><u>Água</u></link>. You can choose the types of Resources that ought to be stored in the Town Center and change your decision at any time."
     },
     {
       "k": 1900,
-      "v": "A Warehouse can store any Resource except <link=\"6\"><u>Water</u></link>. You can choose the types of Resources that ought to be stored in the Warehouse and change your decision at any time."
+      "v": "A Warehouse can store any Resource except <link=\"6\"><u>Água</u></link>. You can choose the types of Resources that ought to be stored in the Warehouse and change your decision at any time."
     },
     {
       "k": 1901,
-      "v": "The Market employs Logistics Specialists. Logistics Specialists gather Resources from all Warehouses and bring them to the Market. The Market also has a Depot for <link=\"6\"><u>Water</u></link>. Settlers who visit the Market get a temporary boost to their <link=\"8\"><u>Confidence</u></link>.You can choose the types of Resources that are supposed to be stored at the Market and change your decision at any time."
+      "v": "The Market employs Logistics Specialists. Logistics Specialists gather Resources from all Warehouses and bring them to the Market. The Market also has a Depot for <link=\"6\"><u>Água</u></link>. Settlers who visit the Market get a temporary boost to their <link=\"8\"><u>Confidence</u></link>.You can choose the types of Resources that are supposed to be stored at the Market and change your decision at any time."
     },
     {
       "k": 1263,
@@ -6031,7 +6031,7 @@
     },
     {
       "k": 1381,
-      "v": "This door is sturdier than it looks… I'd say it was blocked from the inside with a big chunk of Wood. Presumably by the person who got here before us. <<dynamicmessage>>"
+      "v": "This door is sturdier than it looks… I'd say it was blocked from the inside with a big chunk of Madeira. Presumably by the person who got here before us. <<dynamicmessage>>"
     },
     {
       "k": 1382,
@@ -6279,7 +6279,7 @@
     },
     {
       "k": 1443,
-      "v": "On the first try, chief! We found a hidden door that leads to a small storage compartment. There were lots of Radiation Suits and some well-preserved Medicine! Good thing some of us enjoy reading adventure stories..."
+      "v": "On the first try, chief! We found a hidden door that leads to a small storage compartment. There were lots of Radiaçao Suits and some well-preserved Medicine! Good thing some of us enjoy reading adventure stories..."
     },
     {
       "k": 1444,
@@ -6359,7 +6359,7 @@
     },
     {
       "k": 1463,
-      "v": ". The exposure to Radiation must have altered their phenotype"
+      "v": ". The exposure to Radiaçao must have altered their phenotype"
     },
     {
       "k": 1464,
@@ -6367,7 +6367,7 @@
     },
     {
       "k": 1465,
-      "v": "Maybe these Plants used to have Seeds way back when, but the exposure to Radiation must have rendered them sterile. Which makes me wonder how they reproduce..."
+      "v": "Maybe these Plants used to have Seeds way back when, but the exposure to Radiaçao must have rendered them sterile. Which makes me wonder how they reproduce..."
     },
     {
       "k": 1466,
@@ -6607,19 +6607,19 @@
     },
     {
       "k": 1663,
-      "v": "Radiation Protection Benefactor"
+      "v": "Radiaçao Protection Benefactor"
     },
     {
       "k": 1664,
-      "v": "This represents the Radiation Protection Benefactor"
+      "v": "This represents the Radiaçao Protection Benefactor"
     },
     {
       "k": 1665,
-      "v": "The Radiation Protection Benefactor made this succeed"
+      "v": "The Radiaçao Protection Benefactor made this succeed"
     },
     {
       "k": 1666,
-      "v": "The Radiation Protection Benefactor made this fail"
+      "v": "The Radiaçao Protection Benefactor made this fail"
     },
     {
       "k": 1667,
@@ -6671,19 +6671,19 @@
     },
     {
       "k": 1679,
-      "v": "Radiation Status Benefactor"
+      "v": "Radiaçao Status Benefactor"
     },
     {
       "k": 1680,
-      "v": "This represents the Radiation Status Benefactor"
+      "v": "This represents the Radiaçao Status Benefactor"
     },
     {
       "k": 1681,
-      "v": "The Radiation Status Benefactor made this succeed"
+      "v": "The Radiaçao Status Benefactor made this succeed"
     },
     {
       "k": 1682,
-      "v": "The Radiation Status Benefactor made this fail"
+      "v": "The Radiaçao Status Benefactor made this fail"
     },
     {
       "k": 1683,
@@ -6795,19 +6795,19 @@
     },
     {
       "k": 1730,
-      "v": "Radiation Action"
+      "v": "Radiaçao Action"
     },
     {
       "k": 1731,
-      "v": "This will affect the Explorers' Radiation"
+      "v": "This will affect the Explorers' Radiaçao"
     },
     {
       "k": 1732,
-      "v": "This should have affected the Explorers' Radiation"
+      "v": "This should have affected the Explorers' Radiaçao"
     },
     {
       "k": 1733,
-      "v": "This should have affected the Explorers' Radiation"
+      "v": "This should have affected the Explorers' Radiaçao"
     },
     {
       "k": 1706,
@@ -6943,7 +6943,7 @@
     },
     {
       "k": 1554,
-      "v": "<<resourceName>> produced: <<amount>>"
+      "v": "<<resourceName>> produzida: <<amount>>"
     },
     {
       "k": 1754,
@@ -7247,15 +7247,15 @@
     },
     {
       "k": 2323,
-      "v": "Important Note"
+      "v": "Nota importante"
     },
     {
       "k": 1930,
-      "v": "Dear Survivor,\n\nWelcome to our Closed Beta! The goal of this beta is to obtain a better understanding of how the game runs on different systems. In return, you're already able to get a previewed look at the game. Keep in mind that this version is still far from being a final release.\n\n<color=#ED7C32>You can give in-game feedback by hitting F1 or clicking on the bug icon to the upper left.</color>\n\nIn addition, there are even more possibilities to get in touch with us.\n\n\\u2022 Visit our <u><link=”https://discordapp.com/invite/zj3cgj4”>Discord server</link></u> for weekly updates and discussions\n\\u2022 A special Closed Beta thread in the <u><link=”https://steamcommunity.com/app/933820/discussions/1/”>Steam forum</link></u>\n\\u2022 Mail us at:  support@gentlymadstudios.com"
+      "v": "Caro Sobrevivente,\n\nBem-vindo ao nosso beta fechado! O objetivo desta versao beta é obter uma melhor compreensao de como o jogo é executado em diferentes sistemas. Em troca, você já pode obter uma visualizaçao prévia do jogo. Lembre-se de que esta versao ainda está longe de ser uma versao final.\n\n<color=red>Você pode dar feedback no jogo pressionando F1 ou clicando no ícone de bug no canto superior esquerdo.</color>\n\nalém do que, existem ainda mais possibilidades de entrar em contato conosco.\n\n\\u2022 Visite nosso <u><link=”https://discordapp.com/invite/zj3cgj4”>Discord</link></u> para atualizaçoes e discussoes semanais\n\\u2022 Um tópico beta fechado especial na <u><link=”https://steamcommunity.com/app/933820/discussions/1/”>Steam</link></u>\n\\u2022 Envie-nos um email :  support@gentlymadstudios.com"
     },
     {
       "k": 2299,
-      "v": "Dear Survivor,\n\nwelcome to the Early Access of Endzone - A World Apart! You are playing an early version of the game that is subject to change. Additionally, be aware that we can't guarantee the compatibility of savegames through-out the Early Access (although we're doing our very best). If there is a savegame breaking change, we'll notify you in the patch notes.\n\n<color=#ED7C32>You can easily give feedback while in the game by hitting F1 or clicking on the bug icon.</color>\n\nWe also have several ways for you to get in touch with us.\n\n\\u2022 Join our <u><link=”https://discord.gg/HF7SaH7”>Discord server</link></u> for weekly updates and direct discussions\n\\u2022 Mail us at:  support@gentlymadstudios.com\n\\u2022 Take a look at the current <u><link=”https://www.stomt.com/endzone”>Feedback Stream</link></u>."
+      "v": "Caro Sobrevivente,\n\nBem-vindo ao nosso beta fechado! \n\n<color=red>Você está jogando com uma traduçao FAN-BASE que se trata de uma traduçao nao oficial do jogo que pode conter bugs e palavras erradas nosso discord para reportar bugs na traduçao: <u><link=”https://discord.gg/pUVTfUa”>Discord</link></u></color> \n\nO objetivo desta versao beta é obter uma melhor compreensao de como o jogo é executado em diferentes sistemas. Em troca, você já pode obter uma visualizaçao prévia do jogo. Lembre-se de que esta versao ainda está longe de ser uma versao final.\n\n<color=red>Você pode dar feedback no jogo pressionando F1 ou clicando no ícone de bug no canto superior esquerdo.</color>\n\nalém do que, existem ainda mais possibilidades de entrar em contato conosco.\n\n\\u2022 Visite nosso <u><link=”https://discordapp.com/invite/zj3cgj4”>Discord</link></u> para atualizaçoes e discussoes semanais\n\\u2022 Um tópico beta fechado especial na <u><link=”https://steamcommunity.com/app/933820/discussions/1/”>Steam</link></u>\n\\u2022 Envie-nos um email :  support@gentlymadstudios.com \n\\u2022 Dê uma olhada <u><link=”https://www.stomt.com/endzone”>Feedback</link></u>."
     },
     {
       "k": 1931,
@@ -7303,7 +7303,7 @@
     },
     {
       "k": 1944,
-      "v": "A reminder of human hubris. The people before us built these plants to ensure cheap energy, not caring about risk or taking long-term impacts into consideration. When it all spiraled out of control, these things brought death to millions. Almost two centuries later and it still emits Radiation. Better send a properly equipped Expedition if you don't want to risk adding to this thing's body count, chief."
+      "v": "A reminder of human hubris. The people before us built these plants to ensure cheap energy, not caring about risk or taking long-term impacts into consideration. When it all spiraled out of control, these things brought death to millions. Almost two centuries later and it still emits Radiaçao. Better send a properly equipped Expedition if you don't want to risk adding to this thing's body count, chief."
     },
     {
       "k": 1945,
@@ -7323,7 +7323,7 @@
     },
     {
       "k": 1949,
-      "v": "We managed to climb up a giant door and get in from there! Now we're standing in a control room, with the actual core beneath us. It's embedded in a pool of Water and, judging from the Geiger counter, still emitting Radiation like crazy..."
+      "v": "We managed to climb up a giant door and get in from there! Now we're standing in a control room, with the actual core beneath us. It's embedded in a pool of Água and, judging from the Geiger counter, still emitting Radiaçao like crazy..."
     },
     {
       "k": 1950,
@@ -7355,15 +7355,15 @@
     },
     {
       "k": 1957,
-      "v": "We were pulling some of the tubes and machinery out of the pool when one of us slipped and fell in the water! Even though we did manage to pull him out quickly, we'd still better watch if he displays any signs of the sickness. <<dynamicmessage>>"
+      "v": "We were pulling some of the tubes and machinery out of the pool when one of us slipped and fell in the água! Even though we did manage to pull him out quickly, we'd still better watch if he displays any signs of the sickness. <<dynamicmessage>>"
     },
     {
       "k": 1958,
-      "v": "Good thing we're all wearing Radiation Suits."
+      "v": "Good thing we're all wearing Radiaçao Suits."
     },
     {
       "k": 1959,
-      "v": "We were pulling some of the tubes and machinery out of the pool when one of us slipped and fell in the water! We managed to pull him out quickly but he lost consciousness. We're worried sick, it must've been a pretty heavy dose of Radiation! This one's on you, chief- why would you send us here without the right equipment?"
+      "v": "We were pulling some of the tubes and machinery out of the pool when one of us slipped and fell in the água! We managed to pull him out quickly but he lost consciousness. We're worried sick, it must've been a pretty heavy dose of Radiaçao! This one's on you, chief- why would you send us here without the right equipment?"
     },
     {
       "k": 1960,
@@ -7479,7 +7479,7 @@
     },
     {
       "k": 1988,
-      "v": "Ha! We knew this would be worthwhile, chief! They've stored a couple of Radiation Suits and Activated Carbon Masks in this room. They'll come in handy when we have to deal with areas contaminated with Radiation!\n"
+      "v": "Ha! We knew this would be worthwhile, chief! They've stored a couple of Radiaçao Suits and Activated Carbon Masks in this room. They'll come in handy when we have to deal with areas contaminated with Radiaçao!\n"
     },
     {
       "k": 1989,
@@ -7491,7 +7491,7 @@
     },
     {
       "k": 1991,
-      "v": "I guess we could keep going at it for hours, but we really shouldn't spend too much time here, not with the Radiation and whatever else..."
+      "v": "I guess we could keep going at it for hours, but we really shouldn't spend too much time here, not with the Radiaçao and whatever else..."
     },
     {
       "k": 1992,
@@ -7567,11 +7567,11 @@
     },
     {
       "k": 2010,
-      "v": "*humming* How much wood could a woodchuck chuck. If a woodchuck could chuck wood? As much wood as a woodchuck could chuck, If a woodchuck could chuck wood."
+      "v": "*humming* How much madeira could a woodchuck chuck. If a woodchuck could chuck madeira? As much madeira as a woodchuck could chuck, If a woodchuck could chuck madeira."
     },
     {
       "k": 2011,
-      "v": "Gee, chief, we really don't need that much Wood. Was that some kind of contest?"
+      "v": "Gee, chief, we really don't need that much Madeira. Was that some kind of contest?"
     },
     {
       "k": 2012,
@@ -7703,11 +7703,11 @@
     },
     {
       "k": 2051,
-      "v": "We found a skeleton in the midst of a pile of old whiskey and beer bottles, with empty food cans lying all around next to some sooty walls. The poor guy must've spent his last days here drinking and waiting for the inevitable. Guess only a lucky few made it to an Endzone. We'll take what's left in here and let those bones rest in peace."
+      "v": "We found a skeleton in the midst of a pile of old whiskey and beer bottles, with empty Comida cans lying all around next to some sooty walls. The poor guy must've spent his last days here drinking and waiting for the inevitable. Guess only a lucky few made it to an Endzone. We'll take what's left in here and let those bones rest in peace."
     },
     {
       "k": 2052,
-      "v": "We found a skeleton amidst a pile of old whiskey and beer bottles, with empty food cans all around next to some sooty walls. That poor sod must have spent his last days here drinking and waiting for the inevitable. Guess only a lucky few made it to an Endzone. <<dynamicmessage>> "
+      "v": "We found a skeleton amidst a pile of old whiskey and beer bottles, with empty Comida cans all around next to some sooty walls. That poor sod must have spent his last days here drinking and waiting for the inevitable. Guess only a lucky few made it to an Endzone. <<dynamicmessage>> "
     },
     {
       "k": 2053,
@@ -7831,7 +7831,7 @@
     },
     {
       "k": 2082,
-      "v": "Oh my god, it smells awful in here. The Water in the tanks is slimey and filled with algae, and the few Plants that are left are rotting away. No wonder, since only a few of the grow lights are still working, and the water pumps seem dead. <<dynamicmessage>>"
+      "v": "Oh my god, it smells awful in here. The Água in the tanks is slimey and filled with algae, and the few Plants that are left are rotting away. No wonder, since only a few of the grow lights are still working, and the água pumps seem dead. <<dynamicmessage>>"
     },
     {
       "k": 2083,
@@ -7839,7 +7839,7 @@
     },
     {
       "k": 2084,
-      "v": "Oh my god, it smells awful in here. The Water in the tanks is slimey and filled with algae, and the few Plants that are left are rotting away. No wonder, since only a few of the grow lights are still working, and the water pumps seem to have broken down. Let's get out of here."
+      "v": "Oh my god, it smells awful in here. The Água in the tanks is slimey and filled with algae, and the few Plants that are left are rotting away. No wonder, since only a few of the grow lights are still working, and the água pumps seem to have broken down. Let's get out of here."
     },
     {
       "k": 2085,
@@ -8075,11 +8075,11 @@
     },
     {
       "k": 2343,
-      "v": "Hey chief, remember what we learned in the Endzone: Basic needs come first! We have to build up a Water supply, to be able to stock up some water. Place and build a Cistern near a lake and your town center to establish a storage for water."
+      "v": "Hey chief, remember what we learned in the Endzone: Basic needs come first! We have to build up a Água supply, to be able to stock up some água. Place and build a Reservatório near a lake and your town center to establish a storage for água."
     },
     {
       "k": 2344,
-      "v": "Since we now have a Cistern, we can stock up water. But as the warning icon above the Cistern indicates, there is a water source building missing to complete a functioning water supply. Consider that the Cistern itself has a radius (AOE), in which every possible water source can be placed."
+      "v": "Since we now have a Reservatório, we can stock up água. But as the warning icon above the Reservatório indicates, there is a água source building missing to complete a functioning água supply. Consider that the Reservatório itself has a radius (AOE), in which every possible água source can be placed."
     }
   ]
 }
