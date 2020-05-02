@@ -811,7 +811,7 @@
     },
     {
       "k": 345,
-      "v": "Refinador"
+      "v": "Reciclador"
     },
     {
       "k": 346,
@@ -819,7 +819,7 @@
     },
     {
       "k": 347,
-      "v": "Chefe do bar"
+      "v": "Bartender"
     },
     {
       "k": 348,
@@ -835,7 +835,7 @@
     },
     {
       "k": 351,
-      "v": "Guarda Florestal"
+      "v": "Coletor de Madeira"
     },
     {
       "k": 352,
@@ -863,7 +863,7 @@
     },
     {
       "k": 949,
-      "v": "Chefe do poço"
+      "v": "Operador de água"
     },
     {
       "k": 978,
@@ -1191,7 +1191,7 @@
     },
     {
       "k": 417,
-      "v": "Resources"
+      "v": "Utilidades"
     },
     {
       "k": 418,
@@ -1571,7 +1571,7 @@
     },
     {
       "k": 466,
-      "v": "Tasks"
+      "v": "Tarefas"
     },
     {
       "k": 467,
@@ -2755,19 +2755,19 @@
     },
     {
       "k": 581,
-      "v": "Homeless Settlers"
+      "v": "Colonos sem casa"
     },
     {
       "k": 582,
-      "v": "Contaminated Settlers"
+      "v": "Colonos contaminados"
     },
     {
       "k": 583,
-      "v": "Settlers in poor Health"
+      "v": "Colonos com problemas de saúde"
     },
     {
       "k": 584,
-      "v": "Unhappy Settlers"
+      "v": "Colonos infelizes"
     },
     {
       "k": 585,
@@ -2779,15 +2779,15 @@
     },
     {
       "k": 587,
-      "v": "Hungry Settlers"
+      "v": "Colonos famintos"
     },
     {
       "k": 588,
-      "v": "Thirsty Settlers"
+      "v": "Colonos sedentos"
     },
     {
       "k": 589,
-      "v": "Low Comida reserves"
+      "v": "Reservas baixas de alimentos..."
     },
     {
       "k": 590,
@@ -3099,7 +3099,7 @@
     },
     {
       "k": 2250,
-      "v": "Waiting for free Scouts"
+      "v": "Esperando Escoteiros"
     },
     {
       "k": 1063,
@@ -3879,23 +3879,23 @@
     },
     {
       "k": 1085,
-      "v": "Expedition to"
+      "v": "Expedição para"
     },
     {
       "k": 1087,
-      "v": "Scouting Mission to"
+      "v": "Missão de expedição para"
     },
     {
       "k": 1115,
-      "v": "Expedition Capacity"
+      "v": "Capacidade de expedição"
     },
     {
       "k": 1620,
-      "v": "Instruct"
+      "v": "Instruir"
     },
     {
       "k": 1621,
-      "v": "Cancel Expedition"
+      "v": "Cancelar Expedição"
     },
     {
       "k": 2259,
@@ -4151,19 +4151,19 @@
     },
     {
       "k": 728,
-      "v": "Housing"
+      "v": "Alojamentos"
     },
     {
       "k": 729,
-      "v": "Community"
+      "v": "Comunidade"
     },
     {
       "k": 730,
-      "v": "Electricity"
+      "v": "Eletricidade"
     },
     {
       "k": 731,
-      "v": "Logistics"
+      "v": "Logistica"
     },
     {
       "k": 735,
@@ -4247,7 +4247,7 @@
     },
     {
       "k": 784,
-      "v": "This site looks promising, but the radar doesn't show what exactly we’re dealing with yet, chief. We should send one of our scouts to check out the place first - and when we know what we’ll be dealing with, we can start an expedition this way."
+      "v": "Este site parece promissor, mas o radar não mostra exatamente com o que estamos lidando ainda, chefe. Deveríamos enviar um de nossos batedores para verificar o local primeiro e, quando soubermos com o que vamos lidar, podemos iniciar uma expedição dessa maneira."
     },
     {
       "k": 2264,
@@ -4339,7 +4339,7 @@
     },
     {
       "k": 830,
-      "v": "Ruínas de uma casa"
+      "v": "Casa em ruínas"
     },
     {
       "k": 831,
@@ -4347,15 +4347,15 @@
     },
     {
       "k": 852,
-      "v": "Train Wreck"
+      "v": "Trem destruido"
     },
     {
       "k": 871,
-      "v": "Truck Wreck"
+      "v": "Carreta destruida"
     },
     {
       "k": 853,
-      "v": "Wind Turbine Ruin"
+      "v": "Turbina eólica em ruínas"
     },
     {
       "k": 864,
@@ -4367,15 +4367,15 @@
     },
     {
       "k": 866,
-      "v": "Crashed Plane"
+      "v": "Avião destruido"
     },
     {
       "k": 867,
-      "v": "Ambulance Wreck"
+      "v": "Ambulancia destruida"
     },
     {
       "k": 868,
-      "v": "Electric Power Pole"
+      "v": "Torre de alta tensao"
     },
     {
       "k": 869,
@@ -4383,11 +4383,11 @@
     },
     {
       "k": 863,
-      "v": "Crashed Satellite"
+      "v": "Satellite destruido"
     },
     {
       "k": 872,
-      "v": "Gas Station Ruin"
+      "v": "Posto de gasolina em ruínas"
     },
     {
       "k": 873,
@@ -4395,11 +4395,11 @@
     },
     {
       "k": 2220,
-      "v": "Military Base"
+      "v": "Base militar"
     },
     {
       "k": 2221,
-      "v": "Crashed Drone"
+      "v": "Drone destruido"
     },
     {
       "k": 2222,
@@ -4407,7 +4407,7 @@
     },
     {
       "k": 2223,
-      "v": "Factory"
+      "v": "Fábrica"
     },
     {
       "k": 2224,
@@ -4431,7 +4431,7 @@
     },
     {
       "k": 2228,
-      "v": "Fast Comida Restaurant"
+      "v": "Ruínas de um restaurante"
     },
     {
       "k": 2229,
@@ -4443,7 +4443,7 @@
     },
     {
       "k": 870,
-      "v": "Interesting Location"
+      "v": "Localização Interessante"
     },
     {
       "k": 874,
@@ -4479,7 +4479,7 @@
     },
     {
       "k": 837,
-      "v": "Build additional Houses or Shelters."
+      "v": "Construa cabanas."
     },
     {
       "k": 838,
@@ -4503,11 +4503,11 @@
     },
     {
       "k": 843,
-      "v": "Focus on accumulating Comida."
+      "v": "Colete comida."
     },
     {
       "k": 844,
-      "v": "Focus on accumulating Água."
+      "v": "Colete água."
     },
     {
       "k": 845,
