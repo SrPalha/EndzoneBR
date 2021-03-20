@@ -3759,15 +3759,15 @@
     },
     {
       "k": 1749,
-      "v": "New Graphics Settings have been applied."
+      "v": "Novas configurações gráficas aplicadas."
     },
     {
       "k": 1752,
-      "v": "Do you really want to start the Tutorial? This will end your current game session. All unsaved progress will be lost!"
+      "v": "Você realmente quer iniciar o Tutorial? Isso irá terminar com a sessão atual de jogo. Todo o progresso não salvo será perdido !"
     },
     {
       "k": 2166,
-      "v": "Do you really want to cancel the current Expedition?"
+      "v": "Você realmente quer cancelar a expedição atual ?"
     },
     {
       "k": 2313,
@@ -3775,71 +3775,71 @@
     },
     {
       "k": 627,
-      "v": "Settler is suffering from: <<diseaseName>>"
+      "v": "Colonizador está sofrendo de: <<diseaseName>>"
     },
     {
       "k": 628,
-      "v": "Severe Illness"
+      "v": "Doença Grave"
     },
     {
       "k": 629,
-      "v": "Moderately Severe Illness"
+      "v": "Doença Moderadamente Grave"
     },
     {
       "k": 630,
-      "v": "Minor Illness"
+      "v": "Doença De Menor Gravidade"
     },
     {
       "k": 631,
-      "v": "Maximum No. of Inhabitants: <<settlerAmount>>"
+      "v": "Número Máximo de Habitantes: <<settlerAmount>>"
     },
     {
       "k": 1056,
-      "v": "Maximum No. of Inhabitants: <<adultsAmount>> Adultos and <<CriançaAmount>> Crianças."
+      "v": "Número Máximo de Habitantes: <<adultsAmount>> Adultos e <<CriançaAmount>> Crianças."
     },
     {
       "k": 824,
-      "v": "This Building is influenced by the soil irrigation level"
+      "v": "Essa construção é influênciada pelo nível de irrigação do solo"
     },
     {
       "k": 632,
-      "v": "Requires: <<requirements>>"
+      "v": "Requer: <<requirements>>"
     },
     {
       "k": 879,
-      "v": "Does not function during a drought"
+      "v": "Não funciona durante uma seca"
     },
     {
       "k": 888,
-      "v": "Refinery needed to produce this Resource"
+      "v": "Uma Refinaria é requerida para produzir esse recurso"
     },
     {
       "k": 633,
-      "v": "or"
+      "v": "ou"
     },
     {
       "k": 634,
-      "v": "and"
+      "v": "e"
     },
     {
       "k": 635,
-      "v": "Expedition"
+      "v": "Expedição"
     },
     {
       "k": 636,
-      "v": "Recruitment"
+      "v": "Recrutamento"
     },
     {
       "k": 637,
-      "v": "Assigned Explorers"
+      "v": "Exploradores Designados"
     },
     {
       "k": 638,
-      "v": "Auxiliary Aids"
+      "v": "Auxiliares"
     },
     {
       "k": 639,
-      "v": "Equipment"
+      "v": "Equipamento"
     },
     {
       "k": 640,
@@ -3847,31 +3847,31 @@
     },
     {
       "k": 641,
-      "v": "<<amount>> available"
+      "v": "<<amount>> disponível"
     },
     {
       "k": 642,
-      "v": "Start Expedition"
+      "v": "Iniciar Expedição"
     },
     {
       "k": 643,
-      "v": "Configure Expedition"
+      "v": "Configurar Expedição"
     },
     {
       "k": 644,
-      "v": "! ! ! Overloaded ! ! !"
+      "v": "! ! ! Sobrecarregado ! ! !"
     },
     {
       "k": 790,
-      "v": "Discovered"
+      "v": "Descoberto"
     },
     {
       "k": 800,
-      "v": "Send Scout"
+      "v": "Enviar Batedor"
     },
     {
       "k": 1023,
-      "v": "Estimated travel time to reach this location (round-trip)"
+      "v": "Tempo estimado de viagem para alcançar esse local (round-trip)"
     },
     {
       "k": 1024,
