@@ -8,5 +8,4 @@ e jogue o arquivo English.json dentro da pasta.]
 O default.json SÃO NOMES DOS PERSONAGEMS NO JOGO CASO QUEIRA INSTALAR TAMBÉM;
 C:\Program Files (x86)\Steam\steamapps\common\Endzone - A World Apart\Endzone_Data\StreamingAssets\SettlerNames
 
-DISCORD BR: https://discord.gg/pUVTfUa
-DISCORD OFICIAL: https://discord.gg/HF7SaH7
+atualizado para ultima versão by jchiavellibr
